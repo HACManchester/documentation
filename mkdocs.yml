@@ -1,0 +1,5 @@
+site_name: Hackspace Manchester Documentation
+site_url: https://docs.hacman.org.uk
+repo_url: https://github.com/HACManchester/documentation/
+theme:
+ name: material

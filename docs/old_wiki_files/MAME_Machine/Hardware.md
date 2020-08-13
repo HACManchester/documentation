@@ -1,0 +1,1 @@
+1.  REDIRECT [MAME_Machine](MAME_Machine "wikilink")

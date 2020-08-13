@@ -1,0 +1,1 @@
+1.  REDIRECT [:Category:Teams](:Category:Teams "wikilink")

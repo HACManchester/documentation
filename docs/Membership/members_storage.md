@@ -13,9 +13,9 @@ If you no longer need your members storage space or you are leaving the hackspac
 ![enter image description here](https://docs.hacman.org.uk/images/member_storage_3.png)  
 **If you are currently violating member storage rules by having more than one cube or 1/2 a shelf please ensure you rectify this as you might otherwise find your stuff is moved so members without spaces can claim a space**
 
-## Member’s Storage Guidelines
+## Members Storage Guidelines
 
-### Member’s Storage
+### Members Storage
 
 The Member’s storage area is available for members to store projects they are currently working on along with raw materials. We have limited space, so please consider if something needs to be in the space before storing it.
 

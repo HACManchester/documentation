@@ -5,8 +5,8 @@ The current list of PPE and Fire Supplies that the Space provides is below.
 Any changes to this list should be approved by the Health & Safety Sub Committee 
 
 
-| PPE                           |
-| ----------------------------- |
+## PPE
+
 | MetalWorking                  | WoodWorking | Visual Arts | Electronics | General Area |
 | Safety Glasses - Normal       | Safety Glasses - Normal | Nitrle Gloves | In Case of Electric Shock Poster | Nitrle Gloves |
 | Safety Glasses - Over Glasses | Safety Glasses - Over Spectacles | P3 Masks |  | Hair bobbles |
@@ -18,7 +18,9 @@ Any changes to this list should be approved by the Health & Safety Sub Committee
 | Ear Defenders                 | Hair boobles |  |  |  |
 | Welding Gloves                |  |  |  |  |
 | Hair bobbles                  |  |  |  |  |
-| Fire Extingushers             |
+
+## Fire Supplies
+
 | MetalWorking                  | WoodWorking | Visual Arts | Electronics | General Area |
 |                               |  |  |  |  |
 | Dry Powder x3 ABC(D)          | Dry Powder x 2 | Dry Powder (ABC) | Dry Powder x 1 | Dry Powder x 3 |

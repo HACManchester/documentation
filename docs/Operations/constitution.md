@@ -1,6 +1,9 @@
-# Manchester Makers Ltd
 
-## Articles of Association
+# Constitution
+
+## Manchester Makers Ltd
+
+### Articles of Association
 
 #### Interpretation
 

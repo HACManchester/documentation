@@ -63,7 +63,7 @@
     modification or re-enactment of it for the time being in force.
 
   ####  Liability of Members
-    ====================
+  
 
 2.  The liability of the members is limited to £1, being the amount that
     each member undertakes to contribute to the assets of the
@@ -79,7 +79,7 @@
     3.  adjustment of the rights of the contributories among themselves.
 
 ####    Objects
-    =======
+
 
 3.  The objects of the association are:
 
@@ -90,7 +90,7 @@
         in Greater Manchester.
 
 ####    Powers
-    ======
+
 
 4.  The association has power to do anything which is calculated to
     further its Objects or is conducive or incidental to doing so. In
@@ -133,7 +133,7 @@
         and registering the association;
 
 ####    Application of Income and Property
-    ==================================
+
 
 5.  [cls:income-property]
 
@@ -164,7 +164,7 @@
             supplied to the association.
 
 ####    Members
-    =======
+
 
 6.  [cls:subscribers]
 
@@ -200,7 +200,7 @@
         members.
 
 ####    Termination of Membership
-    =========================
+
 
 7.  Membership is terminated if:
 
@@ -227,7 +227,6 @@
             has been allowed to make representations to the meeting.
 
 ####    General Meetings
-    ================
 
 8.  The Board may convene a General Meeting whenever they think fit.
 
@@ -235,8 +234,7 @@
     default may be convened by such requisitionists, as provided by
     section 304 of the Companies Act 2006.
 
-    Notice of General Meetings
-    ==========================
+####    Notice of General Meetings
 
 10. 1.  The minimum periods of notice required to hold a general meeting
         of the association are:
@@ -267,7 +265,6 @@
     receive it because of an accidental omission by the association.
 
     Proceedings at General Meetings
-    ===============================
 
 12. 1.  No business shall be transacted at any general meeting unless a
         quorum is present.
@@ -386,7 +383,6 @@
             any other business that may be conducted at the meeting.
 
 ####    Content of Proxy Notices
-    ========================
 
 17. [proxies]
 
@@ -428,7 +424,7 @@
             well as the meeting itself.
 
 ####    Delivery of Proxy Notices
-    =========================
+
 
 18. 1.  A person who is entitled to attend, speak or vote (either on a
         show of hands or on a poll) at a general meeting remains so
@@ -451,7 +447,7 @@
         appointor’s behalf.
 
  ####   Written Resolutions
-    ===================
+
 
 19. 1.  A resolution in writing agreed by a simple majority (or in the
         case of a special resolution by a majority of not less than 75%)
@@ -477,7 +473,7 @@
         representative may signify its agreement.
 
  ####   Votes of Members
-    ================
+
 
 20. Every member, whether an individual or an organisation, shall have
     one vote.
@@ -504,7 +500,7 @@
         representative has been properly appointed by the organisation.
 
  ####   Directors
-    =========
+ 
 
 23. 1.  A director must be a natural person aged 16 years or older. No
         one may be appointed a director if he or she would be
@@ -521,7 +517,7 @@
         act on his or her behalf at meetings of the directors.
 
 ####    Powers of Directors
-    ===================
+
 
 24. 1.  The directors shall manage the business of the association and
         may exercise all the powers of the association unless they are
@@ -537,7 +533,7 @@
         exercisable by the directors.
 
 ####    Directors Elections
-    ===================
+
 
 25. 1.  Directors elections must be called by the Board
 
@@ -575,7 +571,6 @@
         electronic mail address with the association.
 
  ####   Retirement of Directors
-    =======================
 
 26. 1.  At the first directors election, all the directors must retire
         from office unless the election fails to elect sufficient
@@ -595,7 +590,7 @@
     4.  Retiring directors may stand for re-election.
 
  ####   Appointment of Directors
-    ========================
+
 
 27. The association may by ordinary resolution:
 
@@ -639,7 +634,7 @@
         rotation.
 
   ####  Disqualification and Removal of Directors
-    =========================================
+
 
 31. [director-cease] A director shall cease to hold office if he or she:
 
@@ -660,13 +655,12 @@
         directors resolve that his or her office be vacated.
 
  ####   Remuneration of Directors
-    =========================
+
 
 32. The directors must not be paid any remuneration unless it is
     authorised by article [cls:income-property].
 
  ####   Proceedings of Directors
-    ========================
 
 33. 1.  The Directors may from time to time specify a web based system
         (“the Governance System”) for recording and managing their
@@ -758,7 +752,7 @@
             in accordance with section 248 of the Companies Act 2006.
 
  ####   Delegation
-    ==========
+
 
 37. 1.  The directors may delegate any of their powers or functions to a
         committee of two or more directors but the terms of any
@@ -780,7 +774,7 @@
         promptly reported to the directors.
 
   ####  Declaration of Directors’ Interests
-    ===================================
+
 
 38. [directors-interests] A director must declare the nature and extent
     of any interest, direct or indirect, which he or she has in a
@@ -793,7 +787,7 @@
     (including but not limited to any personal financial interest).
 
  ####   Conflicts of Interests
-    ======================
+
 
 39. 1.  If a conflict of interests arises for a director because of a
         duty of loyalty owed to another organisation or person and the
@@ -820,7 +814,7 @@
         director.
 
  ####   Validity of Directors’ Decisions
-    ================================
+
 
 40. 1.  [directors-validity] Subject to article
         [directors-validity-void], all acts done by a meeting of
@@ -849,7 +843,6 @@
         complied with article [directors-interests].
 
  ####   Minutes
-    =======
 
 41. The directors must keep minutes of all:
 
@@ -866,7 +859,6 @@
         3.  where appropriate the reasons for the decisions.
 
   ####  Accounts
-    ========
 
 42. 1.  The directors must prepare for each financial year accounts as
         required by the Companies Acts. The accounts must be prepared to
@@ -879,7 +871,7 @@
         Companies Acts.
 
 ####    Means of Communication to be Used
-    =================================
+    
 
 43. 1.  Subject to the articles, anything sent or supplied by or to the
         association under the articles may be sent or supplied in any
@@ -942,7 +934,7 @@
             after it was sent.
 
   ####  Indemnity
-    =========
+    
 
 48. [cls:directors-indemnity]
 
@@ -954,7 +946,7 @@
         former director of the association.
 
   ####  Rules
-    =====
+    
 
 49. 1.  The directors may from time to time make such reasonable and
         proper rules or bye laws as they may deem necessary or expedient
@@ -995,7 +987,7 @@
         shall affect or repeal anything contained in, the articles.
 
  ####   Disputes
-    ========
+    
 
 50. If a dispute arises between members of the company about the
     validity or propriety of anything done by the members of the company
@@ -1004,7 +996,7 @@
     to settle the dispute by mediation before resorting to litigation.
 
  ####   Dissolution
-    ===========
+    
 
 51. 1.  [dissolve-transfer] The members of the association may at any
         time before, and in expectation of, its dissolution resolve that

@@ -7,17 +7,18 @@ Any changes to this list should be approved by the Health & Safety Sub Committee
 
 ## PPE
 
-| MetalWorking                  | WoodWorking | Visual Arts | Electronics | General Area |
-| Safety Glasses - Normal       | Safety Glasses - Normal | Nitrle Gloves | In Case of Electric Shock Poster | Nitrle Gloves |
-| Safety Glasses - Over Glasses | Safety Glasses - Over Spectacles | P3 Masks |  | Hair bobbles |
-| Grinding Goggles              | Face Shields | Heat Proof Gloves (Woven) |  |  |
-| P3 Masks                      | Ear Defenders | Cut Resistant Gloves |  |  |
-| Nitrle Gloves                 | Aprons | Hair Bobbles |  |  |
-| Aprons                        | Nitrle Gloves |  |  |  |
-| Welding Helments              | Woodworking Gloves |  |  |  |
-| Ear Defenders                 | Hair boobles |  |  |  |
-| Welding Gloves                |  |  |  |  |
-| Hair bobbles                  |  |  |  |  |
+| MetalWorking                  | WoodWorking                      | Visual Arts               | Electronics                      | General Area  |
+|-------------------------------|----------------------------------|---------------------------|----------------------------------|---------------|
+| Safety Glasses - Normal       | Safety Glasses - Normal          | Nitrle Gloves             | In Case of Electric Shock Poster | Nitrle Gloves |
+| Safety Glasses - Over Glasses | Safety Glasses - Over Spectacles | P3 Masks                  |                                  | Hair bobbles  |
+| Grinding Goggles              | Face Shields                     | Heat Proof Gloves (Woven) |                                  |               |
+| P3 Masks                      | Ear Defenders                    | Cut Resistant Gloves      |                                  |               |
+| Nitrle Gloves                 | Aprons                           | Hair Bobbles              |                                  |               |
+| Aprons                        | Nitrle Gloves                    |                           |                                  |               |
+| Welding Helments              | Woodworking Gloves               |                           |                                  |               |
+| Ear Defenders                 | Hair boobles                     |                           |                                  |               |
+| Welding Gloves                |                                  |                           |                                  |               |
+| Hair bobbles                  |                                  |                           |                                  |               |
 
 ## Fire Supplies
 

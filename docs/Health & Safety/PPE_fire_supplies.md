@@ -22,14 +22,14 @@ Any changes to this list should be approved by the Health & Safety Sub Committee
 
 ## Fire Supplies
 
-| MetalWorking                  | WoodWorking | Visual Arts | Electronics | General Area |
-|                               |  |  |  |  |
-| Dry Powder x3 ABC(D)          | Dry Powder x 2 | Dry Powder (ABC) | Dry Powder x 1 | Dry Powder x 3 |
-|                               | Foam/Water Spray | CO2 Laser |  |  |
-| Other                         |
-| First aid Kit                 | First Aid Kit | First Aid Kit | First Aid Kit |  |
-| Chemical Spill Kit            | Eye Wash Station | Eye Wash Station | Eye Wash Station |  |
-| Burn Kit                      |  | Burn Kit |  |  |
-| Eye Wash Station              |  | Chemical Spill Kit |  |  |
-|                               |  |  |  |
-
+| MetalWorking         | WoodWorking      | Visual Arts        | Electronics      | General Area   |
+|----------------------|------------------|--------------------|------------------|----------------|
+|                      |                  |                    |                  |                |
+| Dry Powder x3 ABC(D) | Dry Powder x 2   | Dry Powder (ABC)   | Dry Powder x 1   | Dry Powder x 3 |
+|                      | Foam/Water Spray | CO2 Laser          |                  |                |
+| Other                |                  |                    |                  |                |
+| First aid Kit        | First Aid Kit    | First Aid Kit      | First Aid Kit    |                |
+| Chemical Spill Kit   | Eye Wash Station | Eye Wash Station   | Eye Wash Station |                |
+| Burn Kit             |                  | Burn Kit           |                  |                |
+| Eye Wash Station     |                  | Chemical Spill Kit |                  |                |
+|                      |                  |                    |                  |                |

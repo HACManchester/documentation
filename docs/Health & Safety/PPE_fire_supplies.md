@@ -33,3 +33,13 @@ Any changes to this list should be approved by the Health & Safety Sub Committee
 | Burn Kit             |                  | Burn Kit           |                  |                |
 | Eye Wash Station     |                  | Chemical Spill Kit |                  |                |
 |                      |                  |                    |                  |                |
+
+## First Aid Supplies
+
+| MetalWorking         | WoodWorking      | Visual Arts        | Electronics      | General Area   |
+|----------------------|------------------|--------------------|------------------|----------------|
+| First aid Kit        | First Aid Kit    | First Aid Kit      | First Aid Kit    |                |
+| Chemical Spill Kit   | Eye Wash Station | Eye Wash Station   | Eye Wash Station |                |
+| Burn Kit             |                  | Burn Kit           |                  |                |
+| Eye Wash Station     |                  | Chemical Spill Kit |                  |                |
+|                      |                  |                    |                  |                |

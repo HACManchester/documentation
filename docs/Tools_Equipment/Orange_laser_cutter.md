@@ -18,16 +18,16 @@ Top-level specifications:
 
 For vector editing and manipulation, we suggest people use Inkscape. It
 is a free and powerful vector editing package, and integrates well with
-Visicut. It can be downloaded from https://inkscape.org/release.
+Visicut. It can be downloaded from [the Inkscape release page](https://inkscape.org/release).
 
 ## Operating the laser cutter
 
 ### Visicut
 
 Visicut is the software that converts vector files into the code that
-drives the laser cutter. You can download Visicut from https://visicut.org/.
+drives the laser cutter. You can download Visicut from [https://visicut.org](https://visicut.org/).
 
-Some versions of VisiCut had issues on OSX; this is believed to be fixed, but if you see problems with it only redrawing when you resize the window, see https://github.com/t-oster/VisiCut/issues/171.
+Some versions of VisiCut had issues on OSX; this is believed to be fixed, but if you see problems with it only redrawing when you resize the window, see [this issue on GitHub](https://github.com/t-oster/VisiCut/issues/171).
 
 On first run, Visicut will ask if you want to download settings. You do,
 just select **Manchester, UK: Hackspace** from the list and Visicut will
@@ -37,11 +37,11 @@ the menu item **Options > Settings > Download Recommended
 Settings**. You may get an error message, *error importing settings*. If
 this occurs, just close and reopen Visicut for the settings to apply.
 
-Once you have Visicut and Inkscape installed, and have run Inkscape at
+If you have Visicut and Inkscape installed, and have run Inkscape at
 least once (so it creates its folders in your home drive), You can
 install the Inkscape addon for Visicut by clicking **Extras > Install
 Inkscape Extension** in Visicut. Close and reopen Inkscape and you
-should have new options for sending vectors directly to Visicut.
+should have new options for sending vectors directly to Visicut. This isn't necessary to use the laser, but may be helpful.
 
 ### Safety
 
@@ -79,7 +79,7 @@ With the orange laser the only thing to worry about is the Z axis. There
 is a switch on the right hand side of the machine that can be used to
 lower or raise the main bed of the machine. It's a bit slow, but make
 sure not to crash the bed into the laser head, since there isn't a limit
-switch installed
+switch installed.
 
 There is a small wooden guide inside the machine that can be used to
 position / zero the height against the bed (the default position). This
@@ -104,7 +104,7 @@ in the following photo:
 ### Test the Laser positioning
 
 Next we're going to do a boundary test to make sure the laser cutter is
-working on the area we think it's going to
+working on the area we think it's going to:
 
 -   Click Execute in Visicut
 -   Wait for the small LCD on the Cutter it to say the file name
@@ -117,7 +117,7 @@ working on the area we think it's going to
 
 ### Do the cut
 
-At this stage you should now be ready to do the cut for real
+At this stage you should now be ready to do the cut for real.
 
 -   Make sure the lid is closed, The laser won't fire with it open.
 -   Check the coolant pump is still working and the temperature is below 25.
@@ -131,7 +131,7 @@ At this stage you should now be ready to do the cut for real
 
 -   There is a log book for keeping track of usage of the laser. Please write down your name and the length of time you've used the laser for in the front of the book.
 -   The laser is currently billed by 10 minute or 1 hour increments, with the rate written on the laser cutter.
--   Laser fees can be paid in cash into a box near the laser, which should be clearly marked, or from your member balance at https://members.hacman.org.uk/equipment/laser.
+-   Laser fees can be paid in cash into a box near the laser, which should be clearly marked, or from your member balance at [the members' system laser page](https://members.hacman.org.uk/equipment/laser).
 -   If you owe the laser fund money or have some credit (e.g. have paid with a £10 note and only used £3) record your balance at the back of the log book.
 
 ## Materials that can be used
@@ -140,4 +140,4 @@ TBC
 
 ## Status
 
-Status can be seen on the members page at https://members.hacman.org.uk/equipment/laser. If there is a notice on the laser itself saying it is out of order, that takes priority.
+Status can be seen on the members page at [the members' system laser page](https://members.hacman.org.uk/equipment/laser). If there is a notice on the laser itself saying it is out of order, that takes priority.

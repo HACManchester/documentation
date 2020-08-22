@@ -1,3 +1,5 @@
+# Angle Grinder
+
 ![](Angle_Grinder.jpeg "Angle_Grinder.jpeg")
 
 We have an angle grinder in the workshop. This is used for making cuts

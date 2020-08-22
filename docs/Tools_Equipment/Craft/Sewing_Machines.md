@@ -1,10 +1,11 @@
+# Sewing Machines
+
 Currently, we have a Lervia 564 sewing machine, and a Singer 4423 Heavy
 Duty machine arriving soon. Users that are not competent at using a
 machine are required to take an induction, as much for the machine's
 safety, and that of your fabric, as your own.
 
-Lervia 564 sewing machine
--------------------------
+## Lervia 564 sewing machine
 
 A LIDL-bought sewing machine, fairly basic, and usable - a good starting
 machine.
@@ -13,8 +14,7 @@ machine.
 
 ![<File:Lervia564manual.pdf>](Lervia564manual.pdf "File:Lervia564manual.pdf")
 
-Singer 4423 Heavy Duty
-----------------------
+## Singer 4423 Heavy Duty
 
 This machine is a heavy-duty machine, and is more of an 'advanced' user
 machine. Some reviews quote it as going through upto eight layers of

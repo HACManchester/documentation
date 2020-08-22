@@ -1,11 +1,11 @@
-Ownership
----------
+# Lathe Myford ML7
+
+## Ownership
 
 The Myford ML 7 is on loan on a (hopefully) permanent basis from Steve.
 As such, treat the machine with respect and do not abuse/mistreat it.
 
-About
------
+## About
 
 The Myford ML 7 lathe was manufactured in the 1940's as a light
 machining and model lathe. The lathe has the space to take a roughly 5"
@@ -14,27 +14,26 @@ diameter by 20" length piece of work (*double check actual sizes*).
 This machine is ONLY for metalwork, and should only be used by people
 who have been trained.
 
-Usage
------
+## Usage
 
--   When first starting to use the lathe, the oil containers on top need
+  - When first starting to use the lathe, the oil containers on top need
     to be turned a quarter turn to undo them to let the oil start to
     flow. These need to be closed off after you have finished using the
     lathe
--   There are 13 points that need to be oiled (16 on the diagram), place
+  - There are 13 points that need to be oiled (16 on the diagram), place
     the can with a black tip of the metal bottle onto each point with a
     single squeeze to force oil into these points
 
-Lathe Tour
-----------
+
+## Lathe Tour
 
 A Brief outline of the different part names of a Lathe, and what they
 are (generally) used for.
 
 *needs more info*
 
-Safety Precautions
-------------------
+
+## Safety Precautions
 
 Please follow these safety precautions when using this machine, and
 again, **DO NOT operate this machine if you have not been trained, or do
@@ -69,15 +68,15 @@ first.
 <img src="Myford_ml7_lathe_oiling_diagram.jpg" title="Myford_ml7_lathe_oiling_diagram.jpg" width="250" alt="Myford_ml7_lathe_oiling_diagram.jpg" /><figcaption aria-hidden="true">Myford_ml7_lathe_oiling_diagram.jpg</figcaption>
 </figure>
 
-Maintanance
------------
 
--   Ensure the oilers are kept topped up, and opened when the lathe is
+## Maintanance
+
+  - Ensure the oilers are kept topped up, and opened when the lathe is
     in use
--   Oil all oiling points regularly - see the diagram on the right.
+  - Oil all oiling points regularly - see the diagram on the right.
 
-Induction
----------
+
+## Induction
 
 Inductions are now available - please contact Greg Morris
 (mail_hmlathe@gregm.co.uk) with the following information:
@@ -104,14 +103,13 @@ Other skills will be taught upon request - this can either be on
 material supplied by the trainee (a project, for example), or the
 material can be supplied by the space for a small fee.
 
-Manual
-------
+
+## Manual
 
 ![<File:MyfordML7Manual.pdf>](MyfordML7Manual.pdf "fig:File:MyfordML7Manual.pdf")
 Purely the basic factory manual.
 
-Risk Assessment
----------------
+## Risk Assessment
 
 [Category:Equipment](Category:Equipment "wikilink")
 [Category:Bloody_dangerous_equipment](Category:Bloody_dangerous_equipment "wikilink")

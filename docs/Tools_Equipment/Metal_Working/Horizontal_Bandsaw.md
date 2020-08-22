@@ -1,33 +1,33 @@
+# Horizontal Bandsaw
+
 The bandsaw is a Clarke CBS45M, a convertable horizontal / vertical
 bandsaw, designed for cutting metal bar, rod and tube down to length. It
 has a 1/2hp 370w motor, and is commonly fitted with a 14TPI blade.
 
 [CBS45M Manual](Media:CBS45MD_Bandsaw_rev_4.pdf "wikilink")
 
-Status
-------
+## Status
 
 The bandsaw is now operational.
 There are however some additional things we can do under the TODO list
 For induction see Team:Metal
 
-Use
----
+## Use
 
 ### Rules for Use
 
--   DO NOT press down on the top of the saw while cutting, it will take
+  - DO NOT press down on the top of the saw while cutting, it will take
     a while. We can't risk burning out the motor again after it cost 90
     quids.
--   DO NOT leave the motor unattended, it is tempting because the saw
+  - DO NOT leave the motor unattended, it is tempting because the saw
     takes a while to get through steel, however if the motor catches /
     can't move then there's a risk again of damage to the motor.
--   DO NOT use the saw for cutting wood.
+  - DO NOT use the saw for cutting wood.
 
 Generally it's okay to block up the metal part being cut with a small
 block of wood underneath. Just try to avoid cutting any wood with it.
 
-### Tips
+## Tips
 
 I've found it's best to block up the metal part being cut underneath
 with a small block of wood. The saw will stop once it hits the red stop
@@ -37,8 +37,8 @@ slightly.
 Try to use some cutting fluid to help cutting, use a bucket underneath
 to catch the oil
 
-Maintenance
------------
+
+## Maintenance
 
 ### Motor
 

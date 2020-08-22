@@ -1,6 +1,8 @@
+# Mobile Compressor
+
 This 50l compressor runs at 8bar, and can run a variety of tools.
 
-### Documentation
+## Documentation
 
 [Sealey Compressor Manual](file:SealeyCompressorManual.pdf "wikilink")
 

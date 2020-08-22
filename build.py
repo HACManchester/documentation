@@ -55,7 +55,7 @@ class MkDocsBuild(object):
 
     def serve(self):
         print("Starting MkDocs Server http://127.0.0.1:8000")
-        cmdopts = ["mkdocs", "serve"]
+        cmdopts = ["mkdocs", "serve", "--livereload"]
         self.run_cmd(cmdopts, self.MKDOCSDIR)
         print ("Server Closed.")
 

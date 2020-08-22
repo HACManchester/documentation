@@ -2,21 +2,35 @@
 # Documentation
 
 This repo contains the official documentation for Hackspace Manchester. 
-
 All members can push edits or new documentation to this repo and it will automatically build and will be available at https://docs.hacman.org.uk
-
 This uses Github Actions and MKDocs
 
-## Build Process
+The syntax in use is markdown, for editing pages it is suggested to use an online markdown editor such as
+https://stackedit.io/app#
 
-### Automated Build
+## Tags
 
-For most folks they only want to add pages or images via Github so are not interested in how the main page is built.
-However for those interested the documentation pages are built into a site using mkdocs and the mkdocs material theme using a ci script
-[.github/workflows/ci.yml](.github/workflows/ci.yml)
+This repo now has support for tags within the documentation.
+To add a tag to a page as an example
 
-## Manual Build
+Add something like this to the top of the page to add a tag
+**docs/Tools_Equipment/Wood_Working/Table_Saw_ts2500.md**
+```
+---
+tags:
+  - Equipment
+---
+```
 
-If you want to experiment manually building the documentation for experimenting with plugins etc. There's a script in the root directory called **build.py** which can be used with python 3.8 / mkdocs / mkdocs material / any other plugins required.
+Next if the Tag is a new tag we need to create a page for it
+to show all pages that are a member of this tag
+**docs/tags/Equipment.md**
+```
+---
+pagetype: tagpage
+---
 
-There's also a **virtenv** directory that can be used to setup a virtual python environment.
+# Tag: Equipment
+
+Equipment related pages
+```

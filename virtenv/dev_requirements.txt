@@ -1,3 +1,6 @@
 # Depends
 mkdocs
 mkdocs-material
+
+# Tags for mkdocs
+git+https://github.com/srymh/MkdocsTagPlugin.git@ac1f02ba95527d11d84b5ec87f4e63851d57fc7d

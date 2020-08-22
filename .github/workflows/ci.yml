@@ -13,4 +13,5 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs
       - run: pip install mkdocs-material
+      - run: pip install git+https://github.com/srymh/MkdocsTagPlugin.git@ac1f02ba95527d11d84b5ec87f4e63851d57fc7d
       - run: mkdocs gh-deploy --force

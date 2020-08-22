@@ -1,3 +1,8 @@
+---
+tags:
+  - Equipment
+---
+
 # TableSaw -  ts 2500
 
 ## features

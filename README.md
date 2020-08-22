@@ -13,7 +13,7 @@ This uses Github Actions and MKDocs
 
 For most folks they only want to add pages or images via Github so are not interested in how the main page is built.
 However for those interested the documentation pages are built into a site using mkdocs and the mkdocs material theme using a ci script
-[.github\workflows\ci.yml](.github\workflows\ci.yml)
+[.github/workflows/ci.yml](.github/workflows/ci.yml)
 
 ## Manual Build
 

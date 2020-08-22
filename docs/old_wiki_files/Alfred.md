@@ -1,1 +1,0 @@
-1.  REDIRECT [A.L.FR.E.D](A.L.FR.E.D "wikilink")

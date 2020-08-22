@@ -57,6 +57,7 @@ should have new options for sending vectors directly to Visicut.
 -   If you can smother the fire in-place using a piece of stock, do so.
 -   If you can't smother it in place, put it on the floor and try to
     stomp it out.
+-   If the fire is in the laser and you can safely fight it use the CO2 extinghuser available next to the laser
 -   If you can't do either of these, leave the space immediately, and
     call 999. The address is Wellington House, Pollard Street,
     Manchester, M40 7FS

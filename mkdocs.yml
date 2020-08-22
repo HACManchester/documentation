@@ -6,3 +6,5 @@ theme:
  custom_dir: 'theme'
 plugins:
     - mdoctag
+    - search
+

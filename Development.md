@@ -7,6 +7,10 @@ The plugins in use include
   * [Material Theme for mkdocs](https://squidfunk.github.io/mkdocs-material/)
   * [MkdocsTagPlugin - Support for Tags](https://github.com/srymh/MkdocsTagPlugin)
 
+There is a full list of plugins here
+
+  * [Mkdocs Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
+
 ## Build System
 
 For most folks they only want to add pages or images via Github so are not interested in how the main page is built.
@@ -26,3 +30,17 @@ You can ether run
 
   * build.py serve
   * mkdocs serve --livereload
+
+## TODO
+
+### Tab Navigation
+
+Consider if we should enable Tab Navigation
+
+  * https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-tabs
+
+This puts the top level menu across the top
+
+### Other Plugins
+
+Look into any other plugins that might be of use

@@ -1,1 +1,0 @@
-1.  REDIRECT [Equipment Needed](Equipment_Needed "wikilink")

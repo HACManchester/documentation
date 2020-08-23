@@ -1,5 +1,7 @@
 # Consumables
 
+TODO merge this into the new consumables list
+
 These are items that the hackspace classes as consumables, and aims to keep in stock.
 We have a small budget for this so we encourage donations, and have donation jars around the space.
 

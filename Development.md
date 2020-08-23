@@ -19,6 +19,7 @@ The plugins in use include
 
   * [Material Theme for mkdocs](https://squidfunk.github.io/mkdocs-material/)
   * [MkdocsTagPlugin - Support for Tags](https://github.com/srymh/MkdocsTagPlugin)
+  * [Mkdocs Emailprotect - Additional protection for email address's against bots](https://github.com/rkoe/mkdocs-emailprotect)
 
 There is a full list of plugins here
 

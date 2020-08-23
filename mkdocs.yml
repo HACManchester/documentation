@@ -5,6 +5,6 @@ theme:
  name: material
  custom_dir: 'custom/theme'
 plugins:
-    - mdoctag
     - search
-
+    - mdoctag
+    - emailprotect

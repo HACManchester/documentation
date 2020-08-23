@@ -1,13 +1,18 @@
 site_name: Hackspace Manchester Documentation
 site_url: https://docs.hacman.org.uk
 repo_url: https://github.com/HACManchester/documentation/
+
 theme:
  name: material
  custom_dir: 'theme'
+
 plugins:
     - search
-    - mdoctag
     - emailprotect
+    - mdoctag:
+        tagpage_dir: 'tags'
+        data_filename: 'tags.json'
+
 markdown_extensions:
   - pymdownx.highlight:
       use_pygments: false

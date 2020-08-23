@@ -1,4 +1,4 @@
-# Tools & Equipment Induction
+# Induction - How To
 
 ## Equipment Inductions
 

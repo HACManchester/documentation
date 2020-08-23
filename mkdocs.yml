@@ -22,7 +22,7 @@ markdown_extensions:
 extra_javascript:
     # HighlightJS for coloring in code blocks - https://highlightjs.org/static/demo/
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js
-  - js/hljs/config.js
+  - assets/js/hljs/config.js
 extra_css:
     # HighlightJS for coloring in code blocks - https://highlightjs.org/static/demo/
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/atelier-dune-light.min.css

@@ -70,3 +70,12 @@ https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
     primary: 'Teal'
     accent: 'Amber'
 ```
+
+### Icons
+
+I'm not sure if to use the hackspace icons, if so maybe make the background transparent
+
+```
+  favicon: assets/favicon.png
+  logo: assets/logo-new-1.png
+```

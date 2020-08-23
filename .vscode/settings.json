@@ -1,0 +1,12 @@
+{
+    // Use python within the virtual environment
+    "python.pythonPath": "${workspaceFolder}/virtenv/py38dev/Scripts/python",
+    // Directory where the virtual environments are stored
+    "python.venvPath": "${workspaceFolder}/virtenv",
+
+
+    // Additional autocompletion search directories
+    "python.autoComplete.extraPaths": [
+        "./",
+    ],
+}

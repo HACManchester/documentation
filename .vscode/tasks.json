@@ -1,0 +1,31 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "mkdocs.exe build",
+            "options": {
+                "cwd": "${workspaceFolder}",
+                "env": {
+                    "PATH" : "${workspaceFolder}/virtenv/py38dev/Scripts"
+                }
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "serve",
+            "type": "shell",
+            "command": "mkdocs serve --livereload",
+            "options": {
+                "cwd": "${workspaceFolder}",
+                "env": {
+                    "PATH" : "${workspaceFolder}/virtenv/py38dev/Scripts"
+                }
+            },
+            "problemMatcher": []
+        }
+    ]
+}

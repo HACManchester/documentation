@@ -1,5 +1,18 @@
 # Development
 
+## VSCode
+
+For those interested in using git / Visual Studio Code instead of github
+you can double click on the **hacman_docs.code-workspace** file to open
+
+I'd recommend the following extensions
+
+  * https://github.com/yzhang-gh/vscode-markdown
+
+you can get a side by site markdown preview window by typing "preview" into the command palette
+As well as a couple of tasks for serving with livereload
+
+
 ## Plugins
 
 The plugins in use include

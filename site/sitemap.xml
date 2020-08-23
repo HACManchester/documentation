@@ -1,1091 +1,987 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://docs.hacman.org.uk/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Who_to_contact/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/adding_documentation/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/new_member_induction/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/space_to_do/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Health%20%26%20Safety/Health_%26_Safety_Policy/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Health%20%26%20Safety/PPE/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Health%20%26%20Safety/PPE_fire_supplies/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Health%20%26%20Safety/Safety_Rules_Condensed/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Health%20%26%20Safety/asbestos/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Membership/Consequences_and_Warnings/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Membership/Members_Survey_2019/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Membership/citizen_hacman_commitment/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Membership/members_storage/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Membership/rfid_setup/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Membership/user_guide/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Operations/Improve_Maintain_%26_Clean_the_space/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Operations/Snackspace_%26_Consumables/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Operations/boxes_of_shame/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Operations/constitution/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Operations/guests/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Operations/hack_the_space_days/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Operations/sub_committees/common_terms_of_reference/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Operations/sub_committees/finance_terms_of_reference/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Operations/sub_committees/health_safety_terms_of_reference/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Operations/sub_committees/infrastructure_terms_of_reference/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Operations/sub_committees/membership_terms_of_reference/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Operations/sub_committees/outreach_terms_of_reference/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Tools_Equipment/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/Orange_laser_cutter/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/Tools_Equipment/instruction_manuals/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/tool_induction_process/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/tool_out_of_order/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/tools_equipment_induction/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/CNC/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/Craft/Sewing_Machines/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/Craft/Vinyl_Cutter/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/Electronics/Reflow_Oven/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/Metal_Working/Angle_Grinder/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/Metal_Working/Horizontal_Bandsaw/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/Metal_Working/LargeMetal_Pillar_Drill/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/Metal_Working/Lathe_Myford_ML_7/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/Metal_Working/Mobile_Compressor/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/Wood_Working/Belt_Sander/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/Tools_Equipment/Wood_Working/Table_Saw_ts2500/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/infrastructure/nginx/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/infrastructure/overview/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/3D_Printer/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/oldpagelist/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/3D_Printers/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/3D_Printers/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/44_Edge_Street/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Bandsaw/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/44_Edge_Street_Exit_procedures/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Bench_Grinder/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/A.L.FR.E.D/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Bench_Sander/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/AW_Light_Tank/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Biscuit_Jointer/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Abakhan_Fabrics/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Alfred/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Angle_Grinder/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Arduino_Kit/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/B-MO_Mk.I/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/B-MO_Mk.II/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/B-MO_Mk.III/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Bandsaw/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Bans_and_Suspensions/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/BeamForge/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Belt_Sander/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Bench_Grinder/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Bench_Sander/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Bin_Conveyor/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Biscuit_Jointer/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Book_Safes/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Broadstone_Mill_Hackspace/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/CNC_Shapeoko/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Code_of_Conduct/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Compressor/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Consumables/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Craftspace/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/DIYBIO_PCR_Thermocycler/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/DIY_CNC/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/DIY_Laser_Cutter/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/DeltaBanker/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Discourse/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Donation_Box/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Dynamic_controls_motor_controller/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/EMFcamp_2014/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Election2017/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Election2018/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Electrolysis_Derust/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Electronics_Bits/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Electronics_Tools_Wishlist/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Electrospace/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Entry_System/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment_Needed/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Feedprinter/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Frank/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Fred_Aldous/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Fretsaw/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Giant_Operation_Game/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Gibson/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/HACCESS/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/HACMan/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/HACMan_History/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/HACMan_Service_Kiosk/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Habari_URL_Bounce/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Hack_the_space_day/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackscreen/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace_Door_Control/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace_Rules/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace_Teams/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Horizontal_Bandsaw/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/How-to_pcb/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/IRC_URLs/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Instant_TV_studio/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Items_we_need/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Jigsaws/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/K40-III/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Knock_Clock/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/LED_Sign/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/LargeMetal_Pillar_Drill/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_printer/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Legacy_44_Edge_Street/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Legacy_Door_Control/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Legacy_Talk_Door_Control/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Light_Chimes/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Light_System/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Lockup_Procedure/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Luminch_One/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/MAME_Machine/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/MMMM/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/MMMM_Agenda/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/MQTT/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Madlab_Storage/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Mailing_list/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Main_Page/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Maker_Faire_UK_2015/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Meeting_Box/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Meeting_Notes_2010-03-10/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Meeting_Notes_2011-03-30/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Meeting_Notes_2011-04-06/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Meeting_Notes_2011-04-13/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Members_Meeting/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Mendel90/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/MendelMax/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Metal_Pillar_Drill/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Minimus/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Mitre_Saw/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Myford_ML_7_Lathe/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/New_Members/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Next_Train_Clock/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/NorthernModelExpo/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Online_Resources/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Oops_Form/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/OpenSCAD/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Orange_Laser_Cutter/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Orange_Laser_Inductions/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Orange_Laser_Worklog/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Org_Meeting_Notes_2011-07-31/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Overlocker/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/OxCNC/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/PCB_Manufacturers/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/PCR_Machine/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Pack_the_Space/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Past_Events/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Ping_pong_display/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Project_a_Sketch/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Quadcopter/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/R2_Micromouse/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Random_Ideas/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/RepRap_MendelMax/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Risk_Assessments/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/RoboButler_3000/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Roland_CAMM3/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Sandbox/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Sanjam/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Sewing_Machines/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Shedful_of_Tools_pledge/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Shutter_sensor/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Snackspace/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Social_Meetings/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/SolderingIronOctopus/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Space_Search_2012/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Space_Search_2013/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Space_Search_2015/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Space_Search_2018/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Splattershot/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Storage_Rules/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Stupid_Giant_Mouse/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Stupid_Ideas/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Suppliers/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/TPLink_WR703N/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Tablesaw/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Team_3D_Print/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Team_Craft/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Team_Documentation/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Team_Electrical/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Team_Events/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Team_Laser/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Team_Procurement/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Team_Social/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Team_Template/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Team_Woodwork/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Telegram/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Telepresence_Robot/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Tenma_Rework_Station/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/The_Board/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/The_Shop/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/ToDo/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Tools_Wishlist/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Tweet_and_Spell/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Twitter_Drummer/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Vacuum_Former/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Vinyl_Cutter/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Wanted_Equipment/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Warnings/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Water_Chimes/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Wellington_House/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Why_Don%27t_We/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Why_Dont_We/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Wood_Pillar_Drill/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Wood_lathe/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Woody_Dusty/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Workshop_Tools_Wishlist/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/44_Edge_Street/Keys/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/44_Edge_Street/Spacewarming_Party/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/A.L.FR.E.D/A.L.V.IN/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Alfred/alvin/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Arduino_Kit/Contents/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Bench_Grinder/Qualification/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Bench_Grinder/Risk_Assessment/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Door_Control/Database/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Door_Control/Version_0-1/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Door_Control/Version_0-2/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Door_Control/Version_0-3/</loc>
-     <lastmod>2020-08-14</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Door_Control/Version_0-1/Previous_Sub-Versions/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/CNC_Shapeoko/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Electronics/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Giant_Operation_Game/Electronics/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Electronics_Bits/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/LED_Sign/Gimp_Plugin/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Electrospace/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/LED_Sign/protocol/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Equipment/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/Cutting/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Equipment_Needed/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/Cutting_OrangeLaser/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Fretsaw/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/Design/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Jigsaws/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/OrangeLaser/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/Risk_Assessment/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_printer/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/Risk_Assessment_Laser_Cutter_%28Blue%29/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Mendel90/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/Risk_Assessment_OrangeLaser/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/MendelMax/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/Software/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Metal_Pillar_Drill/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/Status/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Mitre_Saw/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/Training/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Overlocker/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/Worklog/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/OxCNC/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/inductions/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Roland_CAMM3/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/OrangeLaser/Cutting/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Tablesaw/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/OrangeLaser/Inductions/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Tenma_Rework_Station/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/OrangeLaser/Risk_Assessment/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Tools_Wishlist/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Laser_Cutter/OrangeLaser/Worklog/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Wood_Pillar_Drill/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Legacy_44_Edge_Street/Keys/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Wood_lathe/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Legacy_44_Edge_Street/Spacewarming_Party/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Bench_Grinder/Qualification/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/MAME_Machine/Hardware/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Bench_Grinder/Risk_Assessment/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Madlab_Storage/Hardware_v01/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/Design/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Madlab_Storage/Hardware_v02/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/Risk_Assessment/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Madlab_Storage/Software_v01/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/Risk_Assessment_Laser_Cutter_%28Blue%29/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Madlab_Storage/Software_v02/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/Risk_Assessment_OrangeLaser/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Oldwiki/oldpagelist/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/Software/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/Status/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/Training/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/Worklog/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/inductions/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/OrangeLaser/Inductions/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/OrangeLaser/Risk_Assessment/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/OrangeLaser/Worklog/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/RepRap_MendelMax/Early_2014_Upgrades/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/RepRap_MendelMax/Gen7/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Equipment/RepRap_MendelMax/Late_2013_Upgrades/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/44_Edge_Street_Exit_procedures/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Bans_and_Suspensions/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Bin_Conveyor/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Broadstone_Mill_Hackspace/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Code_of_Conduct/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Consumables/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Craftspace/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Election2017/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Election2018/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/HACMan/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/HACMan_History/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/HACMan_Service_Kiosk/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Habari_URL_Bounce/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Hackscreen/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Hackspace_Rules/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/IRC_URLs/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Legacy_44_Edge_Street/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Lockup_Procedure/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/MQTT/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Mailing_list/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Meeting_Notes_2010-03-10/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Meeting_Notes_2011-03-30/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Meeting_Notes_2011-04-06/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Meeting_Notes_2011-04-13/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Members_Meeting/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/New_Members/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Oops_Form/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Org_Meeting_Notes_2011-07-31/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Pack_the_Space/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Past_Events/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Random_Ideas/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Risk_Assessments/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Snackspace/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Social_Meetings/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Space_Search_2018/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Storage_Rules/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Stupid_Ideas/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Telegram/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/The_Board/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/The_Shop/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/ToDo/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Warnings/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Wellington_House/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Why_Don%27t_We/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Woody_Dusty/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Door-System/A.L.FR.E.D/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Door-System/Entry_System/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Door-System/HACCESS/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Door-System/Legacy_Door_Control/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Door-System/Legacy_Talk_Door_Control/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Door-System/A.L.FR.E.D/A.L.V.IN/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Door-System/Door_Control/Database/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Door-System/Door_Control/Version_0-1/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Door-System/Door_Control/Version_0-2/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Door-System/Door_Control/Version_0-3/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Door-System/Door_Control/Version_0-1/Previous_Sub-Versions/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Legacy_44_Edge_Street/Keys/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/Legacy_44_Edge_Street/Spacewarming_Party/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/RequestLetters/Equipment/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Hackspace/RequestLetters/Leigh/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Howtos/Electrolysis_Derust/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Howtos/How-to_pcb/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Howtos/Music/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Howtos/Online_Resources/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Howtos/OpenSCAD/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Orders/Minimus/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Electric_Screwdrivers/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Frikkin_Laser/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Heavy_Duty_Sewing_Machine/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Infrared_Heater/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/MaplinComponentsDrawers/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Metal_Cutting_Bandsaw/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/MicroServer/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Mircroscope/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/NFCRings/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/OxCNCIan/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Press_Break/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/PrusaNozzel/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Reflow_Oven/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Shedful_of_Tools_pledge/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Soldering_Station/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/SuperSolderingStation/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/VacuumFormer/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Vacuum_cleaner/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Pledges/Wood_Lathe_Startup/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Project_a_Sketch/Hardware/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/AW_Light_Tank/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Arduino_Kit/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/B-MO_Mk.I/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/B-MO_Mk.II/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/B-MO_Mk.III/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/BeamForge/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Book_Safes/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/DIYBIO_PCR_Thermocycler/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/DIY_CNC/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/DIY_Laser_Cutter/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/DeltaBanker/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Donation_Box/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Dynamic_controls_motor_controller/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Feedprinter/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Giant_Operation_Game/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Instant_TV_studio/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/K40-III/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Knock_Clock/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/LED_Sign/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Light_System/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Luminch_One/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/MAME_Machine/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Madlab_Storage/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Meeting_Box/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Minimus/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Next_Train_Clock/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/PCR_Machine/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Project_a_Sketch/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/R2_Micromouse/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/RepRap_MendelMax/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Quadcopter/Electronics/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Shutter_sensor/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Quadcopter/Hardware/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/SolderingIronOctopus/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/RepRap_MendelMax/Early_2014_Upgrades/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Splattershot/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/RepRap_MendelMax/Gen7/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Stupid_Giant_Mouse/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/RepRap_MendelMax/Late_2013_Upgrades/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/TPLink_WR703N/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/RequestLetters/Equipment/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Telepresence_Robot/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/RequestLetters/Leigh/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Tweet_and_Spell/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/RoboButler_3000/Links/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Twitter_Drummer/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/RoboButler_3000/Parts/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Vacuum_Former/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Water_Chimes/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Arduino_Kit/Contents/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Hackspace/Gibson/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/LED_Sign/Gimp_Plugin/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/LED_Sign/protocol/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Madlab_Storage/Hardware_v01/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Madlab_Storage/Hardware_v02/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Madlab_Storage/Software_v01/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Madlab_Storage/Software_v02/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Project_a_Sketch/Hardware/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Quadcopter/Electronics/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Quadcopter/Hardware/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Projects/Quadcopter/Quadcopter/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Suppliers/Abakhan_Fabrics/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Suppliers/Farnell/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Suppliers/Fred_Aldous/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Suppliers/PCB_Manufacturers/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://docs.hacman.org.uk/old_wiki_files/Suppliers/Rapid/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Tools/Reflow_Oven/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Suppliers/Suppliers/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://docs.hacman.org.uk/old_wiki_files/Workshops/Music/</loc>
-     <lastmod>2020-08-14</lastmod>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Teams/Team_3D_Print/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Teams/Team_Craft/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Teams/Team_Documentation/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Teams/Team_Electrical/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Teams/Team_Events/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Teams/Team_Laser/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Teams/Team_Procurement/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Teams/Team_Social/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Teams/Team_Template/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/old_wiki_files/Teams/Team_Woodwork/</loc>
+     <lastmod>2020-08-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://docs.hacman.org.uk/tags/Equipment/</loc>
+     <lastmod>2020-08-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

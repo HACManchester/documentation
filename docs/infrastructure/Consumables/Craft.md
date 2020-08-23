@@ -1,3 +1,7 @@
+---
+title: Craft
+---
+
 # Stationery / Craft Consumables
 
 ## General

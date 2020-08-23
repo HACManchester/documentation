@@ -1,3 +1,7 @@
+---
+title: PPE
+---
+
 # PPE Consumables
 
   * Goggles

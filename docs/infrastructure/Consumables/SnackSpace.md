@@ -1,3 +1,7 @@
+---
+title: SnackSpace
+---
+
 # Snackspace Consumables
 
   * Toilet Roll

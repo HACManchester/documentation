@@ -1,4 +1,8 @@
-# Workshop Consumables
+---
+title: Woody Dusty
+---
+
+# Woody Dusty Consumables
 
   * Drill Bits
   * Glass Paper

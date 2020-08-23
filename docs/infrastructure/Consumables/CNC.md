@@ -1,3 +1,7 @@
+---
+title: CNC
+---
+
 # CNC Consumables
 
   * Router bits

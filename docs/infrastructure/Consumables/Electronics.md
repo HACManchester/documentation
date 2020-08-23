@@ -1,3 +1,7 @@
+---
+title: Electronics
+---
+
 # Electronics Consumables
 
   * Resistors (common sizes)

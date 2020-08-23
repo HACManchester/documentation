@@ -3,7 +3,7 @@ site_url: https://docs.hacman.org.uk
 repo_url: https://github.com/HACManchester/documentation/
 theme:
  name: material
- custom_dir: 'theme'
+ custom_dir: 'custom/theme'
 plugins:
     - mdoctag
     - search

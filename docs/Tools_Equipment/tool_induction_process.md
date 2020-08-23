@@ -1,4 +1,4 @@
-# Training & Induction Process 
+# Induction - Training & Induction Policy & Process
 
 ## August 2019 
 

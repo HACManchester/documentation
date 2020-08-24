@@ -2,7 +2,7 @@
 
   * [Hacman Main Website](https://www.hacman.org.uk/)
   * [Members Portal](https://members.hacman.org.uk/)
-  * [Mailing List](https://list.hacman.org.uk/)
+  * [Discussion Forum](https://list.hacman.org.uk/)
 
 ## Telegram
 

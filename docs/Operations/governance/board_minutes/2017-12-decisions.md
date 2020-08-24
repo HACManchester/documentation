@@ -1,4 +1,6 @@
-# Decisions taken 2017-12 not during a formal board meeting
+# 20171-12 Decisions
+
+## Decisions taken 2017-12 not during a formal board meeting
 
 ## Hetzner
 

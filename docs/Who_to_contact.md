@@ -1,4 +1,4 @@
-# Who to Contact?
+# Who to Contact
 
 The Hackspace Manchester Helpdesk was established to make communication more streamlined and provide a better service to members.
 

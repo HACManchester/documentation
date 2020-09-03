@@ -11,3 +11,9 @@ To add an RFID tag to your account to allow you to enter the space 24/7 click Yo
 To add an RFID fob to your account scroll to the bottom of the edit profile, click on the white box under the text and scan your fob with the reader in the space (or any compatible phone or rfid reader you have lying around) to enter your fob UID then click Add a new fob to save this.
 
 ![](https://docs.hacman.org.uk/images/rfid_2.png "fob")
+
+## Mobile phone Registration
+
+You can also use a compatible mobile phone to register a fob by simply using any 13.5mhz rfid tag, reading the id of that fob and entering it into the field below on the membership system
+
+![](https://docs.hacman.org.uk/images/rfid_2.png "fob")

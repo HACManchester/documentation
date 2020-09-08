@@ -138,18 +138,58 @@ At this stage you should now be ready to do the cut for real.
 
 |  Material Class  | Material |  Hazard Status | Potential Hazards  |  Special Notes | Suppliers  |
 |---|---|---|---|---|---|
-| Wood  |  Laser-grade MDF | <p style="background-color:yellow;">Potential Risks</p>  | Increased risk of fire on multiple passes  | Makes the laser filthy which makes it harder to use and reduces the lifespan of parts - preference is for users to not use this material unless it's necessary  | [Fred Aldous](https://www.fredaldous.co.uk/) <P> [Kitronic](http://kitronic.co.uk) <P> [Hobarts](https://hobarts.com/) |
-| Wood  | Standard MDF  | <p style="background-color:red;">Banned</p>  | 	Chemical off-gassing, laser damage  | Glues use formaldehyde, which is both carcinogenic and damaging to the laser  |   |
-| Wood  | Laser-Grade Plywood - Birch Ply  | <p style="background-color:green;">Low Risk</p>  |   |   | [Fred Aldous](https://www.fredaldous.co.uk/) <P> [Kitronic](http://kitronic.co.uk) <P> [Hobarts](https://hobarts.com/)  |
+| Wood  |  Laser-grade MDF | 
+
+<p style="background-color:yellow;">Potential Risks</p>
+
+| Increased risk of fire on multiple passes  | Makes the laser filthy which makes it harder to use and reduces the lifespan of parts - preference is for users to not use this material unless it's necessary  | [Fred Aldous](https://www.fredaldous.co.uk/) <P> [Kitronic](http://kitronic.co.uk) <P> [Hobarts](https://hobarts.com/) |
+| Wood  | Standard MDF  | 
+    
+    <p style="background-color:red;">Banned</p>
+    
+    | 	Chemical off-gassing, laser damage  | Glues use formaldehyde, which is both carcinogenic and damaging to the laser  |   |
+| Wood  | Laser-Grade Plywood - Birch Ply  | 
+
+<p style="background-color:green;">Low Risk</p>
+
+|   |   | [Fred Aldous](https://www.fredaldous.co.uk/) <P> [Kitronic](http://kitronic.co.uk) <P> [Hobarts](https://hobarts.com/)  |
 | Wood  | Laser-Grade Plywood - Poplar Ply  | <p style="background-color:green;">Low Risk</p>  |   |   | [Fred Aldous](https://www.fredaldous.co.uk/) <P> [Kitronic](http://kitronic.co.uk) <P> [Hobarts](https://hobarts.com/)  |
-| Wood  | Laser-Grade Bamboo  | <p style="background-color:green;">Low Risk</p>  |   |   |   |
-| Wood  | Standard Plywood  | <p style="background-color:red;">Banned</p>  | Chemical off-gassing, laser damage  | Glues use formaldehyde, which is both carcinogenic and damaging to the laser  |   |
+| Wood  | Laser-Grade Bamboo  | 
+    
+    <p style="background-color:green;">Low Risk</p>
+    
+    |   |   |   |
+| Wood  | Standard Plywood  | 
+
+<p style="background-color:red;">Banned</p>
+
+| Chemical off-gassing, laser damage  | Glues use formaldehyde, which is both carcinogenic and damaging to the laser  |   |
 | Wood  | Balsa wood  | <p style="background-color:yellow;">Potential Risks</p>  | Potential for combustion, smoldering  | Pre-soaking with water may be safer - requires a high level of vigilance while cutting/engraving  | [Fred Aldous](https://www.fredaldous.co.uk/)  |
-| Wood  | Paper  | <p style="background-color:yellow;">Potential Risks</p>  | Potential for combustion, smoldering  | Light paper can easily become tinder. While etching is 'kindof' possible, it more leaves a carbon dust behind rather than impacting the paper. Cutting is functional and works well.  |   |
-| Wood  | Card/Cardboard  | <p style="background-color:yellow;">Potential Risks</p>  | Potential for combustion, smoldering  | Channels in cardboard can allow for unseen combustion, please cut and engrave with caution  |   |
-| Wood  | General Wood (unprocessed/treated)  | <p style="background-color:green;">Low Risk</p> |   | Woods with lower resin content cut and engrave better.  |   |
-| Wood  | cork  | <p style="background-color:yellow;">Potential Risks</p>  | Potential for combustion, smoldering  | Channels and gaps in cork can allow for unseen combustion, please cut and engrave with caution, pre-soaking with water may be safer  |   |
-| Plastics  | Thin Polypropylene sheet (<1mm)  | <p style="background-color:green;">Low Risk</p>||||
+| Wood  | Paper  | 
+
+<p style="background-color:yellow;">Potential Risks</p>
+
+| Potential for combustion, smoldering  | Light paper can easily become tinder. While etching is 'kindof' possible, it more leaves a carbon dust behind rather than impacting the paper. Cutting is functional and works well.  |   |
+| Wood  | Card/Cardboard  | 
+
+<p style="background-color:yellow;">Potential Risks</p>
+
+| Potential for combustion, smoldering  | Channels in cardboard can allow for unseen combustion, please cut and engrave with caution  |   |
+| Wood  | General Wood (unprocessed/treated)  | 
+
+<p style="background-color:green;">Low Risk</p>
+
+|   | Woods with lower resin content cut and engrave better.  |   |
+| Wood  | cork  | 
+
+<p style="background-color:yellow;">Potential Risks</p>
+
+| Potential for combustion, smoldering  | Channels and gaps in cork can allow for unseen combustion, please cut and engrave with caution, pre-soaking with water may be safer  |   |
+| Plastics  | Thin Polypropylene sheet (<1mm)  | 
+
+<p style="background-color:green;">Low Risk</p>
+
+||||
 | Plastics  | Acrylic AKA Perspex  | <p style="background-color:green;">Low Risk</p>||||
 | Plastics  | Foamcore (non-PVC variety)  | <p style="background-color:green;">Low Risk</p>||||
 | Plastics  | Correx (Genuine non PVC)  | <p style="background-color:green;">Low Risk</p>||||

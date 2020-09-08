@@ -136,7 +136,56 @@ At this stage you should now be ready to do the cut for real.
 
 ## Materials that can be used
 
-TBC
+|  Material Class  | Material |  Hazard Status | Potential Hazards  |  Special Notes | Suppliers  |
+|---|---|---|---|---|---|
+| Wood  |  Laser-grade MDF | <p style="background-color:yellow;">Potential Risks</p>  | Increased risk of fire on multiple passes  | Makes the laser filthy which makes it harder to use and reduces the lifespan of parts - preference is for users to not use this material unless it's necessary  | [Fred Aldous](https://www.fredaldous.co.uk/) <P> [Kitronic](http://kitronic.co.uk) <P> [Hobarts](https://hobarts.com/) |
+| Wood  | Standard MDF  | <p style="background-color:red;">Banned</p>  | 	Chemical off-gassing, laser damage  | Glues use formaldehyde, which is both carcinogenic and damaging to the laser  |   |
+| Wood  | Laser-Grade Plywood - Birch Ply  | <p style="background-color:green;">Low Risk</p>  |   |   | [Fred Aldous](https://www.fredaldous.co.uk/) <P> [Kitronic](http://kitronic.co.uk) <P> [Hobarts](https://hobarts.com/)  |
+| Wood  | Laser-Grade Plywood - Poplar Ply  | <p style="background-color:green;">Low Risk</p>  |   |   | [Fred Aldous](https://www.fredaldous.co.uk/) <P> [Kitronic](http://kitronic.co.uk) <P> [Hobarts](https://hobarts.com/)  |
+| Wood  | Laser-Grade Bamboo  | <p style="background-color:green;">Low Risk</p>  |   |   |   |
+| Wood  | Standard Plywood  | <p style="background-color:red;">Banned</p>  | Chemical off-gassing, laser damage  | Glues use formaldehyde, which is both carcinogenic and damaging to the laser  |   |
+| Wood  | Balsa wood  | <p style="background-color:yellow;">Potential Risks</p>  | Potential for combustion, smoldering  | Pre-soaking with water may be safer - requires a high level of vigilance while cutting/engraving  | [Fred Aldous](https://www.fredaldous.co.uk/)  |
+| Wood  | Paper  | <p style="background-color:yellow;">Potential Risks</p>  | Potential for combustion, smoldering  | Light paper can easily become tinder. While etching is 'kindof' possible, it more leaves a carbon dust behind rather than impacting the paper. Cutting is functional and works well.  |   |
+| Wood  | Card/Cardboard  | <p style="background-color:yellow;">Potential Risks</p>  | Potential for combustion, smoldering  | Channels in cardboard can allow for unseen combustion, please cut and engrave with caution  |   |
+| Wood  | General Wood (unprocessed/treated)  | <p style="background-color:green;">Low Risk</p> |   | Woods with lower resin content cut and engrave better.  |   |
+| Wood  | cork  | <p style="background-color:yellow;">Potential Risks</p>  | Potential for combustion, smoldering  | Channels and gaps in cork can allow for unseen combustion, please cut and engrave with caution, pre-soaking with water may be safer  |   |
+| Plastics  | Thin Polypropylene sheet (<1mm)  | <p style="background-color:green;">Low Risk</p>||||
+| Plastics  | Acrylic AKA Perspex  | <p style="background-color:green;">Low Risk</p>||||
+| Plastics  | Foamcore (non-PVC variety)  | <p style="background-color:green;">Low Risk</p>||||
+| Plastics  | Correx (Genuine non PVC)  | <p style="background-color:green;">Low Risk</p>||||
+| Plastics  | Depron Foam  | <p style="background-color:yellow;">Potential Risks</p>||||
+| Plastics  | Plastics containing PVC (e.g. Sintra, Foamex)  | <p style="background-color:red;">Banned</p>  | laser contamination, emissions  | Off-gasses chlorine gas when lased  |   |
+| Plastics  | Plastics containing ABS (e.g. 'sheet styrene', Plasticard)  | <p style="background-color:red;">Banned</p>  | laser contamination, fire risk  |   |   |
+| Plastics  | Polycarbonate  | <p style="background-color:red;">Banned</p>  | laser contamination, fire risk  |   |   |
+| Plastics  | Polystyrene  | <p style="background-color:red;">Banned</p>  | laser contamination, fire risk|||
+| Plastics  | Polypropylene  | <p style="background-color:red;">Banned</p>  | laser contamination, fire risk, emissions  |   |   |
+| Plastics  | HDPE  | <p style="background-color:red;">Banned</p>  | laser contamination, fire risk, emissions  |   |   |
+| Foam  | PlastaZote Foam  | <p style="background-color:green;">Low Risk</p>  |   | Thin material will need weighing/taping down, may cause bounce-back rarely. Engraves and cuts super-well  |   |
+| Textiles  | Cotton  | <p style="background-color:green;">Low Risk</p>  |   |   | [Abakhan Fabrics](https://www.abakhan.co.uk/)  |
+| Textiles  | Hemp  | <p style="background-color:green;">Low Risk</p>  |   |   |   |
+| Textiles  | Unwashed/Greasy Wool  | <p style="background-color:red;">Banned</p>  | Fire risk  | Lanolin in wool can cause fire and smolder  |   |
+| Textiles  | Acrylic Felt  | <p style="background-color:green;">Low Risk</p>  |   | 'Welds' the edges and can give a fray resistant edge, although this edge can be rough  | [Abakhan Fabrics](https://www.abakhan.co.uk/)  |
+| Textiles  | Polar Fleece  | <p style="background-color:green;">Low Risk</p>  |   | 'Welds' the edges and can give a fray resistant edge, although this edge can be rough  | [Abakhan Fabrics](https://www.abakhan.co.uk/)  |
+| Textiles  | Stretch Cotton Jersey (t-shirt material)  | <p style="background-color:green;">Low Risk</p>  |   |   | [Abakhan Fabrics](https://www.abakhan.co.uk/)  |
+| Textiles  | Veg Tanned Leather  | <p style="background-color:yellow;">Potential Risks</p>  | Foul odour, emissions, risks with tanning method  | Please check from the supplier that it is specifically vegetable tanned - other tanning processes and ingredients can be harmful. Cutting leather can also give off foul smells and be highly anti-social - please be aware of this when using the laser, and of your other hackspace members.  |   |
+| Textiles  | Leather chrome-tanned, or unknown tanning agent  | <p style="background-color:red;">Banned</p>  | Emissions  |   |   |
+| Textiles  | Fake Leather  | <p style="background-color:red;">Banned</p>  | laser contamination, emissions  | Off-gasses chlorine gas when lased  |   |
+| Textiles  | PVC  | <p style="background-color:red;">Banned</p>  | laser contamination, emissions  | Off-gasses chlorine gas when lased  |   |
+| Ceramics  | Stone  | <p style="background-color:green;">Low Risk</p>  |   | Engrave only.  |   |
+| Ceramics  | Ceramic tile  | <p style="background-color:green;">Low Risk</p>  |   | Engrave only.  |   |
+| Ceramics  | Glass  | <p style="background-color:green;">Low Risk</p>  |   | Engrave only.  |   |
+| Composites  | Fibreglass  | <p style="background-color:red;">Banned</p>  | laser contamination, fire risk, emissions  |   |   |
+| Composites  | Carbon fibre  | <p style="background-color:red;">Banned</p>  | laser contamination, fire risk, emissions  |   |   |
+| Metals  |   | <p style="background-color:red;">Banned</p>  | Can cause laser damage  | She might ''seem'' really eager, but it's probably best not to listen to her...  |   |
+| Other  | Food  | <p style="background-color:red;">Banned</p>  | laser contamination, fire risk, emissions  |   |   |
+| Other  | Body Parts  | <p style="background-color:red;">Banned</p>  |   |   |   |
+| Other  | Lucy  | <p style="background-color:red;">Banned</p>  | laser contamination, safety hazard  |   |   |
+| Other  | Fresh Flower Oasis  | <p style="background-color:red;">Banned</p>  | emissions  | Contains formaldehyde  |   |
+| Other  | Laser rubber  | <p style="background-color:yellow;">Potential Risks</p>  | laser contamination  | Requires immediate cleaning of the laser after cutting - this takes significant time, and takes the laser out of service until its done. Please only do this after consulting with the laser team.  |   |
+| Other  | Non-Laser Rubber  | <p style="background-color:red;">Banned</p>  | laser contamination, fire risk, emissions  |   |   |
+| Other  | Flexible Magnetic Sheet  | <p style="background-color:red;">Banned</p>  | Emissions (HCl)  | If you find a supposedly laser-safe version, please contact the laser maintainers for approval  |   |
+| Other  | Asbestos (all types and products)  | <p style="background-color:red;">Banned</p>  | Laser Contamination, H&S  | Someone asked, so we had to put this entry in  |   |
+
 
 ## Status
 

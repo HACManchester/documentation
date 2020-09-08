@@ -85,3 +85,10 @@ I'm not sure if to use the hackspace icons, if so maybe make the background tran
 
   * sortable tables enabled - https://squidfunk.github.io/mkdocs-material/reference/data-tables/#sortable-tables
   * look at enabling tasklist - https://squidfunk.github.io/mkdocs-material/reference/lists/#tasklist
+
+
+### Markdown extensions
+
+Need to document the use of these
+
+  * https://squidfunk.github.io/mkdocs-material/reference/admonitions/

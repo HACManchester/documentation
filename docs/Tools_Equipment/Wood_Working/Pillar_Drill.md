@@ -1,8 +1,7 @@
 # Pillar Drill
 
 We have a pillar drill in the workshop. This is used for drilling material.
-Comes in different grades and these belts wear out with use. This is
-usable by anyone who has had a workshop safety induction.
+This is usable by anyone who has had a workshop safety induction.
 
 ## Safety
 

@@ -7,6 +7,7 @@ This list is not definitive and tools will be added when required.  If you are u
 ### **Banned Tools:**
 - Chainsaws
 - Dado blades
-- Flamethrowers
+- Radial arm saws
+- Improvised open-flame tools
 
 

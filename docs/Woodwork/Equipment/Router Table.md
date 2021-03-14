@@ -31,7 +31,7 @@ This machine is owned by the Hackspace. Please treat the machine with respect an
 ---
 
 ### **Training**
-This machine is included in the general WoodyDusty Training & Safety induction, this can be completed either in person or via the Moodle course:
+This machine is included in the general WoodyDusty Training & Safety induction, this can be completed either in person or via the Moodle course: 
 
 ~insert link to Moodle course~
 

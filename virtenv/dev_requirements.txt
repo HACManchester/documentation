@@ -7,3 +7,7 @@ git+https://github.com/srymh/MkdocsTagPlugin.git@ac1f02ba95527d11d84b5ec87f4e638
 
 # Protection for email links
 git+https://github.com/rkoe/mkdocs-emailprotect@ef91e3dda367bd6a3f65dda183559e1b929d6240
+
+# enables displaying the date of the last git modification of a page
+# https://github.com/timvink/mkdocs-git-revision-date-localized-plugin
+mkdocs-git-revision-date-localized-plugin

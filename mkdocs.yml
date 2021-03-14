@@ -14,6 +14,7 @@ plugins:
   - mdoctag:
       tagpage_dir: 'tags'
       data_filename: 'tags.json'
+  - git-revision-date-localized
 
 markdown_extensions:
   - pymdownx.highlight:

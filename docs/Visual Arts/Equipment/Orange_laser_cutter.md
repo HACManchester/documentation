@@ -25,9 +25,12 @@ Visicut. It can be downloaded from [the Inkscape release page](https://inkscape.
 ### Visicut
 
 Visicut is the software that converts vector files into the code that
-drives the laser cutter. You can download Visicut from [https://visicut.org](https://visicut.org/).
+drives the laser cutter. You can download Visicut from [https://download.visicut.org/archive](https://download.visicut.org/archive).
+We recommend version 1.8-103, which is known to work with our laser cutter.
+Later versions may not be able to send data to the laser cutter correctly.
+This may be fixed with a firmware upgrade to the laser cutter in the future.
 
-Some versions of VisiCut had issues on OSX; this is believed to be fixed, but if you see problems with it only redrawing when you resize the window, see [this issue on GitHub](https://github.com/t-oster/VisiCut/issues/171).
+Some versions of VisiCut also had issues on OSX; this is believed to be fixed, but if you see problems with it only redrawing when you resize the window, see [this issue on GitHub](https://github.com/t-oster/VisiCut/issues/171).
 
 On first run, Visicut will ask if you want to download settings. You do,
 just select **Manchester, UK: Hackspace** from the list and Visicut will

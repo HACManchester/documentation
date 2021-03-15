@@ -39,3 +39,35 @@
 | Hacksaw Blades 12 Inch             |                    |       |
 | Junior Hacksaw Blades              |                    |       |
 | Coping Saw Blades                  |                    |       |
+
+## Lathes
+
+| Item                               | Preferred Supplier | Notes |
+|------------------------------------|--------------------|-------|
+| Bearing Oil (Myford)               | https://www.myford.co.uk/acatalog/VG32-LUBRICATING-OIL---ESSO-NUTO-32---1-LITRE-662.html | VG32 LUBRICATING OIL - ESSO NUTO 32 |
+| Insert - General                   |                    |       |
+| Insert - Threading                 |                    |       |
+
+## Mill
+
+| Item                               | Preferred Supplier | Notes |
+|------------------------------------|--------------------|-------|
+| Test                               |                    |       |
+
+## Drills
+
+| Item                               | Preferred Supplier | Notes |
+|------------------------------------|--------------------|-------|
+| Test                               |                    |       |
+
+## Hand Tools
+
+| Item                               | Preferred Supplier | Notes |
+|------------------------------------|--------------------|-------|
+| Hack Saw Blade                     |                    |       |
+
+## Health & Safety
+
+| Item                               | Preferred Supplier | Notes |
+|------------------------------------|--------------------|-------|
+| Googles                            |                    |       |

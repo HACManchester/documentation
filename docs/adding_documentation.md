@@ -17,6 +17,9 @@ Create a markdown file (try stackedit.io if you want  a wysiwyg editor) and simp
 
 #### Helpful links
 
-Guide to markdown : https://www.markdownguide.org/getting-started/
+Markdown Guides:
+- https://www.markdownguide.org/getting-started/
+- https://www.markdownguide.org/cheat-sheet/
 
-Cheat sheet : https://www.markdownguide.org/cheat-sheet/
+MkDocs
+- https://squidfunk.github.io/mkdocs-material/

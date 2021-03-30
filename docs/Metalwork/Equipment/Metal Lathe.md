@@ -1,4 +1,9 @@
-# Lathe Myford ML7
+# Metal Lathe
+
+We have three metal lathes at the Hackspace
+- Myford ML7
+- Warco
+- ???
 
 ## Ownership
 
@@ -110,6 +115,7 @@ material can be supplied by the space for a small fee.
 Purely the basic factory manual.
 
 ## Risk Assessment
+[Metal Lathe Risk Assessment](https://docs.google.com/document/d/1sL7dRjBeEd598XGXlioWClssJAlI1N-WiVfwOxGq438/edit?usp=sharing)
 
 [Category:Equipment](Category:Equipment "wikilink")
 [Category:Bloody_dangerous_equipment](Category:Bloody_dangerous_equipment "wikilink")

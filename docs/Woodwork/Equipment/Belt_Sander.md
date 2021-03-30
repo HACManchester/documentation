@@ -14,6 +14,9 @@ usable by anyone who has had a workshop safety induction.
     mask is adviseable.
   - Do **NOT** wear gloves - they could get entangled and pull your hand
     into the machine
+    
+### Risk Assessments
+- [Belt Sander](https://docs.google.com/document/d/1BTiqpE-egWY1lfvCP8Ui6uaUQ0lzS6jrJuCgx4aem7Y/edit?usp=sharing)
 
 [Category:Equipment](Category:Equipment "wikilink") [Category:Risk
 Assessments](Category:Risk_Assessments "wikilink")

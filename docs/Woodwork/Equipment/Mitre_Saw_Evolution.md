@@ -1,11 +1,15 @@
-# Mitre Saw: Evolution
+# Mitre Saws
+
+We have two Mitre Saws in the workshop.
+
+~ Add details for the dewalt mitre ~
+
+An Evolution Mitre Saw in the workshop. It is one of the bench mounted tools in the workshop
+This saw can cut materials with compound angles using its 255mm (10") blade.
 
 - Manufacture: Evolution
 - Model Number: RAGE3-S300
 - Asset ID: 0005
-
-We have a Evolution Mitre Saw in the workshop. It is one of the bench mounted tools in the workshop
-This saw can cut materials with compound angles using its 255mm (10") blade.
 
 ~insert images~
 
@@ -66,13 +70,12 @@ During an emergency, if the workshop safety switches are triggered the machine w
 ---
 
 ### **Risk Assessment**
-~insert link to Risk Assessment~
+[Mitre Saw Risk Assessment](https://drive.google.com/file/d/1us2XMLywTOsyB7rrDRw1OP8TzBA-HAuA/view?usp=sharing)
 
 ---
 
-### **Manual**
-~insert link to Manual~
-https://evolutionpowertools.com/downloads/manuals/build/rage3s/book1.pdf
+### **Manuals**
+[Evolution Mitre Manual](https://evolutionpowertools.com/downloads/manuals/build/rage3s/book1.pdf)
 
 ---
 

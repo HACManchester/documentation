@@ -1,4 +1,5 @@
-# Pillar Drill (Clarke)
+# Pillar Drills
+ We have one Pillar Drill in the wood workshop
 
 - Manufacture: Clarke
 - Model Number: CDP5DD
@@ -67,13 +68,12 @@ During an emergency, if the workshop safety switches are triggered the machine w
 ---
 
 ### **Risk Assessment**
-~insert link to Risk Assessment~
+[Pillar Drill Risk Assessment](https://docs.google.com/document/d/1ig6mghyfCGQnn0kOcE3Z2foC5rsd1CZbelOLopmDXX4/edit?usp=sharing)
 
 ---
 
 ### **Manual**
-~insert link to Manual~
-https://www.clarkeservice.co.uk/manuals/drill_presses/cdp5dd_5r.pdf
+[Clarke Manual](https://www.clarkeservice.co.uk/manuals/drill_presses/cdp5dd_5r.pdf)
 
 ---
 

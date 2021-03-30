@@ -1,5 +1,8 @@
 # Router Table
 
+  !!! attention
+  This tool is still in development and as such is not yet currently operational
+
 - Manufacture: 
 - Model Number: 
 - Asset ID: xxxx
@@ -18,7 +21,7 @@ This machine is owned by the Hackspace. Please treat the machine with respect an
 ### **Status & Operation**
 
 - Location: Woodwork (WoodyDusty)
-- Operating: Yes
+- Operating: No
 - Training: Woodwork - Basic Training & Safety Induction
 - Lone Working: Allowed
 - Primary Material: Wood
@@ -55,7 +58,7 @@ During an emergency, if the workshop safety switches are triggered the machine w
 ---
 
 ### **Risk Assessment**
-~insert link to Risk Assessment~
+[Router Table Risk Assessment](https://docs.google.com/document/d/1LIH4-6c16wEY-lNIruVvq_7wR3ZY4It_Pv44CAXQC3Q/edit?usp=sharing)
 
 ---
 

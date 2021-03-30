@@ -1,4 +1,4 @@
-# Orange laser cutter
+# Laser Cutter
 
 The Orange Laser Cutter is usable by members who have had an induction.
 
@@ -193,3 +193,6 @@ At this stage you should now be ready to do the cut for real.
 ## Status
 
 Status can be seen on the members page at [the members' system laser page](https://members.hacman.org.uk/equipment/laser). If there is a notice on the laser itself saying it is out of order, that takes priority.
+
+### Risk Assessment
+[Laser Cutter Risk Assessment](https://docs.google.com/document/d/1lllSKpsBu2iK7Go8yagxja4cmtHXv9eduVnCUz_MOnI/edit?usp=sharing)

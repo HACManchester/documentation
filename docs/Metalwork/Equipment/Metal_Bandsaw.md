@@ -1,4 +1,4 @@
-# Horizontal Bandsaw
+# Metal Bandsaw
 
 The bandsaw is a Clarke CBS45M, a convertable horizontal / vertical
 bandsaw, designed for cutting metal bar, rod and tube down to length. It
@@ -121,6 +121,10 @@ continuity between the neutral on the plug and the blue wire feeding
 into input of the on / off zero volt switch
 
 The below is the junction box below the zero power switch
+
+### Risk Assessment
+[Metal Bandsaw Risk Assessment](https://docs.google.com/document/d/1L63IFT2mtebCvb3mKpEstMLqN3Si-7PQvn6bUsV1nFw/edit?usp=sharing)
+
 
 ![<File:Metal_BandSaw.svg>](Metal_BandSaw.svg "File:Metal_BandSaw.svg")
 

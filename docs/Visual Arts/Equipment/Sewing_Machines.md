@@ -32,6 +32,9 @@ Full Manual -
 Service Manual -
 ![<File:Singer4423ServiceManual.pdf>](Singer4423ServiceManual.pdf "fig:File:Singer4423ServiceManual.pdf")
 
+### Risk Assessment
+[Sewing Machine Risk Assessment](https://docs.google.com/document/d/1aUZWDqhOVUsFNbLjxgr4PFD62l2zbHXBCNHzI7B_ajg/edit?usp=sharing)
+
 [Category:Equipment](Category:Equipment "wikilink") [Category:Team
 Craft](Category:Team_Craft "wikilink")
 [Category:Craftspace](Category:Craftspace "wikilink")

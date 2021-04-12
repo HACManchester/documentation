@@ -11,11 +11,11 @@ Here members discuss all things related to WoodyDusty and woodworking as a whole
 
 ### **Woodwork Team**
 WoodyDusty is managed by the woodwork team.  Their responsibilities are:
-    - Attending woodwork meeting
-    - Assisting the Board & Sub-committees when required
-    - General upkeep & maintenance of equipment
-    - Managing stock of consumables and procuring more when necessary
-    - Managing training resources & member inductions
+* Attending woodwork meeting
+* Assisting the Board & Sub-committees when required
+* General upkeep & maintenance of equipment
+* Managing stock of consumables and procuring more when necessary
+* Managing training resources & member inductions
 
 The woodwork team have a dedicated Telegram group chat that is intended as a more focused place for running the workshop.  This chat is managed by the board, if you would like to help out and join the Woodwork team simply email the board and they will be in touch.
 

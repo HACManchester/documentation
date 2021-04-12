@@ -11,7 +11,7 @@
 | Lone Working  |                        |                        |
 | Materials     | Wood                   | Wood                   |
 
-*~insert images~*
+*~ insert images~ *
 
 ---
 
@@ -20,17 +20,17 @@
 *~ Write description & features ~*
 
 As standard the space stocks replacement blades for this machine, listed on the consumables page.  Damaged and broken blades should be reported to the Woodwork Team so that replacements can be acquired asap.  If members wish they can buy specialised blades for the machine using the following dimensions:
-  - Size = 12"
-  - Blade Length = 2240mm (88")
-  - Blade Width = 19mm Max
+* Size = 12"
+* Blade Length = 2240mm (88")
+* Blade Width = 19mm Max
 
 #### Axminster - AWHSBS250N
 *~ Write description & features ~*
 
 As standard the space stocks replacement blades for this machine, listed on the consumables page.  Damaged and broken blades should be reported to the Woodwork Team so that replacements can be acquired asap.  If members wish they can buy specialised blades for the machine using the following dimensions:
-  - Size = 10"
-  - Blade Length = 1790mm (88")
-  - Blade Width = 6mm Min / 13mm Max
+* Size = 10"
+* Blade Length = 1790mm (88")
+* Blade Width = 6mm Min / 13mm Max
 
 ---
 
@@ -40,18 +40,18 @@ These machines are included in the general WoodyDusty Training & Safety Inductio
 ~insert link to Moodle course~
 
 The training will cover the following:
-  - Usage of the machines including accessories used with the tool
-  - How check & identify the installed blade
-  - How to change & replace the blade
-  - How to trouble shoot issues with the machines
+* Usage of the machines including accessories used with the tool
+* How check & identify the installed blade
+* How to change & replace the blade
+* How to trouble shoot issues with the machines
 
 ---
 
 ### **Safety**
 When using the bandsaws PPE is mandatory and the dust extraction should be connected and running.
-  - Eye protection
-  - Hearing protection
-  - Dust mask (recommended)
+* Eye protection
+* Hearing protection
+* Dust mask (recommended)
 
 During an emergency, if the workshop safety switches are triggered the machine will be disabled as power to the workshop will be stopped.
 
@@ -63,7 +63,7 @@ During an emergency, if the workshop safety switches are triggered the machine w
 ---
 
 ### **Manuals**
-- *~ insert manuals ~*
+* *~ insert manuals ~*
 
 ---
 

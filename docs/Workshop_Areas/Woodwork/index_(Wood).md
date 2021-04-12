@@ -11,6 +11,7 @@ Here members discuss all things related to WoodyDusty and woodworking as a whole
 
 ### **Woodwork Team**
 WoodyDusty is managed by the woodwork team.  Their responsibilities are:
+
 * Attending woodwork meeting
 * Assisting the Board & Sub-committees when required
 * General upkeep & maintenance of equipment

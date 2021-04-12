@@ -18,8 +18,8 @@ Create a markdown file (try stackedit.io if you want  a wysiwyg editor) and simp
 #### Helpful links
 
 Markdown Guides:
-- https://www.markdownguide.org/getting-started/
-- https://www.markdownguide.org/cheat-sheet/
+  - [https://www.markdownguide.org/getting-started/](https://www.markdownguide.org/getting-started/)
+  - [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
 
 MkDocs
-- https://squidfunk.github.io/mkdocs-material/
+  - [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)

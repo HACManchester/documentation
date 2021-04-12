@@ -1,5 +1,5 @@
-# Woodworking Consumables
-This page includes lists of consumables organized by equipment.  This list is open for members to update, however changes should be sent to the board for approval. If in doubt check with the board before buying.
+# Consumables
+This page includes lists of consumables for Woodwork.  This list is open for members to update, however changes should be sent to the board for approval. If in doubt check with the board before buying.
 
 ## Hand tools
 | Item                        | Notes                         |

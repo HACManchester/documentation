@@ -63,6 +63,7 @@ In order to keep the press available and in working order alongside ensuring it 
  
  - [Instruction Manual for the Heatpress](https://github.com/HACManchester/documentation/blob/master/docs/instruction_manuals/yf10-1215_multifunction_heat_press_machine.pdf)
  
+ 
  ### General Purpose Instructions 
  
  - Video on How to Use the Heatpress

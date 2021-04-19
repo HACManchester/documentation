@@ -66,11 +66,15 @@ In order to keep the press available and in working order alongside ensuring it 
  ### General Purpose Instructions 
  
  - Video on How to Use the Heatpress
+ 
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XVs_6HqCmsY/0.jpg)](https://www.youtube.com/watch?v=XVs_6HqCmsY)}
+ 
  -  Video - Introduction to Sublimation for beginners
+ 
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ns7macGAKwQ/0.jpg)](https://www.youtube.com/watch?v=Ns7macGAKwQ)
  
  - [The complete Guide to Successful Dye Sublimation Printing (March 2014)](http://unisubproductsupport.weebly.com/uploads/3/7/5/4/37542039/sawgrass_sublimation_guide_-_march_2014.pdf) 
+ 
  - [The Complete Guide to Sublimation Success](https://www.myenmart.com/Dye_Sublimation_Guide.pdf
 
 ### More Youtube Tutorials 

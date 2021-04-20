@@ -28,7 +28,7 @@ The heatpress will press approx A3 size print (you could make larger and press i
 
 **Fabric**
 
-If you are using an Epson and sublimation paper, your best results will be achieved on high count polyester material. 100% white Polyester is best, but aim for at least 65% Polyester and then preferrable the other 35% is cotton. If you don’t want white, you can choose light grey and light pastels but colors will be most vibrant and clear on an all white substrate.
+If you are using an Epson and sublimation paper, your best results will be achieved on high count polyester material. 100% white Polyester is best, but aim for at least 65% Polyester and then preferable the other 35% is cotton. If you don’t want white, you can choose light grey and light pastels but colors will be most vibrant and clear on an all white substrate.
 
 Rayon is not fun in a heat press. Stay away from it.
 
@@ -59,7 +59,7 @@ In order to keep the press available and in working order alongside ensuring it 
 
  - Ensure you place a cork mat on the metal railing of the stage where the heatpress can be swung onto to prevent heat transfer across the railing and risk burning someone 
   
- - Use butcher paper to line the bottom of the heatpress and place over your sublimation paper prior to pressing to prevent the ink transfering to the heatpress itself (its recommend you place butcher paper in between any layers eg inside a t-shirt if your pressing a t-shirt to prevent the transfer)
+ - Use butcher paper to line the bottom of the heatpress and place over your sublimation paper prior to pressing to prevent the ink transferring to the heatpress itself (its recommend you place butcher paper in between any layers eg inside a t-shirt if your pressing a t-shirt to prevent the transfer)
  
  - [Instruction Manual for the Heatpress](https://github.com/HACManchester/documentation/blob/master/docs/instruction_manuals/yf10-1215_multifunction_heat_press_machine.pdf)
  
@@ -93,6 +93,6 @@ See these channels
 -   [HOW TO PRINT POLYESTER CUSHION COVERS](https://www.inkexperts.co.uk/how-to-print-polyester-cushion-covers/)
 -   [HOW TO PRINT A T-SHIRT](https://www.inkexperts.co.uk/how-to-print-a-t-shirt/)
 -   [HOW TO PRINT ON METAL SHEETS](https://www.inkexperts.co.uk/how-to-print-on-metal-sheets/)
-### Risk Assessment
 
-~ Insert heat press risk assessment ~
+### Risk Assessment
+[Heat Press Risk Assessment](https://docs.google.com/document/d/1akd6CkyYUcRjGZvITFjbYGITd5zPSZaMLGEUjEtcInQ/edit?usp=sharing)

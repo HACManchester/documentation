@@ -30,7 +30,7 @@ Alternatively, you can email:
  
 [Membership@hacman.org.uk](mailto:Membership@hacman.org.uk)
 
-  -   Membership Issues
+-   Membership Issues
     
 -   Members Storage
     
@@ -39,7 +39,7 @@ Alternatively, you can email:
 -   Anything else related to Members
     
 
-  [consumables@hacman.org.uk](mailto:consumables@hacman.org.uk)
+[consumables@hacman.org.uk](mailto:consumables@hacman.org.uk)
 
 -   Buy Things Requests
     

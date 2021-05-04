@@ -2,13 +2,18 @@
 
 We have three metal lathes at the Hackspace
 - Myford ML7
-- Warco
-- ???
+- Warco 220
+- Atlas Halifax
 
 ## Ownership
 
+The Warco 220 currently belongs to Michael / MuteDuck
+
 The Myford ML 7 is on loan on a (hopefully) permanent basis from Steve.
 As such, treat the machine with respect and do not abuse/mistreat it.
+
+The Atlas Halifax lathe is currently in the middle of being reninvated / converted to a cnc lathe.
+It belongs to Richard / Garlicbread
 
 ## About
 
@@ -18,6 +23,8 @@ diameter by 20" length piece of work (*double check actual sizes*).
 
 This machine is ONLY for metalwork, and should only be used by people
 who have been trained.
+
+The Atlas Halifax - http://www.lathes.co.uk/atlas/page9.html
 
 ## Usage
 
@@ -111,10 +118,17 @@ material can be supplied by the space for a small fee.
 
 ## Manual
 
+### Myford ML7
+
 ![<File:MyfordML7Manual.pdf>](MyfordML7Manual.pdf "fig:File:MyfordML7Manual.pdf")
 Purely the basic factory manual.
 
+### Warco 220
+
+[Warco 220 Manual](/instruction_manuals/Warco-Lathe-220.pdf)
+
 ## Risk Assessment
+
 [Metal Lathe Risk Assessment](https://docs.google.com/document/d/1sL7dRjBeEd598XGXlioWClssJAlI1N-WiVfwOxGq438/edit?usp=sharing)
 
 [Category:Equipment](Category:Equipment "wikilink")

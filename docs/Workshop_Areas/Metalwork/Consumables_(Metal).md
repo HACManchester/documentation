@@ -45,6 +45,8 @@
 | Item                               | Preferred Supplier | Notes |
 |------------------------------------|--------------------|-------|
 | Bearing Oil (Myford)               | https://www.myford.co.uk/acatalog/VG32-LUBRICATING-OIL---ESSO-NUTO-32---1-LITRE-662.html | VG32 LUBRICATING OIL - ESSO NUTO 32 |
+| Way Oil               | https://www.lubefinder.com/mobil-vactra-oil-no-2.html | Mobil Vactra Oil No.2 |
+| Gear/rack grease               | https://www.cromwell.co.uk/shop/lubricants-and-chemicals/greases/mts-1000-grease-500g/p/ROC7706227K | Rocol MTS 1000 |
 | Insert - General                   |                    |       |
 | Insert - Threading                 |                    |       |
 

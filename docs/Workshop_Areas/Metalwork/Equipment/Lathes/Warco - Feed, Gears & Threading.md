@@ -32,18 +32,18 @@ Image goes here
 | 0.6   | 32 | 40 | 30 | 50 | 20 | 64 |       |
 | 0.7   | 32 | 40 | 35 | 50 | 20 | 64 |       |
 | 0.75  | 32 | 40 | 30 | 60 | 25 | 64 |       |
-| 0.8   | 32 | 40 | 40 | 50 | 20 | 64 |       |
-| 1.0   | 32 | 40 | 20 | 50 | 50 | 64 |       |
-| 1.25  | 32 | 40 | 25 | 50 | 50 | 64 |       |
-| 1.5   | 32 | 40 | 30 | 50 | 50 | 64 |       |
-| 1.75  | 32 | 40 | 35 | 50 | 50 | 64 |       |
-| 2.0   | 32 | 40 | 40 | 50 | 50 | 64 |       |
-| 2.5   | 32 | 64 | 50 | 45 | 45 | 40 |       |
-| 3.0   | 32 | 64 | 45 | 50 | 50 | 30 |       |
-| 3.5   | 32 | 64 | 35 | 60 | 60 | 20 |       |
-| 4.0   | 32 | 64 | 50 | 45 | 45 | 25 |       |
-| 4.5   | 32 | 64 | 45 | 50 | 50 | 20 |       |
-| 5.0   | 32 | 64 | 50 | 45 | 45 | 20 |       |
+| 0.8   | 32 | 40 | 40 | 50 | 20 | 64 | Not possible due missing gear |
+| 1.0   | 32 | 40 | 20 | 50 | 50 | 64 | Not possible due missing gear - Propose 32-40-20-60-45-48 as alternative |
+| 1.25  | 32 | 40 | 25 | 50 | 50 | 64 | Not possible due missing gear |
+| 1.5   | 32 | 40 | 30 | 50 | 50 | 64 | Not possible due missing gear - Propose 32-40-30-60-45-48 as alternative |
+| 1.75  | 32 | 40 | 35 | 50 | 50 | 64 | Not possible due missing gear |
+| 2.0   | 32 | 40 | 40 | 50 | 50 | 64 | Not possible due missing gear |
+| 2.5   | 32 | 64 | 50 | 45 | 45 | 40 | Not possible due missing gear |
+| 3.0   | 32 | 64 | 45 | 50 | 50 | 30 | Not possible due missing gear |
+| 3.5   | 32 | 64 | 35 | 60 | 60 | 20 | Not possible due missing gear |
+| 4.0   | 32 | 64 | 50 | 45 | 45 | 25 | Not possible due missing gear |
+| 4.5   | 32 | 64 | 45 | 50 | 50 | 20 | Not possible due missing gear |
+| 5.0   | 32 | 64 | 50 | 45 | 45 | 20 | Not possible due missing gear |
 | 6.0   | 32 | 64 | 50 | 40 | 60 | 25 |       |
 | 7.0   | 32 | 64 | 60 | 30 | 35 | 20 |       |
 | 8.0   | 32 | 64 | 60 | 30 | 50 | 20 |       |

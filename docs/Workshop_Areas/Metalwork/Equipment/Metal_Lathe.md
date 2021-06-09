@@ -90,25 +90,15 @@ first.
 
 ## Induction
 
-Inductions are now available - please contact Greg Morris
-(mail_hmlathe@gregm.co.uk) with the following information:
+Inductions are now available - please ask in the Weldy Grindy Telegram group or contact Mike Hindley via Telegram to arrange.
 
--   What times you are available for training
--   What previous experience you have using a lathe
--   Any particular skills you want to learn
+During this training session, trainees will be able to make a small decorative ring in brass and learn the following skills:
 
-Basic lathe training has a £2 cost - this is to cover the cost of the
-materials that are provided. It consists of making a standard product (a
-2-part plumb-bob) out of aluminium and acetal.
-
-This training covers the following skills
-
--   Health and Safety
+-   Health and safety
 -   Using the 3-jaw chuck
 -   Facing and turning to diameter
--   Taper turning
 -   Drilling
--   Threading with a tap and die
+-   Boring
 -   Grooving and parting off
 
 Other skills will be taught upon request - this can either be on

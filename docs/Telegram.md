@@ -47,6 +47,8 @@ channels on telegram so they don't clog up the main channel.
     group](http://protect-mylinks.com/decrypt?i=176ffd06e716387)
 -   Hacman CNC [Telegram
     Group](http://protect-mylinks.com/decrypt?i=c3bdd506c915725)
+-   Hacman Announcements [Telegram
+    Group](http://protect-mylinks.com/decrypt?i=8085e7fd5188304)
 
 TODO Expired Links
 

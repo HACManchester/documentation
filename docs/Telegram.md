@@ -39,29 +39,31 @@ channels on telegram so they don't clog up the main channel.
 -   Laser Training Group's [Telegram
     group](https://protect-mylinks.com/decrypt?i=0dd977c94a88303) for
     members who want training on the laser
-
-TODO the below links need to be verified / as they may have expired
-
--   Notifications from the Hackscreen, including who's been in [Telegram
-    group](http://protect-mylinks.com/decrypt?i=4d895fd15415716)
--   [Team Documentation](Team_Documentation "wikilink")'s [Telegram
-    group](http://protect-mylinks.com/decrypt?i=a29f3d3d5515717)
--   [Team Event](Team_Events "wikilink")'s [Telegram
-    group](http://protect-mylinks.com/decrypt?i=1f8918fada15718)
--   [Team Procurement](Team_Procurement "wikilink")'s [Telegram
-    group](http://protect-mylinks.com/decrypt?i=1284385e6415719)
--   [Team Woodwork](Team_Woodwork "wikilink")'s [Telegram
-    group](http://protect-mylinks.com/decrypt?i=d354121e2215720)
 -   Metalworking [Telegram
     group](http://protect-mylinks.com/decrypt?i=350e6645b015721)
+-   [Team Woodwork](Team_Woodwork "wikilink")'s [Telegram
+    group](http://protect-mylinks.com/decrypt?i=d354121e2215720)
 -   3d Printing [Telegram
     group](http://protect-mylinks.com/decrypt?i=176ffd06e716387)
 -   Hacman CNC [Telegram
     Group](http://protect-mylinks.com/decrypt?i=c3bdd506c915725)
+
+TODO Expired Links
+
+-   Notifications from the Hackscreen, including who's been in [Telegram
+    group](http://protect-mylinks.com/decrypt?i=4d895fd15415716)
+-   [Team Procurement](Team_Procurement "wikilink")'s [Telegram
+    group](http://protect-mylinks.com/decrypt?i=1284385e6415719)
+-   [Team Documentation](Team_Documentation "wikilink")'s [Telegram
+    group](http://protect-mylinks.com/decrypt?i=a29f3d3d5515717)
+-   [Team Event](Team_Events "wikilink")'s [Telegram
+    group](http://protect-mylinks.com/decrypt?i=1f8918fada15718)
 -   Space Bikes [Telegram
     Group](http://protect-mylinks.com/decrypt?i=389d7aa9e515726)
+
 -   Hacman Games Night [Telegram
-    Group](https://protect-mylinks.com/decrypt?i=62455a049917771)
+    Group](https://protect-mylinks.com/decrypt?i=62455a049917771) (doesn't go anywhere)
+
 
 Groups exist for the following: [laser
 maintenance](Team_Laser "wikilink"), security, board, etc. These groups

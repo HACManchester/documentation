@@ -4,10 +4,6 @@
   * [Members Portal](https://members.hacman.org.uk/)
   * [Discussion Forum](https://list.hacman.org.uk/)
 
-## Telegram
-
-TODO
-
 ## Training
 
 Currently we are in the process of moving training across to moodle

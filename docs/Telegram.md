@@ -36,6 +36,12 @@ themselves to the channels**
 Several groups that look after parts of the hackspace have specific
 channels on telegram so they don't clog up the main channel.
 
+-   Laser Training Group's [Telegram
+    group](https://protect-mylinks.com/decrypt?i=0dd977c94a88303) for
+    members who want training on the laser
+
+TODO the below links need to be verified / as they may have expired
+
 -   Notifications from the Hackscreen, including who's been in [Telegram
     group](http://protect-mylinks.com/decrypt?i=4d895fd15415716)
 -   [Team Documentation](Team_Documentation "wikilink")'s [Telegram
@@ -48,9 +54,6 @@ channels on telegram so they don't clog up the main channel.
     group](http://protect-mylinks.com/decrypt?i=d354121e2215720)
 -   Metalworking [Telegram
     group](http://protect-mylinks.com/decrypt?i=350e6645b015721)
--   Laser Training Group's [Telegram
-    group](http://protect-mylinks.com/decrypt?i=8fc2878c3715722) for
-    members who want training on the laser
 -   3d Printing [Telegram
     group](http://protect-mylinks.com/decrypt?i=176ffd06e716387)
 -   Hacman CNC [Telegram
@@ -64,5 +67,3 @@ Groups exist for the following: [laser
 maintenance](Team_Laser "wikilink"), security, board, etc. These groups
 require training/election to join so please ask in the main channel if
 you are interested.
-
-[Category:About](Category:About "wikilink")

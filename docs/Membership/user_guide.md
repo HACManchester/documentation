@@ -12,6 +12,13 @@ sort inductions for most equipment (this is a 2 step process), Manage Members St
 The getting started guide below gives you some more in-depth details on the sysytem and how to use
 it.
 
+## Signing up
+If you'd like to join Hackspace Manchester, you can sign up at https://members.hacman.org.uk/register
+
+When you've signed up, you'll be asked to set up a Direct Debit with our payment provider, GoCardless. We will not see any of your bank or card details, this is all done securely by GoCardless. 
+
+When you have set up a payment, you will be posted a fob to the address you entered when you signed up. Instructions are enclosed onto how to get going, but can be found at hacman.org.uk/welcome
+
 ## Access and logging in
 To access the members system visit https://members.hacman.org.uk and click the login button. If
 this is your first time using the system you will need to reset your password. To do this click the

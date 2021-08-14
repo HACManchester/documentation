@@ -29,42 +29,42 @@ specifically).
 
 ### Group Channels
 
-**Note the telegram links have been protected with
-<http://protect-mylinks.com/addlinks> to avoid spam bots adding
-themselves to the channels**
+**Note we were using <http://protect-mylinks.com/addlinks> to avoid spam bots adding
+themselves to the channels, but it looks like they've started using annoying adds so that's been turned off**
 
 Several groups that look after parts of the hackspace have specific
 channels on telegram so they don't clog up the main channel.
 
 -   Laser Training Group's [Telegram
-    group](https://protect-mylinks.com/decrypt?i=0dd977c94a88303) for
+    group](https://t.me/joinchat/D5l4WUNG_uyg6YB0PYikRA) for
     members who want training on the laser
 -   Metalworking [Telegram
-    group](http://protect-mylinks.com/decrypt?i=350e6645b015721)
+    group](https://t.me/joinchat/B8-OC1MTETWTM8vBexJOag)
 -   [Team Woodwork](Team_Woodwork "wikilink")'s [Telegram
-    group](http://protect-mylinks.com/decrypt?i=d354121e2215720)
+    group](https://t.me/joinchat/AYtZgkk7n1MqvkN9N2fmsA)
 -   3d Printing [Telegram
-    group](http://protect-mylinks.com/decrypt?i=176ffd06e716387)
+    group](https://t.me/joinchat/DZNJNRJimIP7XoyvDArnUg)
 -   Hacman CNC [Telegram
-    Group](http://protect-mylinks.com/decrypt?i=c3bdd506c915725)
+    Group](https://t.me/joinchat/AYtZgkh3BSRgpoA9LvQ3Hg)
 -   Hacman Announcements [Telegram
-    Group](http://protect-mylinks.com/decrypt?i=8085e7fd5188304)
+    Group](https://t.me/hackspaceannounce)
+-   Hacman Games Night [Telegram
+    Group](https://t.me/joinchat/Ef01rUOXtWoUe3NHzQ-9QQ)
 
 TODO Expired Links
 
 -   Notifications from the Hackscreen, including who's been in [Telegram
-    group](http://protect-mylinks.com/decrypt?i=4d895fd15415716)
+    group](https://t.me/joinchat/Ef01rU1SrP9xJNmwXjHtWA)
 -   [Team Procurement](Team_Procurement "wikilink")'s [Telegram
-    group](http://protect-mylinks.com/decrypt?i=1284385e6415719)
+    group](https://t.me/joinchat/D5l4WUPaGRQovcFCLd1X7g)
 -   [Team Documentation](Team_Documentation "wikilink")'s [Telegram
-    group](http://protect-mylinks.com/decrypt?i=a29f3d3d5515717)
+    group](https://t.me/joinchat/Agaj2UBrygQwTBBHDW8jyA)
 -   [Team Event](Team_Events "wikilink")'s [Telegram
-    group](http://protect-mylinks.com/decrypt?i=1f8918fada15718)
+    group](https://t.me/joinchat/E4DcrUDWGvEzlsmJHNNkuQ)
 -   Space Bikes [Telegram
-    Group](http://protect-mylinks.com/decrypt?i=389d7aa9e515726)
+    Group](https://t.me/joinchat/AoAv41LtXqjULCvqsbGwrA)
 
--   Hacman Games Night [Telegram
-    Group](https://protect-mylinks.com/decrypt?i=62455a049917771) (doesn't go anywhere)
+
 
 
 Groups exist for the following: [laser

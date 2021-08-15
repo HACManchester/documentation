@@ -33,9 +33,12 @@ Image goes here
 | 0.7   | 32 | 40 | 35 | 50 | 20 | 64 |       |
 | 0.75  | 32 | 40 | 30 | 60 | 25 | 64 |       |
 | 0.8   | 32 | 40 | 40 | 50 | 20 | 64 | Not possible due missing gear |
-| 1.0   | 32 | 40 | 20 | 50 | 50 | 64 | Not possible due missing gear - Propose 32-40-20-60-45-48 as alternative |
+| 1.0   | 32 | 40 | 20 | 50 | 50 | 64 | Not possible due missing gear |
+| 1.0 alt| 32 | 40 | 20 | 60 | 45 | 58 |      |
 | 1.25  | 32 | 40 | 25 | 50 | 50 | 64 | Not possible due missing gear |
-| 1.5   | 32 | 40 | 30 | 50 | 50 | 64 | Not possible due missing gear - Propose 32-40-30-60-45-48 as alternative |
+| 1.25 alt| 32 | 40 | 25 | 60 | 45 | 58 |      |
+| 1.5   | 32 | 40 | 30 | 50 | 50 | 64 | Not possible due missing gear |
+| 1.5 alt| 32 | 40 | 30 | 60 | 45 | 58 |      |
 | 1.75  | 32 | 40 | 35 | 50 | 50 | 64 | Not possible due missing gear |
 | 2.0   | 32 | 40 | 40 | 50 | 50 | 64 | Not possible due missing gear |
 | 2.5   | 32 | 64 | 50 | 45 | 45 | 40 | Not possible due missing gear |
@@ -63,19 +66,20 @@ Image goes here
 | 6          | 32 | 63 | 50 | 30 | 60 | 48 |       |
 | 7          | 32 | 63 | 50 | 35 | 60 | 48 |       |
 | 8          | 32 | 63 | 50 | 30 | 45 | 48 |       |
-| 9          | 32 | 60 | 60 | 36 | 50 | 63 |       |
-| 10         | 32 | 60 | 60 | 50 | 50 | 63 |       |
-| 11         | 32 | 60 | 60 | 44 | 50 | 63 |       |
+| 9          | 32 | 60 | 60 | 36 | 50 | 63 | Not possible due missing gear |
+| 10         | 32 | 60 | 60 | 50 | 50 | 63 | Not possible due missing gear |
+| 11         | 32 | 60 | 60 | 44 | 50 | 63 | Not possible due missing gear |
 | (11.5)     | 32 | 60 | 60 | 46* | 50 | 63 | * Gear not available|
-| 12         | 32 | 40 | 40 | 48 | 50 | 63 |       |
-| 13         | 32 | 50 | 50 | 26 | 25 | 63 |       |
+| 12         | 32 | 40 | 40 | 48 | 50 | 63 | Not possible due missing gear |
+| 13         | 32 | 50 | 50 | 26 | 25 | 63 | Not possible due missing gear |
 | 14         | 32 | 63 | 50 | 35 | 30 | 48 |       |
 | 16         | 32 | 60 | 50 | 48 | 45 | 63 |       |
-| 18         | 32 | 60 | 60 | 36 | 25 | 63 |       |
-| 19         | 32 | 40 | 40 | 38 | 25 | 63 |       |
-| 20         | 32 | 50 | 50 | 40 | 25 | 63 |       |
-| 22         | 32 | 50 | 50 | 44 | 25 | 63 |       |
-| 24         | 32 | 50 | 50 | 48 | 25 | 63 |       |
+| 18         | 32 | 60 | 60 | 36 | 25 | 63 | Not possible due missing gear |
+| 19         | 32 | 40 | 40 | 38 | 25 | 63 | Not possible due missing gear |
+| 20         | 32 | 50 | 50 | 40 | 25 | 63 | Not possible due missing gear |
+| 20 alt     | 32 | 25 | 20 | 64 | 50 | 63 |       |
+| 22         | 32 | 50 | 50 | 44 | 25 | 63 | Not possible due missing gear |
+| 24         | 32 | 50 | 50 | 48 | 25 | 63 | Not possible due missing gear |
 | 27         | 32 | 60 | 50 | 36 | 20 | 63 |       |
 | 28         | 32 | 48 | 25 | 63 | 30 | 35 |       |
 | 32         | 32 | 60 | 45 | 48 | 25 | 63 |       |

@@ -39,11 +39,11 @@ Add link to uploaded image
 | 0.75  | 32 | 40 | 30 | 60 | 25 | 64 |       |
 | 0.8   | 32 | 40 | 40 | 50 | 20 | 64 | Not possible due missing gear |
 | 1.0   | 32 | 40 | 20 | 50 | 50 | 64 | Not possible due missing gear |
-| 1.0 alt| 32 | 40 | 20 | 60 | 45 | 58 |      |
+| 1.0 alt| 32 | 40 | 20 | 60 | 45 | 48 |      |
 | 1.25  | 32 | 40 | 25 | 50 | 50 | 64 | Not possible due missing gear |
-| 1.25 alt| 32 | 40 | 25 | 60 | 45 | 58 |      |
+| 1.25 alt| 32 | 40 | 25 | 60 | 45 | 48 |      |
 | 1.5   | 32 | 40 | 30 | 50 | 50 | 64 | Not possible due missing gear |
-| 1.5 alt| 32 | 40 | 30 | 60 | 45 | 58 |      |
+| 1.5 alt| 32 | 40 | 30 | 60 | 45 | 48 |      |
 | 1.75  | 32 | 40 | 35 | 50 | 50 | 64 | Not possible due missing gear |
 | 2.0   | 32 | 40 | 40 | 50 | 50 | 64 | Not possible due missing gear |
 | 2.5   | 32 | 64 | 50 | 45 | 45 | 40 | Not possible due missing gear |

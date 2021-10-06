@@ -36,6 +36,25 @@ The Atlas Halifax - http://www.lathes.co.uk/atlas/page9.html
     the can with a black tip of the metal bottle onto each point with a
     single squeeze to force oil into these points
 
+## Trained users
+
+Only the following people have been trained to use the metal lathes. Nobody else may use them. If you think your name should be on this list, please contact the metalworking team via Telegram.
+
+ - Greg Morris
+ - Richard Westwell
+ - Alex Bennett
+ - Stephen Procter
+ - Michael Hindley
+ - Jason Mosely
+ - Ellen Pearce
+ - Paul Plowman
+ - Jamie Helsby
+ - Adam Paigge
+ - Adam Fraser
+ - Wayne Smith
+ - Bob Clough
+ - Jason France
+ - Mark Concannon
 
 ## Lathe Tour
 

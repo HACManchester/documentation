@@ -1,12 +1,10 @@
 # Who to Contact
 
-The Hackspace Manchester Helpdesk was established to make communication more streamlined and provide a better service to members.
+The Hackspace is entirely member run, so for most things you'll want to speak to regular members. For some issues you may want to speak to the board, who are elected members. They only deal with the critical and business stuff. For everything else, the community is who to ask.
 
-Access the helpdesk at [https://help.hacman.org.uk](https://help.hacman.org.uk) and submit a ticket (this really is the easiest option)
-
-Alternatively, you can email:
-
-[helpdesk@hacman.org.uk](mailto:helpdesk@hacman.org.uk)
+### Telegram group chats, or the Forum
+The [Forum](https://list.hacman.org.uk) is a good place to post things, we have different categories for the different areas of the space.
+You can also use [Telegram](https://docs.hacman.org.uk/Telegram/) for things requiring a fast answer, or to be added to different group chats.
 
 -   Issue with Equipment / maintenance required
     
@@ -14,10 +12,20 @@ Alternatively, you can email:
     
 -   General Enquiries
     
+### Board
+Some issues may require emailing the board, for example:
 -   Any issues with infrastructure (Digital eg Members System, Hackscreen) or physical eg electrical issues, issue with the door etc
     
 -   H&S Issues eg report a near miss, report an accident
-    
+
+-   Issues with other members, rule breaks, inappropriate behavious.
+
+[Board@hacman.org.uk](mailto:Board@hacman.org.uk)
+
+   
+## Team Email Addresses
+We have some email addresses for the delegated teams
+
 [Outreach@hacman.org.uk](mailto:Outreach@hacman.org.uk)
 
 -   Social Media
@@ -43,6 +51,4 @@ Alternatively, you can email:
 
 -   Buy Things Requests
     
-[Board@hacman.org.uk](mailto:Board@hacman.org.uk)
 
--   Complaints / Concerns

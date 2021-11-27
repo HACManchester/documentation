@@ -194,5 +194,31 @@ At this stage you should now be ready to do the cut for real.
 
 Status can be seen on the members page at [the members' system laser page](https://members.hacman.org.uk/equipment/laser). If there is a notice on the laser itself saying it is out of order, that takes priority.
 
+## Checklist for induction - Trainers Guide to Laser Cutting
+
+### Prerequisites 
+Make sure they read through this page and if possible have visicut setup on their machine with a design ready to cut
+
+### Steps
+1. Introduce the laser cutter and point all the functions i.e. the bed size, where the cooler is, the extractor fan, menu selector
+2. Always mention safety and safety features throughout, start with making sure the coolant pump is on (mention recommended temp)
+3. Open the cover. Mention the different parts, laser head, mirrors, lid switch for laser cut off
+4. Mention what the lid switch does and how it can be useful but make sure it is not tampered with
+5. Also mention the pneumatic arm is not working properly. A few people have bumped their heads. (Maybe we should fix that? Or not.)
+6. Move on to raising and lowering the bed and why it's needed
+7. Talk about the menu but might be best to show it off when you start sending jobs to it
+8. Mention the materials we supply and what materials are allowed
+9. Talk about the log book and money box. Mention the credit recording at the back of the book
+10. Mention why it's worth recording the time even if you don't care about how much money you pay. Some people didn't get it until I had to spell out we want to know how long the laser has ran for, not what you paid for it
+11. Move to the computer. Prep a job (make it as small as possible) and send it to the laser cutter to show how visicut works
+12. Mention the different profile options in visicut and how you can manually tweak the settings
+13. On the laser cutter, after the job is sent, talk about the menu options like boundary
+14. Talk about emergency stop especially short press vs. long press
+15. Cut your piece
+16. Get them to do the same. Keep it simple though, this is an induction
+17. In between jobs I turn off the chiller so they make sure to remember to turn it on
+18. You have some time while the laser cutter is running to talk about relevant scenarios: so mention if there is a fire what to do, how to emergency stop if the menu crashes, how to report issues with the laser and what issues to look out for.
+19. Also remind them to time the cut
+
 ### Risk Assessment
 [Laser Cutter Risk Assessment](https://docs.google.com/document/d/1lllSKpsBu2iK7Go8yagxja4cmtHXv9eduVnCUz_MOnI/edit?usp=sharing)

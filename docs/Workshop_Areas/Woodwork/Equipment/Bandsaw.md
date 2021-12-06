@@ -65,7 +65,7 @@ During an emergency, if the workshop safety switches are triggered the machine w
 [Bandsaw Risk Assessment](https://docs.google.com/document/d/1XamNWhlXafMzea9VrnyEexjN7GmRunrqYpK8ltzWuMQ/edit?usp=sharing)
 
 
-### Induction Docs
+### **Induction Docs**
 
   * [Bandsaw.pdf](../../Inductions/Bandsaw.pdf)
   * [Bandsaw.docx](../../Inductions/Bandsaw.docx)

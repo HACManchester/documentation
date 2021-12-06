@@ -65,7 +65,7 @@ During an emergency, if the workshop safety switches are triggered the machine w
 ### **Risk Assessment**
 [Mitre Saw Risk Assessment](https://docs.google.com/document/d/1hz-QQyRN5IDYSb1ZQf2hbaZ7sfdufF3-600ZcDYxIJI/edit?usp=sharing)
 
-### Induction Docs
+### **Induction Docs**
 
   * [MitreSaw.pdf](../../Inductions/MitreSaw.pdf)
   * [MitreSaw.docx](../../Inductions/MitreSaw.docx)

@@ -19,5 +19,5 @@ reported, the individual will be barred from accessing the laboratory.
 The decisions on this matter will be from the BSO and will be final.**
 
 | The current BSO is Samantha Thompson.
-| Email: <bioscisam@gmail.com>
-| Tel.: 07720677578.
+| Email: <>
+| Tel.: .

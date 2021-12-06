@@ -12,8 +12,8 @@ Operating Procedures (SOPs). The BSO also acts as the primary contact
 for any lab user with regards to any safety issues.
 
 | The current BSO is Samantha Thompson.
-| Email: <bioscisam@gmail.com>
-| Tel.: 07720677578.
+| Email: <>
+| Tel.: .
 
 Worktops should be left as clear as possible after work has been
 completed.

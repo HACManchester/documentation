@@ -1,4 +1,4 @@
-# Manchester Hackspace BioLab BioLab Rules
+# Manchester Hackspace BioLab Rules
 
 1.  Individuals who have not undergone the lab safety induction are only allowed in the lab under the supervision of an individual that has undergone the safety induction.
 2.  No food and drink for human consumption is permitted in the lab.
@@ -18,6 +18,6 @@ contravention or reckless behaviour from the same individual is
 reported, the individual will be barred from accessing the laboratory.
 The decisions on this matter will be from the BSO and will be final.**
 
-| The current BSO is Samantha Thompson.
+| The current BSO is.
 | Email: <>
 | Tel.: .

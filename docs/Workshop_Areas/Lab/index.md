@@ -1,9 +1,9 @@
 # HacMan BioLab SOP Index
 
 ## Biolab Rules and Guidelines
-[BioLab Rules](biolab-rules.md): Manchester Hackspace BioLab BioLab Rules
+[BioLab Rules](biolab-rules.md): Manchester Hackspace BioLab Rules
 
-  [BioLab Usage Manchester Hackspace BioLab BioLab Guidelines](biolab-usage-guidelines.md): Usage Guidelines
+  [BioLab Usage Manchester Hackspace BioLab Guidelines](biolab-usage-guidelines.md): Usage Guidelines
 
 
 ## 1. Introduction

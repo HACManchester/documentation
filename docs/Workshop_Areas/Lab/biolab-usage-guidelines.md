@@ -1,5 +1,5 @@
 
-# Manchester Hackspace BioLab BioLab Usage Guidelines
+# Manchester Hackspace BioLab Usage Guidelines
 
 As specified in the [BioLab Rules](biolab-rules.md) the following
 advice must be followed when working in the lab.
@@ -11,7 +11,7 @@ users of the BioLab adhere to the rules, guidelines and Standard
 Operating Procedures (SOPs). The BSO also acts as the primary contact
 for any lab user with regards to any safety issues.
 
-| The current BSO is Samantha Thompson.
+| The current BSO is .
 | Email: <>
 | Tel.: .
 

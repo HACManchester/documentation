@@ -305,7 +305,7 @@ and [LBL04006](lbl04006.md).
 The sink area should remain clear. All glassware should be kept clean
 and out of the way.
 
-The sink is connected to the municipal drain. No biological material
+The sink is connected to a drum. No biological material
 should be disposed of in the sink unless it has been inactivated
 appropriately (see [LBL04006](lbl04006.md) for autoclave-based
 inactivation, or [LBL04007](lbl04007.md) for kill-bin-based disposal).

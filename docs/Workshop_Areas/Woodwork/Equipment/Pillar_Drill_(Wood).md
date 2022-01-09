@@ -70,6 +70,10 @@ During an emergency, if the workshop safety switches are triggered the machine w
 ### **Risk Assessment**
 [Pillar Drill Risk Assessment](https://docs.google.com/document/d/1ig6mghyfCGQnn0kOcE3Z2foC5rsd1CZbelOLopmDXX4/edit?usp=sharing)
 
+### **Induction Docs**
+
+  * [PillarDrill.pdf](../../Inductions/PillarDrill.pdf)
+
 ---
 
 ### **Manual**

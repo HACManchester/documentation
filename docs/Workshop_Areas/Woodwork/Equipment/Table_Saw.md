@@ -66,6 +66,10 @@ During an emergency, if the workshop safety switches are triggered the machine w
 ### **Risk Assessment**
 [Table Saw Risk Assessment](https://docs.google.com/document/d/1OxhR1RPczqcEOZW4rS-IJPWVkE0ogod0I6uDbGZRT20/edit?usp=sharing)
 
+### **Induction Docs**
+
+  * [TableSaw.pdf](../../Inductions/TableSaw.pdf)
+
 ---
 
 ### **Manuals**

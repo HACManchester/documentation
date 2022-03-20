@@ -12,7 +12,7 @@ For most things, you'll find the [members system](https://members.hacman.org.uk/
 * Inductions
 * Access to the space
 
-### Focum
+### Forum
 We have a [forum](https://list.hacman.org.uk/) which is used for updates, and threaded conversations.
 
 ### Other useful links

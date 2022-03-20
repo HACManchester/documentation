@@ -1,21 +1,14 @@
 # Home
 
-## Welcome to the Hackspace Manchester Documentation Platform
+![edit](https://docs.hacman.org.uk/images/space.jpg)
 
-###  Adding Documentation
 
-#### Overview 
-https://docs.hacman.org.uk is the home for documentation relating to Hackspace Manchester
+## Quick links
+| Joining                                               | New Members                                                                                                                                                                                                                           | Tools                                                                            |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [Register](members.hacman.org.uk/register) an account | Complete your [induction](https://docs.hacman.org.uk/Membership/new_member_induction/), get chatting on [Telegram](https://docs.hacman.org.uk/Telegram/), and read the [handbook](https://list.hacman.org.uk/t/member-handbook/2890). | Tools are sorted by [workshop areas](https://docs.hacman.org.uk/Workshop_Areas/) |
 
-It is hosted on github pages through mkdocs using the material theme.
 
-#### Adding Documentation 
-
-##### Github User
-
-Simply create a pull request with a new markdown file in the documentation repository and we will pull it at the next scheduled update
-
-##### Non github user 
-
-Create a markdown file (try stackedit.io if you want  a wysiwyg editor) and simply email the markdown output to board@hacman.org.uk and we will add it to the repo on your behalf
-
+| Contribute to the docs                                                                | How things work                                                                                                                                               |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Add and Update this documentation](https://docs.hacman.org.uk/adding_documentation/) | We have [consumables](https://docs.hacman.org.uk/Operations/Consumables/), and a [box of shame](https://docs.hacman.org.uk/Operations/boxes_of_shame/) system |

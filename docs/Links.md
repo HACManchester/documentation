@@ -1,16 +1,19 @@
 # Links
 
-  * [Hacman Main Website](https://www.hacman.org.uk/)
-  * [Members Portal](https://members.hacman.org.uk/)
-  * [Discussion Forum](https://list.hacman.org.uk/)
+### Main website
+Visit our [website](https://www.hacman.org.uk/) for an overview of the space, and our online homepage.
 
-## Training
+### Members System
+For most things, you'll find the [members system](https://members.hacman.org.uk/) is where you need to go:
+* Managing your membership
+* Editing your details
+* Requesting training
+* Viewing tools
+* Inductions
+* Access to the space
 
-Currently we are in the process of moving training across to moodle
+### Forum
+We have a [forum](https://list.hacman.org.uk/) which is used for updates, and threaded conversations.
 
-  * [HacMan Moodle](https://moodle.hacman.org.uk/)
-
-## Trello
-
-  * [Hacman General Trello](https://trello.com/b/glfkudeL/space-wide)
-  * [Ideas for new equipment](https://trello.com/invite/b/EJ98A1dq/6d1d7ee328fc562ff82be6f3c997eab8/new-space-equipment)
+### Other useful links
+Some areas of the space use [Moodle](https://moodle.hacman.org.uk/) to anage training requirements.

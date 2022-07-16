@@ -213,3 +213,5 @@ Things that affect the whole space or don't fall under a specific area.
 ### Long Term
 
   * Set up projector and screen. This could be used for Members Meetings, movie nights, etc.
+
+fnhalluk (Frank) successfully edited this doc.

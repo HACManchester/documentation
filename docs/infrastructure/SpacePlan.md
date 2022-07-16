@@ -24,28 +24,21 @@ Leads: Mark (@Marcus6275)
 
 ### History
 
-  * 2022-03 - Offcuts lived in 2 piles on the floor either side of the table saw, forming trip hazards and a safety concern.
+  * 2022-03 - Offcuts lived in 2 piles on the floor either side of the table saw, forming trip hazards and a safety concern.  
     Frank made the first iteration of an offcut storage solution in the location where the lathe is planned to go.
 
 ### Short term
 
-  * 2022-07 - Drawers and cupboards are being made by Mark.
+  * 2022-07 - Drawers and cupboards are being made by Mark.  
     These will have designations (engraved labels) on the outside but won't be compartmentalised internally - this will be a job for someone else.
-
-    * Plan is to CNC text into the doors/drawer fronts.
+    * Plan is to CNC text into the doors/drawer fronts.  
       Some time has been spent already to investigate depth/width of cut, font size, etc.
-
     * The engraved regions will be filled with blue paint to make the text 'pop'.
-
   * Evolution Mitre saw requires lifting up slightly to be flush with main work surface.
-
-  * T-rails have been bought to allow clamping of work to the main work surface.
+  * T-rails have been bought to allow clamping of work to the main work surface.  
     These will require 14x6mm slots to be routered in just behind the main working line (formed by the Mitre saw fence and the mortise fence).
-
   * Kickboards can be added to the cupboards.
-
   * Dust can fall behind the sanders. This could do with closing off.
-
   * To prevent dust ingress into cupboards, sealant or caulk could be applied to any gaps on the main work surfaces.
 
 ### Medium term
@@ -60,7 +53,7 @@ Leads: Mark (@Marcus6275)
     * Raspberry Pi would authenticate users.
     * Fob readers.
     * Relays.
-  * Whole-room shut-off switch by the door.
+  * Whole-room shut-off switch by the door.  
     This would trigger a relay in the main consumer unit which would kill power to the whole room. Estimated £600.
   * Could do with a revenue stream to pay for new blades and the general upkeep of the tools.
 
@@ -72,21 +65,19 @@ Leads: Jim Ratcliffe (@Omniatus), Mike (@? Lemon Wipes) and Richard (@Garlicbrea
 
 ### History
 
-  * 2022-04 Weldy has seen walls laid, pointed and painted, a door fitted and the room wired.
+  * 2022-04 Weldy has seen walls laid, pointed and painted,  
+    a door fitted and the room wired.
 
 ### Short term
 
   * Fire strip to be fitted to the door frame by the lift.
-
   * Extraction is planned to go through the wall that's shared with Visual Arts, at a height of around 3m and travel across to the front wall of the building.
     * Some piping exists. More to be sourced.
     * Fan requires vibration isolation.
     * Fan to be mounted to the wall.
-
   * Oxygen detector is required to meet the H&S for storing inert gases (in case a bottle leaks, expelling the oxygen from the room and causing surprise asphyxiation).
     * Hard wired into the mains would be best.
     * Appropriate height needs to be considered (or get two oxygen monitors).
-
   * Training and induction plan needs finishing to include angle grinder and bandsaw training. (Mike H wrote this)
   * Welding bench to be sourced.
   * 4-axis CNC router requires testing and if successful, a suitable home.
@@ -111,7 +102,6 @@ Leads:
 
   * The laser cutter uses a certain firmware that requires our current version of Visicut,
     which in turn requires a certain version of OS on the Mac. Please don't update the Mac OS without consulting the laser maintainers.
-
   * Jason (J) provided the Mac that resides next to the laseprinters. 
     Contact J to install software. Otherwise a restart of the computer wipes all user data.
 
@@ -127,7 +117,6 @@ Leads:
     * Filament storage and delivery to the extruder could be improved.
     * A filament drier could be a good investment. Currently ~£50.
     * A vacuum desiccator could be a good investment. Approx £500. Backing pump already exists in the space.
-
   * Acquire a second laser cutter.
     This would allow our current laser cutter to be upgraded without fear of breaking the only laser cutter (which sees strong usage currently) and without the time pressure of having the only laser cutter out of action.
     * Where would the second laser cutter live?

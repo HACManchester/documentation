@@ -7,17 +7,17 @@
 
 It is better to let someone know that their behaviour is liable to break the Citizen Hacman  [Membership Agreement](https://docs.hacman.org.uk/Membership/citizen_hacman_commitment/ "Membership Agreement")  prior to it actually doing so than issue them with a warning.
 
-Any member can issue a warning to a person whose behaviour has broken the code of conduct. Warnings should be reported to board@hacman.org.uk as soon as practical.
+Any member can issue a warning to a person whose behaviour has broken the code of conduct. Complaints against other members should be reported via the [Complaints Form](https://forms.gle/HC2xJrz1XcXx4W1w7) as soon as practical. This can only be seen by the board of directors.
 
-The report should include:
+The form asks for the following compulsory information:
 
--   identifying information (name/nickname/description) of the person
--   the time and date the warning was issued
--   the behaviour that was in violation
--   the approximate time the behaviour occurred (if different to the warning)
--   the circumstances surrounding the incident
--   your identity
--   other people involved in the incident
+-   Reporter Name
+-   Reporter Email
+-   Identifying information (name/nickname/description) of the person
+-   The time, date and location of the incident
+-   Description of the incident
+-   The frequency of incidents of this type
+-   Other people involved in the incident/witnesses
 
 ### Asking people to leave
 

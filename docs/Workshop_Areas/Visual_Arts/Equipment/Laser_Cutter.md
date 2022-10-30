@@ -137,6 +137,11 @@ At this stage you should now be ready to do the cut for real.
 -   Laser fees can be paid in cash into a box near the laser, which should be clearly marked, or from your member balance at [the members' system laser page](https://members.hacman.org.uk/equipment/laser).
 -   If you owe the laser fund money or have some credit (e.g. have paid with a £10 note and only used £3) record your balance at the back of the log book.
 
+### Things to not worry about
+
+-   The key does nothing
+-   There is no need to turn the laser cutter off but there is a switch at the back if it is needed
+
 ## Materials that can be used
 
 |  Material Class  | Material |  Hazard Status | Potential Hazards  |  Special Notes | Suppliers  |

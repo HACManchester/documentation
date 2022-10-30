@@ -20,17 +20,10 @@ For vector editing and manipulation, we suggest people use Inkscape. It
 is a free and powerful vector editing package, and integrates well with
 Visicut. It can be downloaded from [the Inkscape release page](https://inkscape.org/release).
 
-## Operating the laser cutter
-
 ### Visicut
 
 Visicut is the software that converts vector files into the code that
-drives the laser cutter. You can download Visicut from [https://download.visicut.org/archive](https://download.visicut.org/archive).
-We recommend version 1.8-103, which is known to work with our laser cutter.
-Later versions may not be able to send data to the laser cutter correctly.
-This may be fixed with a firmware upgrade to the laser cutter in the future.
-
-Some versions of VisiCut also had issues on OSX; this is believed to be fixed, but if you see problems with it only redrawing when you resize the window, see [this issue on GitHub](https://github.com/t-oster/VisiCut/issues/171).
+drives the laser cutter. You can download Visicut from [https://download.visicut.org/](https://download.visicut.org/).
 
 On first run, Visicut will ask if you want to download settings. You do,
 just select **Manchester, UK: Hackspace** from the list and Visicut will
@@ -45,6 +38,8 @@ least once (so it creates its folders in your home drive), You can
 install the Inkscape addon for Visicut by clicking **Extras > Install
 Inkscape Extension** in Visicut. Close and reopen Inkscape and you
 should have new options for sending vectors directly to Visicut. This isn't necessary to use the laser, but may be helpful.
+
+## Operating the laser cutter
 
 ### Safety
 
@@ -67,7 +62,7 @@ should have new options for sending vectors directly to Visicut. This isn't nece
 
 ### Problems other than fires
 
-If the laser cutter does **anything** out of the ordinary please make sure it's reported to a laser maintainer. If the response is "please put the out of order sign on the cutter" then do that. **DO NOT ATTEMPT TO FIX THE CUTTER YOURSELF.** If it is clearly not functioning, put the out of order sign on it and then report it. We will fix it as soon as possible.
+If the laser cutter does **anything** out of the ordinary please make sure it's reported to a laser maintainer. This can be done through the visual arts telegram channel. If the response is "please put the out of order sign on the cutter" then do that. **DO NOT ATTEMPT TO FIX THE CUTTER YOURSELF.** If it is clearly not functioning, put the out of order sign on it and then report it. We will fix it as soon as possible.
 
 Even if the cut didn't work, let the cutter cool down for 5 mins before turning off.
 
@@ -78,13 +73,13 @@ Even if the cut didn't work, let the cutter cool down for 5 mins before turning 
 
 ### Positioning the part
 
-With the orange laser the only thing to worry about is the Z axis. There
+With the laser the only thing to worry about is the Z axis. There
 is a switch on the right hand side of the machine that can be used to
 lower or raise the main bed of the machine. It's a bit slow, but make
 sure not to crash the bed into the laser head, since there isn't a limit
 switch installed.
 
-There is a small wooden guide inside the machine that can be used to
+There is a small plastic guide inside the machine that can be used to
 position / zero the height against the bed (the default position). This
 goes in between the bed and the left-hand part of the laser cutter, as
 in the following photo:

@@ -5,19 +5,19 @@
 
 ### Warnings
 
-It is better to let someone know that their behaviour is liable to break the Citizen Hacman  [Membership Agreement](https://docs.hacman.org.uk/Membership/citizen_hacman_commitment/ "Membership Agreement")  prior to it actually doing so than issue them with a warning.
+It is better to let someone know that their behaviour is liable to break the Citizen Hacman  [Membership Agreement](https://hacman.org.uk/rules)  prior to it actually doing so than issue them with a warning.
 
-Any member can issue a warning to a person whose behaviour has broken the code of conduct. Warnings should be reported to board@hacman.org.uk as soon as practical.
+Any member can issue a warning to a person whose behaviour has broken the code of conduct. Complaints against other members should be reported via the [Complaints Form](https://forms.gle/HC2xJrz1XcXx4W1w7) as soon as practical. This can only be seen by the board of directors.
 
-The report should include:
+The form asks for the following compulsory information:
 
--   identifying information (name/nickname/description) of the person
--   the time and date the warning was issued
--   the behaviour that was in violation
--   the approximate time the behaviour occurred (if different to the warning)
--   the circumstances surrounding the incident
--   your identity
--   other people involved in the incident
+-   Reporter Name
+-   Reporter Email
+-   Identifying information (name/nickname/description) of the person
+-   The time, date and location of the incident
+-   Description of the incident
+-   The frequency of incidents of this type
+-   Other people involved in the incident/witnesses
 
 ### Asking people to leave
 
@@ -74,4 +74,4 @@ The board will make as much detail about bans and current warnings as they feel 
 
 If you have been asked to stop behaving in a certain way, do so. It's fine to ask what it is you're doing that is upsetting the person if it is not clear, but you shouldn't ask why the person is upset by it, it's enough that they are.
 
-If you have to take action to stop someone behaving in a way contrary to the Citizen Hacman  [Membership Agreement](https://moodle.hacman.org.uk/mod/page/view.php?id=38 "Membership Agreement")  do so, if possible consult with other members and/or the board, however, if action is required take it and explain later.
+If you have to take action to stop someone behaving in a way contrary to the Citizen Hacman  [Membership Agreement](https://hacman.org.uk/rules)  do so, if possible consult with other members and/or the board, however, if action is required take it and explain later.

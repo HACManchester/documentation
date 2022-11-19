@@ -21,10 +21,10 @@ You can also use a compatible mobile phone to register a fob by simply using any
 
 
 ## Access Code
-The space can also be accessed with an access code. The code can be used at anytime, but is particularly useful is if the RFID system fails, or you loose you fob and need to collect another.
+The space can also be accessed with an access code. The code can be used at anytime, but is particularly useful if the RFID system fails, or you lose your fob and need to collect another.
 
 Scroll to the bottom of the Edit Your Details area, click on 'Request access code' and your pincode will be displayed at the top of your profile when the page refreshes.
 
 <img width="865" alt="image" src="https://user-images.githubusercontent.com/10685917/202847669-d6d98d44-5800-43f4-8a6f-6d486746fb07.png">
 
-Note: New members must come to the space for a tour and to collect a fob before they will be able to request an access code.
+Note: New members must come to the space for a tour and to collect and register a fob before they will be able to request an access code.

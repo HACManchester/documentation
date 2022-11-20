@@ -10,45 +10,37 @@ You can also use [Telegram](https://docs.hacman.org.uk/Telegram/) for things req
     
 -   Training / Induction on equipment requests
     
--   General Enquiries
+-   General Enquiries to the Membership
+
+### Hackspace Forms
+We have a couple of google forms which forward your filled form to the correct team:
+
+-   For H&S Issues eg report a near miss, report an accident, broken tools, etc. please [fill in this form](https://forms.gle/a53CaK3xoPfndH8u7) which will be forwarded to the relevant team. This is the QR code link shown around the space.
+
+-   Issues with other members, rule breaks, inappropriate behavious please [fill in this form](https://forms.gle/zDvnknBqTbwaPXvP6) which can only be seen by board members. If you wish to make a complaint about a member of the Board, you can find individual board member's contact information on the notice board in the space.
+
     
 ### Board
-Some issues may require emailing the board, for example:
--   Any issues with infrastructure (Digital eg Members System, Hackscreen) or physical eg electrical issues, issue with the door etc
-    
--   H&S Issues eg report a near miss, report an accident
+Some issues may require contacting the board, [Board@hacman.org.uk](mailto:Board@hacman.org.uk) for example:
+-   Any critical issues with infrastructure (Digital eg Members System, Hackscreen) or the physical space eg electrical issues, issue with the door etc 
 
--   Issues with other members, rule breaks, inappropriate behavious.
-
-[Board@hacman.org.uk](mailto:Board@hacman.org.uk)
-
+-   Membership issues of a private nature.
    
-## Team Email Addresses
-We have some email addresses for the delegated teams
-
-[Outreach@hacman.org.uk](mailto:Outreach@hacman.org.uk)
+### General Enquiries
+For all other enquiries contact [info@hacman.org.uk](mailto:info@hacman.org.uk), this may include:
 
 -   Social Media
     
 -   Community Outreach
+
+-   General Membership Issues
     
 -   Events
-    
--   Hello@ (Normally external emails)
- 
-[Membership@hacman.org.uk](mailto:Membership@hacman.org.uk)
-
--   Membership Issues
     
 -   Members Storage
     
 -   Members Meeting
     
 -   Anything else related to Members
-    
-
-[consumables@hacman.org.uk](mailto:consumables@hacman.org.uk)
-
--   Buy Things Requests
     
 

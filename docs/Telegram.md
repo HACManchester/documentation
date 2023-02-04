@@ -11,7 +11,7 @@ Telegram has a number of clients for various platforms:
 - [Windows Phone](https://telegram.org/dl/wp)
 
 
-You will need a phone number to sign up for Telegram. This is kept private and hidden from other Telegram users by default.
+You will need a phone number to sign up for Telegram. This is kept private and hidden from other Telegram users by default, although other Telegram users who already have your phone number in their address book will be notified that you have joined Telegram.
 
 ## Notifications
 
@@ -58,11 +58,11 @@ We have a number of groups specifically for the operation of the Hackspace overa
 
 Some of these groups are private by default – in which case we'll list their existance, but you won't be able to join them from this page.
 
-| Group name                                                     | Purpose                                                                                                              |
-| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [Laser Training](https://t.me/joinchat/D5l4WUNG_uyg6YB0PYikRA) | To coordinate Laser training sessions between trainers and those waiting to be inducted.                             |
-| Laser Maintainers                                              | A private group for the maintainers of our Laser tools.                                                              |
-| [Open Evening Guides](https://t.me/+myuSy3MNMI8yMjQ0)          | Our members volunteer to run our open evening tours. If you're interested in helping out, this is the group to join. |
-| Digital Infrastructure Working Group                           | A private group for the members looking after our digital systems.                                                   |
-| Membership Subcommittee                                        | A private group to discuss membership issues                                                                         |
-| Membership System Log                                          | Logs from the Membership System, for our Digital team to keep an eye on.                                             |
+| Group name                                            | Purpose                                                                                                                                                                                                           |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Open Evening Guides](https://t.me/+myuSy3MNMI8yMjQ0) | Our members volunteer to run our open evening tours. If you're interested in helping out, this is the group to join.                                                                                              |
+| Laser Training                                        | Used to coordinate Laser training sessions between trainers and those waiting to be inducted. You will be given a link to this group after requesting an induction on our Laser Cutter via the membership system. |
+| Laser Maintainers                                     | A private group for the maintainers of our Laser tools.                                                                                                                                                           |
+| Digital Infrastructure Working Group                  | A private group for the members looking after our digital systems.                                                                                                                                                |
+| Membership Subcommittee                               | A private group to discuss membership issues                                                                                                                                                                      |
+| Membership System Log                                 | Logs from the Membership System, for our Digital team to keep an eye on.                                                                                                                                          |

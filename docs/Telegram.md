@@ -1,73 +1,68 @@
-Hacman Group Chat
------------------
+We have a number of group chats in [Telegram](https://telegram.org) that we encourage members to use to keep in touch, help each other out, and stay up to date with news and announcements.
 
-Hacman has [a Telegram group](https://t.me/HACManchester) which you are
-welcome to join!
+Some of these group chats are used to coordinate training for certain pieces of equipment.
 
-This contains many Hackspace members, as well as interested or
-interesting people. It's a good place to ask questions for a quick
-answer, ask for advice, or share news and links of interest to fellow
-hackers. There are [web](https://telegram.org/dl/webogram) clients for
-Telegram, as well as official clients for [Windows, Linux, OS
-X](https://desktop.telegram.org/),
-[Android](https://telegram.org/dl/android),
-[iOS](https://telegram.org/dl/ios), and [Windows
-Phone](https://telegram.org/dl/wp). You will need a phone number (not
-necessarily a UK one) to sign up for Telegram.
+Telegram has a number of clients for various platforms:
 
-Please familiarise yourself with our [Citizen Hacman
-Commitment](https://list.hacman.org.uk/t/citizen-hacman-a-revised-membership-agreement-and-hackspace-rules-final/2609)
-before chatting.
-
-#### Notifications
-
-This is a relatively high traffic channel (replacing IRC, which is no
-longer active). It's recommended that if using a phone app you disable
-notifications for the group (you will still receive notifications if
-someone sends you a PM, or if someone addresses or mentions you
-specifically).
-
-### Group Channels
-
-**Note we were using <http://protect-mylinks.com/addlinks> to avoid spam bots adding
-themselves to the channels, but it looks like they've started using annoying adds so that's been turned off**
-
-Several groups that look after parts of the hackspace have specific
-channels on telegram so they don't clog up the main channel.
-
--   Laser Training Group's [Telegram
-    group](https://t.me/joinchat/D5l4WUNG_uyg6YB0PYikRA) for
-    members who want training on the laser
--   Metalworking [Telegram
-    group](https://t.me/joinchat/B8-OC1MTETWTM8vBexJOag)
--   [Team Woodwork](Team_Woodwork "wikilink")'s [Telegram
-    group](https://t.me/joinchat/AYtZgkk7n1MqvkN9N2fmsA)
--   3d Printing [Telegram
-    group](https://t.me/joinchat/DZNJNRJimIP7XoyvDArnUg)
--   Hacman CNC [Telegram
-    Group](https://t.me/joinchat/AYtZgkh3BSRgpoA9LvQ3Hg)
--   Hacman Announcements [Telegram
-    Group](https://t.me/hackspaceannounce)
--   Hacman Games Night [Telegram
-    Group](https://t.me/joinchat/Ef01rUOXtWoUe3NHzQ-9QQ)
-
-TODO Expired Links
-
--   Notifications from the Hackscreen, including who's been in [Telegram
-    group](https://t.me/joinchat/Ef01rU1SrP9xJNmwXjHtWA)
--   [Team Procurement](Team_Procurement "wikilink")'s [Telegram
-    group](https://t.me/joinchat/D5l4WUPaGRQovcFCLd1X7g)
--   [Team Documentation](Team_Documentation "wikilink")'s [Telegram
-    group](https://t.me/joinchat/Agaj2UBrygQwTBBHDW8jyA)
--   [Team Event](Team_Events "wikilink")'s [Telegram
-    group](https://t.me/joinchat/E4DcrUDWGvEzlsmJHNNkuQ)
--   Space Bikes [Telegram
-    Group](https://t.me/joinchat/AoAv41LtXqjULCvqsbGwrA)
+- [Web client](https://telegram.org/dl/webogram) 
+- [Desktop (Windows, Linux, macOS)](https://desktop.telegram.org/)
+- [Android](https://telegram.org/dl/android)
+- [iOS](https://telegram.org/dl/ios)
+- [Windows Phone](https://telegram.org/dl/wp)
 
 
+You will need a phone number to sign up for Telegram. This is kept private and hidden from other Telegram users by default.
 
+## Notifications
 
-Groups exist for the following: [laser
-maintenance](Team_Laser "wikilink"), security, board, etc. These groups
-require training/election to join so please ask in the main channel if
-you are interested.
+Our group chats can be busy places. To avoid being overloaded by notifications, you may want to mute some or all of our groups.
+
+If you mute any groups, you may still receive notifications from them if another person directly mentions you or replies to one of your messages.
+
+## Groups
+
+The following tables list our group chats and their purpose. Click the group's name to join.
+
+> **Warning: Telegram rate limits**
+> 
+> To prevent abuse, Telegram limits the amount of groups you can join within 24 hours.
+>
+> To get chatting sooner than later, you might want to join groups you have the most interest in first.
+
+### General purpose
+
+| Group name                                               | Purpose                                                                                                                                            |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Hackspace Manchester](https://t.me/HACManchester)       | General purpose chat for all Hackspace Manchester members. Please do join this group.                                                              |
+| [Official Announcements](https://t.me/hackspaceannounce) | For example, news of members meetings, hack-the-space days, or certain outages / issues with the Hackspace or certain pieces of equipment          |
+| [Doorbot](https://t.me/+TVKs_4B85ksjAAVl)                | Access announcements – see who's visiting the space. To opt out, edit your account within the membership system and set "Announce Name" to "anon". |
+
+### Speciality groups
+
+For those interested in certain equipment, specialities, or hobbies.
+
+| Group name                                                  | Purpose                                                                                                                                     |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Woodwork](https://t.me/joinchat/AYtZgkk7n1MqvkN9N2fmsA)    | For any chatter relating to Woodworking, or matters relating to our Wood workshop.                                                          |
+| [Metalwork](https://t.me/joinchat/B8-OC1MTETWTM8vBexJOag)   | Similarly, anything relating to Metalwork or our Metal workshop.                                                                            |
+| [Electronics](https://t.me/+WLCJFgPE5LHX69XW)               | Anything relating to electronics in general, or our Electronics area.                                                                       |
+| [Visual Arts](https://t.me/hacmanvisualarts)                | Relating to our Visual Arts area,  any of the specialities within it, or visual arts in general.                                            |
+| [3D printing](https://t.me/joinchat/DZNJNRJimIP7XoyvDArnUg) | All things to do with 3D printing, or our own 3D printers.                                                                                  |
+| [Bike space](https://t.me/+hy1MtdfETqwzZmVk)                | For those with an interest in bikes, biking, or our collection of bike tools.                                                               |
+| [Games Night](https://t.me/+Q5e1aiVMwDvND71B)               | Board gaming & game night related chatter.                                                                                                  |
+| [Clutter Exchange](https://t.me/+11IEnLLuh8QxYWM0)          | See if any other members might be interest in anything you're wanting rid of: tools, equipment, material, or anything else possibly useful. |
+
+### Operations
+
+We have a number of groups specifically for the operation of the Hackspace overall.
+
+Some of these groups are private by default – in which case we'll list their existance, but you won't be able to join them from this page.
+
+| Group name                                                     | Purpose                                                                                                              |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [Laser Training](https://t.me/joinchat/D5l4WUNG_uyg6YB0PYikRA) | To coordinate Laser training sessions between trainers and those waiting to be inducted.                             |
+| Laser Maintainers                                              | A private group for the maintainers of our Laser tools.                                                              |
+| [Open Evening Guides](https://t.me/+myuSy3MNMI8yMjQ0)          | Our members volunteer to run our open evening tours. If you're interested in helping out, this is the group to join. |
+| Digital Infrastructure Working Group                           | A private group for the members looking after our digital systems.                                                   |
+| Membership Subcommittee                                        | A private group to discuss membership issues                                                                         |
+| Membership System Log                                          | Logs from the Membership System, for our Digital team to keep an eye on.                                             |

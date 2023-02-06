@@ -6,10 +6,10 @@ Each tour will last about 20 minutes, during which a couple of your fellow membe
 
 - Walk you through what tools, equipment, and facilities we have
 - Talk through general safety practices, and how you can request training for any equipment that requires it
-- Give you some ideas of how you can get involved with the space – we are a member managed space afterall
+- Let you know how to get involved – our community runs the space
 - And answer any questions you might have
 
-All members must attend one of these tours before being given access to the Hackspace.
+All members must attend a tour before gaining independent access to the Hackspace.
 
 If you've already signed up as a member, or you choose to do so during the open evening, we'll set up your access fob for 24/7 access to the Hackspace.
 

@@ -48,6 +48,7 @@ For those interested in certain equipment, specialities, or hobbies.
 | [Electronics](https://t.me/+WLCJFgPE5LHX69XW)               | Anything relating to electronics in general, or our Electronics area.                                                                       |
 | [Visual Arts](https://t.me/hacmanvisualarts)                | Relating to our Visual Arts area,  any of the specialities within it, or visual arts in general.                                            |
 | [3D printing](https://t.me/joinchat/DZNJNRJimIP7XoyvDArnUg) | All things to do with 3D printing, or our own 3D printers.                                                                                  |
+| [CNC](https://t.me/+lIVHS8SALcozNjlk)          | For anything related to the CNC Machines, typically the large CNC near the woodworking area. |
 | [Bike space](https://t.me/+hy1MtdfETqwzZmVk)                | For those with an interest in bikes, biking, or our collection of bike tools.                                                               |
 | [Games Night](https://t.me/+Q5e1aiVMwDvND71B)               | Board gaming & game night related chatter.                                                                                                  |
 | [Clutter Exchange](https://t.me/+11IEnLLuh8QxYWM0)          | See if any other members might be interest in anything you're wanting rid of: tools, equipment, material, or anything else possibly useful. |

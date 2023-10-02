@@ -1,3 +1,17 @@
+The Blue Laser Cutter is usable by members who have had an induction.
+
+Top-level specifications:
+
+    900mm x 600mm
+    100W Laser Tube 
+    Awesome Extraction
+    Air Assist
+    Red-dot laser for bounds checking
+    Smart cooling
+    Rise-and-fall bed, Super useful for engraving stuff on stuff
+
+
+
 ## **Checklist for induction - Trainers Guide to Laser Cutting on Bluey**
 
 

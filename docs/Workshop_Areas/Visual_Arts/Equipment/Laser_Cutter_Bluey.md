@@ -73,7 +73,7 @@ You will need the profile for bluey which is [available here](config/Bluey.lbdev
 
 ### **Lightburn**
 
-Lightburn is the software that converts vector files into the code that drives the laser cutter. You can download lightburn from[ https://download.lightburn.org/](https://download.visicut.org/). 
+Lightburn is the software that converts vector files into the code that drives the laser cutter. You can download lightburn from [https://lightburnsoftware.com/pages/download-trial](https://lightburnsoftware.com/pages/download-trial). 
 
 We have a discount that gives you 75% off (but if you are using the software with any other laser cutter consider buying a full licence). The code is given on the member page after you’ve passed training.
 

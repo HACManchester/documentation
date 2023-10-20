@@ -15,21 +15,13 @@ You will need a phone number to sign up for Telegram. This is kept private and h
 
 ## Notifications
 
-Our group chats can be busy places. To avoid being overloaded by notifications, you may want to mute some or all of our groups.
+Our group chats can be busy places. To avoid being overloaded by notifications, you may can either mute individual channels which do not interest you etc or mute the entire group.
 
-If you mute any groups, you may still receive notifications from them if another person directly mentions you or replies to one of your messages.
+If you mute any gchannels, you may still receive notifications from them if another person directly mentions you or replies to one of your messages.
 
 ## Groups
 
-The following tables list our group chats and their purpose. Click the group's name to join.
-
-> **Warning: Telegram rate limits**
-> 
-> To prevent abuse, Telegram limits the amount of groups you can join within 24 hours.
->
-> To get chatting sooner than later, you might want to join groups you have the most interest in first.
-
-### General purpose
+The following tables list our group chat channels and their purpose. Click their name to join.
 
 | Group name                                               | Purpose                                                                                                                                            |
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,11 +29,11 @@ The following tables list our group chats and their purpose. Click the group's n
 | [Official Announcements](https://t.me/HACManchester/200496) | For example, news of members meetings, hack-the-space days, or certain outages / issues with the Hackspace or certain pieces of equipment          |
 | [Doorbot](https://t.me/+TVKs_4B85ksjAAVl)                | Access announcements – see who's visiting the space. To opt out, edit your account within the membership system and set "Announce Name" to "anon". |
 
-### Speciality groups
+### Specific Channels
 
 For those interested in certain equipment, specialities, or hobbies.
 
-| Group name                                                  | Purpose                                                                                                                                     |
+| Channel Name                                                  | Purpose                                                                                                                                     |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Woodwork](https://t.me/HACManchester/200505)    | For any chatter relating to Woodworking, or matters relating to our Wood workshop.                                                          |
 | [Metalwork](https://t.me/HACManchester/200510)   | Similarly, anything relating to Metalwork or our Metal workshop.                                                                            |
@@ -50,19 +42,18 @@ For those interested in certain equipment, specialities, or hobbies.
 | [3D printing](https://t.me/HACManchester/200524) | All things to do with 3D printing, or our own 3D printers.                                                                                  |
 | [CNC](https://t.me/HACManchester/200527)         | For anything related to the CNC Machines, typically the large CNC near the woodworking area. |
 | [Bike space](https://t.me/HACManchester/200520)  | For those with an interest in bikes, biking, or our collection of bike tools.                                                               |
-| [Games Night](https://t.me/HACManchester/200539) | Board gaming & game night related chatter.                                                                                                  |
-| [Clutter Exchange](https://t.me/HACManchester/200692)          | See if any other members might be interest in anything you're wanting rid of: tools, equipment, material, or anything else possibly useful. |
+| [Games Night](https://t.me/HACManchester/200539) | Board gaming & game night related chatter.                                                              |
+| [Clutter Exchange](https://t.me/HACManchester/200692)| See if any other members might be interest in anything you're wanting rid of: tools, equipment, material, or anything else possibly useful.                              | 
+| [Open Evening Guides](https://t.me/HACManchester/200530)  | Our members volunteer to run our open evening tours. If you're interested in helping out, or just have a question about an open evening, this is the channel to pay attention to.                               
 
 ### Operations
 
-We have a number of groups specifically for the operation of the Hackspace overall.
 
 Some of these groups are private by default – in which case we'll list their existance, but you won't be able to join them from this page.
 
 | Group name                                            | Purpose                                                                                                                                                                                                           |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Open Evening Guides](https://t.me/HACManchester/200530)  | Our members volunteer to run our open evening tours. If you're interested in helping out, this is the group to join.                                                                                        |
-| Laser Training                                            | Used to coordinate Laser training sessions between trainers and those waiting to be inducted. You will be given a link to this group after requesting an induction on our Laser Cutter via the membership system. |
+| Laser Training                                            | Used to coordinate Laser training sessions between trainers and those waiting to be inducted. You will be given a link to this group automtically on the "training next steps" page, after requesting an induction on our Laser Cutter via the membership system. |
 | Laser Maintainers                                         | A private group for the maintainers of our Laser tools.                                                                                                                                |                           
 | Digital Infrastructure Working Group                      | A private group for the members looking after our digital systems.                                                                                
 | Membership System Log                                     | Logs from the Membership System, for our Digital team to keep an eye on.

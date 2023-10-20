@@ -63,7 +63,10 @@ Some of these groups are private by default – in which case we'll list their e
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Open Evening Guides](https://t.me/HACManchester/200530)  | Our members volunteer to run our open evening tours. If you're interested in helping out, this is the group to join.                                                                                        |
 | Laser Training                                            | Used to coordinate Laser training sessions between trainers and those waiting to be inducted. You will be given a link to this group after requesting an induction on our Laser Cutter via the membership system. |
-| Laser Maintainers                                         | A private group for the maintainers of our Laser tools.                                                                                                                                                          |
-| Digital Infrastructure Working Group                      | A private group for the members looking after our digital systems.                                                                                                                                            |
-| Membership Subcommittee                                   | A private group to discuss membership issues                                                                                                                                                                |
-| Membership System Log                                     | Logs from the Membership System, for our Digital team to keep an eye on.                                                                                                                                       |
+| Laser Maintainers                                         | A private group for the maintainers of our Laser tools.                                                                                                                                |                           
+| Digital Infrastructure Working Group                      | A private group for the members looking after our digital systems.                                                                                
+| Membership System Log                                     | Logs from the Membership System, for our Digital team to keep an eye on.
+                                                                                                    
+### If you would like to join one of our working groups please email info@hacman.org.uk
+
+

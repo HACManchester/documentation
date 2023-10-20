@@ -21,7 +21,7 @@ If you mute any gchannels, you may still receive notifications from them if anot
 
 ## Groups
 
-The following tables list our group chat channels and their purpose. Click the link to join.
+The following tables list our group chat channels and their purpose. Click their name to join.
 
 | Group name                                               | Purpose                                                                                                                                            |
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |

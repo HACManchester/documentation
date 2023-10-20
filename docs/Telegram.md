@@ -34,7 +34,7 @@ The following tables list our group chats and their purpose. Click the group's n
 | Group name                                               | Purpose                                                                                                                                            |
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Hackspace Manchester](https://t.me/HACManchester)       | General purpose chat for all Hackspace Manchester members. Please do join this group.                                                              |
-| [Official Announcements](https://t.me/hackspaceannounce) | For example, news of members meetings, hack-the-space days, or certain outages / issues with the Hackspace or certain pieces of equipment          |
+| [Official Announcements](https://t.me/HACManchester/200496) | For example, news of members meetings, hack-the-space days, or certain outages / issues with the Hackspace or certain pieces of equipment          |
 | [Doorbot](https://t.me/+TVKs_4B85ksjAAVl)                | Access announcements – see who's visiting the space. To opt out, edit your account within the membership system and set "Announce Name" to "anon". |
 
 ### Speciality groups
@@ -43,15 +43,15 @@ For those interested in certain equipment, specialities, or hobbies.
 
 | Group name                                                  | Purpose                                                                                                                                     |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Woodwork](https://t.me/joinchat/AYtZgkk7n1MqvkN9N2fmsA)    | For any chatter relating to Woodworking, or matters relating to our Wood workshop.                                                          |
-| [Metalwork](https://t.me/joinchat/B8-OC1MTETWTM8vBexJOag)   | Similarly, anything relating to Metalwork or our Metal workshop.                                                                            |
-| [Electronics](https://t.me/+WLCJFgPE5LHX69XW)               | Anything relating to electronics in general, or our Electronics area.                                                                       |
-| [Visual Arts](https://t.me/hacmanvisualarts)                | Relating to our Visual Arts area,  any of the specialities within it, or visual arts in general.                                            |
-| [3D printing](https://t.me/joinchat/DZNJNRJimIP7XoyvDArnUg) | All things to do with 3D printing, or our own 3D printers.                                                                                  |
-| [CNC](https://t.me/+lIVHS8SALcozNjlk)          | For anything related to the CNC Machines, typically the large CNC near the woodworking area. |
-| [Bike space](https://t.me/+hy1MtdfETqwzZmVk)                | For those with an interest in bikes, biking, or our collection of bike tools.                                                               |
-| [Games Night](https://t.me/+Q5e1aiVMwDvND71B)               | Board gaming & game night related chatter.                                                                                                  |
-| [Clutter Exchange](https://t.me/+11IEnLLuh8QxYWM0)          | See if any other members might be interest in anything you're wanting rid of: tools, equipment, material, or anything else possibly useful. |
+| [Woodwork](https://t.me/HACManchester/200505)    | For any chatter relating to Woodworking, or matters relating to our Wood workshop.                                                          |
+| [Metalwork](https://t.me/HACManchester/200510)   | Similarly, anything relating to Metalwork or our Metal workshop.                                                                            |
+| [Electronics](https://t.me/HACManchester/200517) | Anything relating to electronics in general, or our Electronics area.                                                                       |
+| [Visual Arts](https://t.me/HACManchester/200514) | Relating to our Visual Arts area,  any of the specialities within it, or visual arts in general.                                            |
+| [3D printing](https://t.me/HACManchester/200524) | All things to do with 3D printing, or our own 3D printers.                                                                                  |
+| [CNC](https://t.me/HACManchester/200527)         | For anything related to the CNC Machines, typically the large CNC near the woodworking area. |
+| [Bike space](https://t.me/HACManchester/200520)  | For those with an interest in bikes, biking, or our collection of bike tools.                                                               |
+| [Games Night](https://t.me/HACManchester/200539) | Board gaming & game night related chatter.                                                                                                  |
+| [Clutter Exchange](https://t.me/HACManchester/200692)          | See if any other members might be interest in anything you're wanting rid of: tools, equipment, material, or anything else possibly useful. |
 
 ### Operations
 
@@ -61,9 +61,12 @@ Some of these groups are private by default – in which case we'll list their e
 
 | Group name                                            | Purpose                                                                                                                                                                                                           |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Open Evening Guides](https://t.me/+myuSy3MNMI8yMjQ0) | Our members volunteer to run our open evening tours. If you're interested in helping out, this is the group to join.                                                                                              |
-| Laser Training                                        | Used to coordinate Laser training sessions between trainers and those waiting to be inducted. You will be given a link to this group after requesting an induction on our Laser Cutter via the membership system. |
-| Laser Maintainers                                     | A private group for the maintainers of our Laser tools.                                                                                                                                                           |
-| Digital Infrastructure Working Group                  | A private group for the members looking after our digital systems.                                                                                                                                                |
-| Membership Subcommittee                               | A private group to discuss membership issues                                                                                                                                                                      |
-| Membership System Log                                 | Logs from the Membership System, for our Digital team to keep an eye on.                                                                                                                                          |
+| [Open Evening Guides](https://t.me/HACManchester/200530)  | Our members volunteer to run our open evening tours. If you're interested in helping out, this is the group to join.                                                                                        |
+| Laser Training                                            | Used to coordinate Laser training sessions between trainers and those waiting to be inducted. You will be given a link to this group after requesting an induction on our Laser Cutter via the membership system. |
+| Laser Maintainers                                         | A private group for the maintainers of our Laser tools.                                                                                                                                |                           
+| Digital Infrastructure Working Group                      | A private group for the members looking after our digital systems.                                                                                
+| Membership System Log                                     | Logs from the Membership System, for our Digital team to keep an eye on.
+                                                                                                    
+### If you would like to join one of our working groups please email info@hacman.org.uk
+
+

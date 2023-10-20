@@ -17,11 +17,22 @@ Top-level specifications:
 
 ### **Prerequisites**
 
-Make sure they read through this page and if possible have lightburn setup on their machine with a design ready to cut
+Make sure they read through this page and if possible have lightburn setup on their machine with a design ready to cut.
+
+#### Lightburn
+
+You can download lightburn from [https://lightburnsoftware.com/pages/download-trial](https://lightburnsoftware.com/pages/download-trial). 
+
+You will need the profile for bluey which is [available here](config/Bluey.lbdev). The profile can be imported through the devices section in the bottom right.
+
+If you want to buy lightburn [this is the license you need](https://lightburnsoftware.com/products/lightburn-dsp) for Bluey.
+
+Hacman have negoited a discount that gives you 75% off (but if you are using the software with any other laser cutter consider buying a full licence). The code is given on the member page after you’ve passed training.
+
+#### Ruida
 
 [Video on ruida controller](https://www.youtube.com/watch?v=l9nPmHXbX1I)  Note: we do not support RDworks.
 
-You will need the profile for bluey which is [available here](config/Bluey.lbdev)
 
 ### **Showy Steps**
 
@@ -73,9 +84,7 @@ You will need the profile for bluey which is [available here](config/Bluey.lbdev
 
 ### **Lightburn**
 
-Lightburn is the software that converts vector files into the code that drives the laser cutter. You can download lightburn from [https://lightburnsoftware.com/pages/download-trial](https://lightburnsoftware.com/pages/download-trial). 
-
-We have a discount that gives you 75% off (but if you are using the software with any other laser cutter consider buying a full licence). The code is given on the member page after you’ve passed training.
+Lightburn is the software that converts vector files into the code that drives the laser cutter.
 
 ![a typical screen in lightburn](images/lightburn_layout.png)
 

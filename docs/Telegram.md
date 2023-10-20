@@ -43,7 +43,8 @@ For those interested in certain equipment, specialities, or hobbies.
 | [CNC](https://t.me/HACManchester/200527)         | For anything related to the CNC Machines, typically the large CNC near the woodworking area. |
 | [Bike space](https://t.me/HACManchester/200520)  | For those with an interest in bikes, biking, or our collection of bike tools.                                                               |
 | [Games Night](https://t.me/HACManchester/200539) | Board gaming & game night related chatter.                                                              |
- [Clutter Exchange](https://t.me/HACManchester/200692)         | See if any other members might be interest in anything you're wanting rid of: tools, equipment, material, or anything else possibly useful. | [Open Evening Guides](https://t.me/HACManchester/200530)  | Our members volunteer to run our open evening tours. If you're interested in helping out, or just have a question about an open evening, this is the channel to pay attention to.                               
+| [Clutter Exchange](https://t.me/HACManchester/200692)| See if any other members might be interest in anything you're wanting rid of: tools, equipment, material, or anything else possibly useful.                              | 
+| [Open Evening Guides](https://t.me/HACManchester/200530)  | Our members volunteer to run our open evening tours. If you're interested in helping out, or just have a question about an open evening, this is the channel to pay attention to.                               
 
 ### Operations
 

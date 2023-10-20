@@ -27,7 +27,7 @@ You will need the profile for bluey which is [available here](config/Bluey.lbdev
 
 If you want to buy lightburn [this is the license you need](https://lightburnsoftware.com/products/lightburn-dsp) for Bluey.
 
-Hacman have negoited a discount that gives you 75% off (but if you are using the software with any other laser cutter consider buying a full licence). The code is given on the member page after you’ve passed training.
+Hacman have negotiated a discount that gives you 75% off (but if you are using the software with any other laser cutter consider buying a full licence). The code is given on the member page after you’ve passed training.
 
 #### Ruida
 

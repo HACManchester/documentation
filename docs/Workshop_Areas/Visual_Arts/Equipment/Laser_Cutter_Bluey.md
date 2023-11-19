@@ -126,13 +126,14 @@ Note: We do not support RDWorks but that can be an option to use.
 
 Lightburn is the software that converts vector files into the code that drives the laser cutter.
 
-![a typical screen in lightburn](images/lightburn_layout.png)
+It has a [great guide here](https://docs.lightburnsoftware.com/index.html) well worth a read, if you want use the laser cutter for advanced techniques.
 
 After you install the software, there is a help screen and then it will invite you to setup a device. [Import Bluey’s config from here](config/Bluey.lbdev). 
 
-![screen showing controls for a lasercutter in lightburn](images/lightburn_controls.png)
+![device setup screen in lightburn](images/lightburn_layout.png)
 
 Buttons
+
 
 * Square Frame moves the laser to show a rectangle boundary around the shape(s)
 * Circle Frame moves the laser to draw the actual outlines of shape(s)
@@ -146,18 +147,27 @@ Buttons
 * Origin
 * Optimise Cut Path 
 
+![screen showing controls for a lasercutter in lightburn](images/lightburn_controls.png)
+
 
 ### **Laser operations in lightburn**
 
-Layers
+Layers and Ordering
 
-Ordering
+![Layers in lightburn](<images/layers.png>)
 
-Fill vs Line
+Engrave vs Cut
+
+![Line and engrave selection](<images/cut_selection.png>)
 
 output, show, adjust speed and power
 
+![Cut options](<images/cut_options.png>)
+
 **Origin settings**
+
+![Origin settings](<images/origin_settings.png>)
+
 * Absolute - cut the shape as it is in lightburn
 * User position - uses origin set by laser cutter and displays that in lightburn as a green box
 * Current position - like user position but uses whatever position the laser is in at the moment i.e. not the origin set by the laser cutter
@@ -166,7 +176,7 @@ output, show, adjust speed and power
 
 Focus button for auto levelling or manually level bed with Z buttons.
 
-Set the origin point using the laser cutter (if needed)
+Set the origin point using the laser cutter control panel (if needed)
 
 * For cutting materials up to 6mm it's best to have the z height set to bed level.
 * For cutting materials over 6mm, try to keep the z height 6mm into the material. Multiple passes may be needed.
@@ -206,7 +216,7 @@ At this stage you should now be ready to do the cut for real.
 * Laser fees can be paid in cash into a box near the laser, using the payment terminal in the snackspace or from your member balance at[ the members' system laser page](https://members.hacman.org.uk/equipment/laser).
 * If you owe the laser fund money or have some credit (e.g. have paid with a £10 note and only used £3) record your balance at the back of the log book.
 
-(insert picture of time elapsed and blue book)
+(insert picture of time elapsed screen and blue book)
 
 ### **Things to not worry about**
 

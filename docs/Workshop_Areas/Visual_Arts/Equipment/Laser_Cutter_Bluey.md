@@ -10,8 +10,6 @@ Top-level specifications:
     Smart cooling
     Rise-and-fall bed, Super useful for engraving stuff on stuff
 
-
-
 ## **Checklist for induction - Trainers Guide to Laser Cutting on Bluey**
 This is a checklist of items to run through but the more detailed version is below
 
@@ -22,7 +20,7 @@ This is a checklist of items to run through but the more detailed version is bel
 3. Talk about the emergency stop, water, fire extinguisher, fire alarm and when you should use them
 4. Open the cover. Mention the different parts, laser head, mirrors, lid switch for laser cut off (don't tamper with safety features)
 6. Autolevelling and manually moving the bed with bluey (note the limit switch and how a material should be placed for it)
-7. Talk about the menu and what the major buttons do but go into detail when demoing a cut. They don’t need to go into settings
+7. Talk about the menu and briefly mention what the buttons do but go into detail when demoing a cut. They don’t need to go into settings
 8. Pop open the bottom panel and show they can clean it out
 9. Mention the materials we supply and what materials are allowed
 10. Talk about the blue log book and money box. Mention the credit recording at the back of the book
@@ -32,7 +30,7 @@ This is a checklist of items to run through but the more detailed version is bel
 ### **Demo Steps**
 
 11. Move to the computer. Prep a job (make it as small as possible) and send it to the laser cutter to show how lightburn works
-12. Show making a simple vector image with engraving and cutting a shape (the hacman keyring is a good one)
+12. Show making a simple vector image with engraving and cutting a shape. Normally a shape with a cut, mark and engrave
 13. Power settings for these are in the cover of bluey notebook
 14. Mention the different options in lightburn and how you can manually tweak the settings
     1. [Origin - how to set it](https://docs.lightburnsoftware.com/CoordinatesOrigin.html)
@@ -160,9 +158,9 @@ Fill vs Line
 output, show, adjust speed and power
 
 **Origin settings**
-Absolute - cut the shape as it is in lightburn
-User position - uses origin set by laser cutter and displays that in lightburn as a green box
-Current position - like user position but uses whatever position the laser is in at the moment i.e. not the origin set by the laser cutter
+* Absolute - cut the shape as it is in lightburn
+* User position - uses origin set by laser cutter and displays that in lightburn as a green box
+* Current position - like user position but uses whatever position the laser is in at the moment i.e. not the origin set by the laser cutter
 
 ### **Positioning the part**
 
@@ -176,6 +174,7 @@ Set the origin point using the laser cutter (if needed)
 * If you want crisp engraving on thick stock, you will need to do a 2-stage engrave / cut with the focal point initially set to the top of your material, and then re-set to the correct height for your cut.
 * If your material has a protective cover, try to leave the cover on both sides of the material, or if only one side the bottom (not the top)
 
+(insert picture of laser bed with part)
 
 ### **Test the Laser positioning**
 
@@ -184,7 +183,6 @@ Next we're going to do a boundary test to make sure the laser cutter is working 
 * Send the job from lightburn or use the frame buttons in lightburn
 * Press frame on the laser cutter
 * This can be done with the lid open to assist in placing your part, however please keep your hands/hair/ties out of the way of the moving parts.
-
 
 ### **Do the cut**
 
@@ -199,6 +197,8 @@ At this stage you should now be ready to do the cut for real.
 * Make a note of the time at the end of the job in the log book
 * Turn off laser cutter after 5 minutes
 
+(insert picture of files screen on controller)
+
 ### **Logging and payment**
 
 * There is a blue log book for keeping track of usage of the laser. Please write down your name and the length of time you've used the laser for in the front of the book.
@@ -206,6 +206,7 @@ At this stage you should now be ready to do the cut for real.
 * Laser fees can be paid in cash into a box near the laser, using the payment terminal in the snackspace or from your member balance at[ the members' system laser page](https://members.hacman.org.uk/equipment/laser).
 * If you owe the laser fund money or have some credit (e.g. have paid with a £10 note and only used £3) record your balance at the back of the log book.
 
+(insert picture of time elapsed and blue book)
 
 ### **Things to not worry about**
 

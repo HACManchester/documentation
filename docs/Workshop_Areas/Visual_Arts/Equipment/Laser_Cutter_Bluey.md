@@ -130,7 +130,7 @@ Lightburn is the software that converts vector files into the code that drives t
 
 ![a typical screen in lightburn](images/lightburn_layout.png)
 
-After you install the software, there is a help screen and then it will invite you to setup a device. Import Bluey’s config from here. 
+After you install the software, there is a help screen and then it will invite you to setup a device. [Import Bluey’s config from here](config/Bluey.lbdev). 
 
 ![screen showing controls for a lasercutter in lightburn](images/lightburn_controls.png)
 

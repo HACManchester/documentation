@@ -7,13 +7,16 @@
 - [ ] Ensure all attendees are members
   - Gather hackspace usernames beforehand
 **** Equipment
-- [ ] Run through initial checks on all tools :: (Ensure to check the machine actually runs in case fuse is broken etc)
+- [ ] Run through initial checks on all tools
+  (Ensure to check the machine actually runs in case fuse is broken etc)
 - [ ] Check vacuum cleaner works
-- [ ] Check there is suitable and sufficient :: Do not use MDF or other toxic woods in session
+- [ ] Check there is suitable and sufficient wood for training
+  Do not use MDF or other toxic woods in session
 - [ ] Check there are enough ear defenders and goggles for every attendee
 **** Things for demo
-***** Broken blade to demonstrate TCT blade breakage
-***** Vee block to demonstrate
+- [ ] Broken blade to demonstrate TCT blade breakage
+- [ ] Vee block to demonstrate
+- [ ] Metal detector and piece of wood containing metal
 *** Answers
 **** What are the four questions you should ask yourself before doing anything in the workshop?
 1. Am I tired?
@@ -190,6 +193,7 @@ This is a simple device that can be homemade which prevents round material from 
 - [ ] Show how to check integrity of blade
   - Explain which way the teeth should face
   - Check for any missing teeth. Do not proceed if missing teeth are found.
+- [ ] Show how to check blade tension
 - [ ] Set guard the correct distance from the top of the workpiece.
 **** Checks/demo whilst connected to power
 - [ ] Show how to check for bent teeth

@@ -1,0 +1,213 @@
+* Mitre/Bandsaw induction
+:PROPERTIES:
+:DIR:      attachments/
+:END:
+** Trainer-specific content
+*** Preparation for session
+- [ ] Ensure all attendees are members
+  - Gather hackspace usernames beforehand
+**** Equipment
+- [ ] Run through initial checks on all tools
+  (Ensure to check the machine actually runs in case fuse is broken etc)
+- [ ] Check vacuum cleaner works
+- [ ] Check there is suitable and sufficient wood for training
+  Do not use MDF or other toxic woods in session
+- [ ] Check there are enough ear defenders and goggles for every attendee
+**** Things for demo
+- [ ] Broken blade to demonstrate TCT blade breakage
+- [ ] Vee block to demonstrate
+- [ ] Metal detector and piece of wood containing metal
+*** Answers
+**** What are the four questions you should ask yourself before doing anything in the workshop?
+1. Am I tired?
+2. Am I in a rush?
+3. Am I distracted?
+4. Am I sure?
+**** How far should your hands be from the workpiece while the blade is in operation?
+15cm
+**** How should you ensure your safety whilst checking blades on the machines?
+Physically unplug the machine from power
+**** How should you cut cylinders on the bandsaw?
+Use a vee-block
+**** What should you do if a machine is broken?
+Stop using it immediately, report using a QR code sign or via telegram, place a sign on the machine to indicate it is broken.
+**** When should you not enter a yellow box area?
+When someone else is using a machine tool in that area.
+**** When should you use dust extraction?
+Always if it is available.
+**** How do you select mitre or rip guard?
+The material should be supported on its longest straight side.
+**** What should you do if you are cutting material such as MDF which has a higher than normal respiratory risk?
+Inform other workshop users
+**** What does the 'no lone working' rule mean?
+At least one other person in the hackspace, do not have to be in woodwork.
+*** Process
+- After moving to the workshop, run through the checklist yourself in front of the attendees, then make them demonstrate.
+- Following correct demonstration, mark users off using their hackspace members' system username.
+- Provide link to recently trained group after session.
+** Overview of session
+*** Basic principles of safety in the workshop and principles in the use of any tool
+*** The induction will move to the workshop where the trainees will be split into groups. The instructors will demonstrate the controls on each tool and you will then have the opportunity to demonstrate you have understood.
+*** You will be given a quiz to take home and after answering the questions the instructor will mark you trained
+*** The training is intended to show locations of controls and teach basic safe operation
+Further study and practise will be required to get good results
+** The tools in use
+*** Sliding mitre saw
+[[file:attachments/r255sms-255mm-sliding-mitre-saw-494218_1200x.jpg]]
+**** What is it for?
+***** Cutting precise cuts in beams and narrow boards
+***** Framing etc.
+***** Cross cuts (across the grain)
+*** Band saw
+[[file:attachments/8211.jpg]]
+**** What is it for?
+***** Narrow blade allows very little wastage of material
+***** Blade is perpendicular so can be used to cut mortises etc.
+[[file:attachments/mortise-tenon-joints.jpg]]
+***** Material that is not planed
+***** Performs best on rip cuts (along the grain)
+***** Curved cuts (on red bandsaw) (15mm minimum radius)
+Straight cuts only on green bandsaw
+*** Personal safety
+**** Required
+***** No lone working
+At least one other person must be in the space. They do not need to be in woodwork; but make sure people tell you if they're leaving if you're one of the last. It is permitted to have a guest for the purposes of safety, but they are not allowed to use the tools/
+***** Long hair tied back
+***** Loose sleeves etc. secured/rolled up
+***** Flat, close toed shoes
+***** Goggles
+***** *No* gloves whilst using machine tools
+Increased risk of entrapment
+***** Push sticks when closer than 15cm to blade
+**** Recommended
+***** Ear defenders
+Be aware that hearing damage occurs with lower levels of noise over a long period as well as with short bursts of loud noise; so err on the side of caution.
+***** Breathing protection (mask) of FFP2 or better
+***** Barrier cream
+Moisturiser-like product that products against irritation when coming in contact with workplace toxins
+** Processes for using any tool
+*** Four questions
+**** Am I tired?
+**** Am I distracted?
+**** Am I in a rush?
+**** Am I sure?
+*** Ensure area with tool is safe
+**** Do not enter yellow boxed areas if another user is using a power tool there (including for work not using a power tool).
+**** If you are using a larger piece of stock, ensure there is enough space for you.
+*** Is the equipment safe/in good condition?
+**** Physically unplug the machine for checks where you check cutting tools.
+***** Blade not missing teeth
+(Note difference between TCT and conventional blade types)
+**** Noises/etc.
+**** Machine and area around machine clear of dust
+Important to also check the floor, as dust is a slip hazard
+**** Is dust extraction connected (when available)
+**** Do I have push sticks available?
+**** Are there any trip hazards.
+**** Is machine at a neutral angle etc.
+***** Previous users may have adjusted the tool such that it is at an angle other than 90 degrees, so check this yourself to avoid disappointment
+*** Is this the right tool?
+**** Can I safely hold the work?
+**** Is material suitable dimensions?
+**** Is there sufficient clearance around the machine for my whole operation
+**** Using guards
+- Longest side of material should be on a guard if one is used
+- If you're cutting along the length of a piece (along the grain on non-manufactured woods) use a rip guard
+- If you're cutting along the width of a piece (across the grain on non-manufactured woods) use a mitre guard
+*** Material considerations
+**** Does my material contain metal etc?
+A metal detector is in the space which you should use if you are using reclaimed wood.
+**** Is material clean
+Material should not be oily etc so it doesn't gunk up the machine. Dirty material also has an increased risk of containing contaminants etc.
+**** Respiratory risks
+- All wood produces fine dust
+- MDF contains formaldehyde
+- Treated wood contains various chemicals
+- Wood naturally contains toxins and causes reactions. Research whatever you're using, referring to https://www.wood-database.com/wood-articles/wood-allergies-and-toxicity (accessed 26/11/23)
+- Inform other people in the room if you're cutting something with high toxicity (as a guideline above 2 stars potency on the list linked, or MDF/treated wood).
+*** Minimising breakages
+- Bring blade to full speed before inserting material into its path
+  Starting the machine with material touching the blade will overload the engine.
+- If the machine sounds wrong or is struggling a lot, go slower or stop using it and report broken if this isn't possible.
+  The blades do blunt over time. Forcing stuff through the bandsaw is most likely to break it.
+** How to report faults/help out
+*** Only adjust angle controls etc. as an ordinary user
+Calibration is done by maintainers. The wood team maintainers are volunteers. If you are practically minded and believe this is something you could do, feel free to reach out and ask if you can join the team. However, do not adjust anything without being part of the wood team as not knowing who has touched what makes their job much more difficult as well as leading to health and safety risks and damaged equipment.
+*** Use report signs with QR codes around the space to report faults, or post on telegram
+*** Put a sign on the machine to say it's out of order so people don't use it and have injuries
+** Hackspace specifics
+*** Reiterate about yellow box area
+- Do not enter yellow boxed areas if another user is using a power tool there (including for work not using a power tool).
+*** Do not store anything in woodwork
+- If large storage is full, you must either clear outdated items out or store elsewhere
+*** Scraps are free, but this system will be obsoleted
+*** There is a library with some woodworking books
+*** We don't have cleaners so **leave the room tidy**.
+*** Don't leave machines/items in the gangway and put wheeled tools back after use
+** Mitre Saw
+*** Controls
+**** Bevel control
+**** Mitre control
+**** Safety lock (i.e. the second button on the handle to release)
+**** Start/stop button
+**** Movable guards
+*** Preparation for cutting
+**** Check material is correctly located and secured
+**** Blade teeth pointing the right way
+[[file:attachments/miterbladedirection.jpg]]
+Ensure mitre teeth are pointing towards the back of the machine
+** Band saw
+*** Controls
+**** Guard height adjustment
+**** Mitre fence
+**** Rip fence
+*** Preparation for cutting
+**** Check material is correctly located and secured
+**** Blade teeth pointing the right way
+[[file:attachments/bandsaw-TPI-chart.jpg]]
+**** Use vee block when cutting round material
+This is a simple device that can be homemade which prevents round material from rotating and pulling your hand into the blade
+[[file:attachments/FG7WZI1J8OR3V9B.jpg]]
+** Demo
+*** Mitre saw
+**** Checks/demo whilst unplugged
+- [ ] Show how you would check the blade
+- [ ] Show where bevel setting is and operate it
+  - [ ] Stop at detents
+  - [ ] Stop at arbitrary angle
+- [ ] Show where mitre setting is and operate it
+  - [ ] Stop at detents
+  - [ ] Stop at arbitrary angle
+- [ ] Show where sliding fence control is and how you'd determine if it's necessary
+- [ ] Explain which way the teeth should face
+**** Checks/demo whilst connected to power
+- [ ] Cut straight cut
+- [ ] Cut compound cut, moving guide if necessary
+*** Bandsaw
+**** Checks/demo whilst unplugged
+- [ ] Show how to raise and lower wheeled stand
+- [ ] Show inspection of top door for tracking
+  - Open top door, check saw is in the middle of the wheel
+- [ ] Show inspection of bottom door for cleanliness
+  - Ensure cabinet is mostly clear of sawdust. Sawdust reaching the wheels can be a fire hazard
+- [ ] Show how to check integrity of blade
+  - Explain which way the teeth should face
+  - Check for any missing teeth. Do not proceed if missing teeth are found.
+- [ ] Show how to check blade tension
+- [ ] Set guard the correct distance from the top of the workpiece.
+**** Checks/demo whilst connected to power
+- [ ] Show how to check for bent teeth
+  - Listen for rhythmic click when machine is turned on
+- [ ] Make straight cut
+- [ ] Make curved cut on appropriate bandsaw
+** Questions
+*** What are the four questions you should ask yourself before doing anything in the workshop?
+*** How far should your hands be from the workpiece while the blade is in operation?
+*** How should you ensure your safety whilst checking blades on the machines?
+*** How should you cut cylinders on the bandsaw?
+*** What should you do if a machine is broken?
+*** When should you not enter a yellow box area?
+*** When should you use dust extraction?
+*** How do you select mitre or rip guard?
+*** What should you do if you are cutting material such as MDF which has a higher than normal respiratory risk?
+*** What does the 'no lone working' rule mean?

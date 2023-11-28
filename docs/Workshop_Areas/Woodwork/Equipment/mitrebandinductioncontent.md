@@ -1,5 +1,4 @@
-
-# Table of Contents
+# Mitre/Bandsaw induction
 
 1.  [Mitre/Bandsaw induction](#org951d83b)
     1.  [Overview of session](#org0f06ed5)

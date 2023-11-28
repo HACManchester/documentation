@@ -72,8 +72,8 @@ During an emergency, if the workshop safety switches are triggered the machine w
 * [Dewalt DW717XPS Manual](../../../instruction_manuals/dewaltmitresaw.pdf)
 
 ### **Induction Docs**
-* [Mitre Saw Checklist](../../Inductions/MitreSaw.pdf)
-* [Induction Content](../../Inductions/trainer_guides/mitreband.md)
+* [Mitre Saw Checklist](../Inductions/MitreSaw.pdf)
+* [Induction Content](../Inductions/trainer_guides/mitreband.md)
 
 ### **Maintenance**
 

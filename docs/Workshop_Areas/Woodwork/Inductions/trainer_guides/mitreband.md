@@ -6,11 +6,9 @@
 
 ### The induction will move to the workshop where the trainees will be split into groups. The instructors will demonstrate the controls on each tool and you will then have the opportunity to demonstrate you have understood.
 
-### You will be given a quiz to take home and after answering the questions the instructor will mark you trained
-
 ### The training is intended to show locations of controls and teach basic safe operation
 
-Further study and practise will be required to get good results
+Further study and practise will be required to get high quality results.
 
 ## The tools in use
 

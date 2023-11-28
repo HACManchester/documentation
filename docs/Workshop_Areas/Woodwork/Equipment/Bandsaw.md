@@ -20,8 +20,6 @@
 
 #### Record Power - BS12
 
-*~ Write description & features ~*
-
 As standard the space stocks replacement blades for this machine, listed on the consumables page. Damaged and broken blades should be reported to the Woodwork Team so that replacements can be acquired asap. If members wish they can buy specialised blades for the machine using the following dimensions:
 
 * Size = 12"
@@ -29,8 +27,6 @@ As standard the space stocks replacement blades for this machine, listed on the 
 * Blade Width = 19mm Max
 
 #### Axminster - AWHSBS250N
-
-*~ Write description & features ~*
 
 As standard the space stocks replacement blades for this machine, listed on the consumables page. Damaged and broken blades should be reported to the Woodwork Team so that replacements can be acquired asap. If members wish they can buy specialised blades for the machine using the following dimensions:
 
@@ -69,8 +65,7 @@ During an emergency, if the workshop safety switches are triggered the machine w
 
 ### **Induction Docs**
 * [Band Saw Checklist](../../Inductions/BandSaw.pdf)
-* [Mitre Saw Checklist](../../Inductions/MitreSaw.pdf)
-* [Induction Content](../../Inductions/mitrebandinductioncontent.md)
+* [Induction Content](mitrebandinductioncontent.md)
 
 ---
 

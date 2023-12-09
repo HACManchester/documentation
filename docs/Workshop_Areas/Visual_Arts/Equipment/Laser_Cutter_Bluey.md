@@ -207,6 +207,8 @@ At this stage you should now be ready to do the cut for real.
 * Make a note of the time at the end of the job in the log book
 * Turn off laser cutter after 5 minutes
 
+![Alt text](images/file_list.jpg)
+
 (insert picture of files screen on controller)
 
 ### **Logging and payment**

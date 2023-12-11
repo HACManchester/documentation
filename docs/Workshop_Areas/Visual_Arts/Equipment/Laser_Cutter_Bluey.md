@@ -184,7 +184,7 @@ Set the origin point using the laser cutter control panel (if needed)
 * If you want crisp engraving on thick stock, you will need to do a 2-stage engrave / cut with the focal point initially set to the top of your material, and then re-set to the correct height for your cut.
 * If your material has a protective cover, try to leave the cover on both sides of the material, or if only one side the bottom (not the top)
 
-(insert picture of laser bed with part)
+![laser bed](images/laser_bed.jpg)
 
 ### **Test the Laser positioning**
 
@@ -207,7 +207,7 @@ At this stage you should now be ready to do the cut for real.
 * Make a note of the time at the end of the job in the log book
 * Turn off laser cutter after 5 minutes
 
-(insert picture of files screen on controller)
+![List of files](images/file_list.jpg)
 
 ### **Logging and payment**
 

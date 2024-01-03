@@ -2,15 +2,12 @@
 
 ## Overview
 
-We have an angle grinder in the workshop. This is used for making cuts in metals.
-This is to be only used within the weldy / grindy area, NOT the main metal work area, we have to avoid any particles entering into the lathe or milling machines.
+There is currently no angle grinder in the hackspace. 
+
 ## Notes
 
-There is a packet of spare discs in the box with the grinder, as well as
-the spanner for changing them. Remember that the discs wear with use -
-if you're doing a lot of cutting (or cutting through something very
-tough) and thus using a lot of discs, it would be polite to replace what
-you use
+We used to have an angle grinder; however this was severely misused so the decision has been made to not currently provide one in the space due to the requirements to implement access control.
+You are permitted to bring an angle grinder to use in the space as long as health and safety guidelines are followed and you use it safely. You may not leave the angle grinder in the space.
 
 ## Safety
 

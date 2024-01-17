@@ -31,19 +31,20 @@ The following tables list our group chat channels and their purpose. Click their
 
 For those interested in certain equipment, specialities, or hobbies.
 
-| Channel Name                                                | Purpose                                                                                                                                                                           |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Official Announcements](https://t.me/HACManchester/200496) | For example, news of members meetings, hack-the-space days, or certain outages / issues with the Hackspace or certain pieces of equipment                                         |
-| [Metalwork](https://t.me/HACManchester/200510)              | Similarly, anything relating to Metalwork or our Metal workshop.                                                                                                                  |
-| [Woodwork](https://t.me/HACManchester/200505)               | For any chatter relating to Woodworking, or matters relating to our Wood workshop.                                                                                                |
-| [Electronics](https://t.me/HACManchester/200517)            | Anything relating to electronics in general, or our Electronics area.                                                                                                             |
-| [Visual Arts](https://t.me/HACManchester/200514)            | Relating to our Visual Arts area,  any of the specialities within it, or visual arts in general.                                                                                  |
-| [3D printing](https://t.me/HACManchester/200524)            | All things to do with 3D printing, or our own 3D printers.                                                                                                                        |
-| [CNC](https://t.me/HACManchester/200527)                    | For anything related to the CNC Machines, typically the large CNC near the woodworking area.                                                                                      |
-| [Bike space](https://t.me/HACManchester/200520)             | For those with an interest in bikes, biking, or our collection of bike tools.                                                                                                     |
-| [Games Night](https://t.me/HACManchester/200539)            | Board gaming & game night related chatter.                                                                                                                                        |
-| [Clutter Exchange](https://t.me/HACManchester/200692)       | See if any other members might be interest in anything you're wanting rid of: tools, equipment, material, or anything else possibly useful.                                       |
+| Channel Name                                                | Purpose                                                                                                                                                                          |
+|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Official Announcements](https://t.me/HACManchester/200496) | For example, news of members meetings, hack-the-space days, or certain outages / issues with the Hackspace or certain pieces of equipment                                        |
+| [Metalwork](https://t.me/HACManchester/200510)              | Similarly, anything relating to Metalwork or our Metal workshop.                                                                                                                 |
+| [Woodwork](https://t.me/HACManchester/200505)               | For any chatter relating to Woodworking, or matters relating to our Wood workshop.                                                                                               |
+| [Electronics](https://t.me/HACManchester/200517)            | Anything relating to electronics in general, or our Electronics area.                                                                                                            |
+| [Visual Arts](https://t.me/HACManchester/200514)            | Relating to our Visual Arts area,  any of the specialities within it, or visual arts in general.                                                                                 |
+| [3D printing](https://t.me/HACManchester/200524)            | All things to do with 3D printing, or our own 3D printers.                                                                                                                       |
+| [CNC](https://t.me/HACManchester/200527)                    | For anything related to the CNC Machines, typically the large CNC near the woodworking area.                                                                                     |
+| [Bike space](https://t.me/HACManchester/200520)             | For those with an interest in bikes, biking, or our collection of bike tools.                                                                                                    |
+| [Games Night](https://t.me/HACManchester/200539)            | Board gaming & game night related chatter.                                                                                                                                       |
+| [Clutter Exchange](https://t.me/HACManchester/200692)       | See if any other members might be interest in anything you're wanting rid of: tools, equipment, material, or anything else possibly useful.                                      |
 | [Open Evening Guides](https://t.me/HACManchester/200530)    | Our members volunteer to run our open evening tours. If you're interested in helping out, or just have a question about an open evening, this is the channel to pay attention to. |
+| [Welding](https://t.me/HACManchester/211848 )                                                 | For anything related to welding, or matters relating to our welding area.                                                                                                |
 
 ### Operations
 

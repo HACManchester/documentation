@@ -25,7 +25,7 @@ The following tables list our group chat channels and their purpose. Click their
 | Group name                                         | Purpose                                                                                                                                            |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Hackspace Manchester](https://t.me/HACManchester) | General purpose chat for all Hackspace Manchester members. Please do join this group.                                                              |
-| [Doorbot](https://t.me/+TVKs_4B85ksjAAVl)          | Access announcements – see who's visiting the space. To opt out, edit your account within the membership system and set "Announce Name" to "anon". |
+| [Doorbot](https://t.me/+TVKs_4B85ksjAAVl)          | Access announcements – see who's visiting the space. To opt out, edit your account within the membership system and set "Announce Name" to blank. |
 
 ### Specific Channels
 

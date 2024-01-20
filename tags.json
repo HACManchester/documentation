@@ -567,16 +567,30 @@
     "description": []
   },
   {
-    "title": "Index",
+    "title": "About",
     "file_name": "index",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Welding/",
     "tags": [],
     "description": []
   },
   {
-    "title": "Consumables (Weld)",
-    "file_name": "Consumables_(Weld)",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Welding/Consumables_%28Weld%29/",
+    "title": "Consumables",
+    "file_name": "Consumables",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Welding/Consumables/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Fume Extraction Unit",
+    "file_name": "Fume_Extraction_Unit",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Welding/Equipment/Fume_Extraction_Unit/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Welding Machines",
+    "file_name": "Welding_Machines",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Welding/Equipment/Welding_Machines/",
     "tags": [],
     "description": []
   },

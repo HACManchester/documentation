@@ -83,7 +83,7 @@ You can set up a dev environment and run a mkdocs development server using:
 
 ```sh
 pip install tox
-tox run
+tox run -e serve
 ```
 
 ### Contributing

@@ -1,4 +1,5 @@
-# Mitre Saws
+Mitre Saws
+==========
 
 |              | Evolution           | DeWalt                 |
 |--------------|---------------------|------------------------|
@@ -25,8 +26,8 @@
 
 ### **Manuals**
 
-- [Rage3-S300 Manual](../../../instruction_manuals/evolutionmitresaw.pdf)
-* [Dewalt DW717XPS Manual](../../../instruction_manuals/dewaltmitresaw.pdf)
+-	[Rage3-S300 Manual](../../../instruction_manuals/evolutionmitresaw.pdf)
+-	[Dewalt DW717XPS Manual](../../../instruction_manuals/dewaltmitresaw.pdf)
 
 As standard the space stocks replacement blades for these machines as listed on the consumables page. Damaged and broken blades should be reported to the Woodwork Team so that replacements can be acquired asap. If members wish they can buy specialised blades for the machine using the dimensions listed in the table above.
 
@@ -44,16 +45,16 @@ These machines are included in the Mitre and bandsaw induction
 
 The training will cover the following:
 
-* Usage of the machines including accessories used with the tool
-* How check & identify the installed blade
+-	Usage of the machines including accessories used with the tool
+-	How check & identify the installed blade
 
 ### **Safety**
 
 When using the mitre saws PPE is mandatory and the dust extraction should be connected and running.
 
-- Eye protection
-- Hearing protection
-- Dust mask (recommended)
+-	Eye protection
+-	Hearing protection
+-	Dust mask (recommended)
 
 During an emergency, if the workshop safety switches are triggered the machine will be disabled as power to the workshop will be stopped.
 
@@ -63,17 +64,18 @@ During an emergency, if the workshop safety switches are triggered the machine w
 
 ### **Induction Docs**
 
-* [MitreSaw.pdf](../../Inductions/MitreSaw.pdf)
-* [MitreSaw.docx](../../Inductions/MitreSaw.docx)
+-	[MitreSaw.pdf](../../Inductions/MitreSaw.pdf)
+-	[MitreSaw.docx](../../Inductions/MitreSaw.docx)
 
 ### **Manuals**
 
-- [Rage3-S300 Manual](../../../instruction_manuals/evolutionmitresaw.pdf)
-* [Dewalt DW717XPS Manual](../../../instruction_manuals/dewaltmitresaw.pdf)
+-	[Rage3-S300 Manual](../../../instruction_manuals/evolutionmitresaw.pdf)
+-	[Dewalt DW717XPS Manual](../../../instruction_manuals/dewaltmitresaw.pdf)
 
 ### **Induction Docs**
-* [Mitre Saw Checklist](../Inductions/MitreSaw.pdf)
-* [Induction Content](../Inductions/trainer_guides/mitreband.md)
+
+-	[Mitre Saw Checklist](../Inductions/MitreSaw.pdf)
+-	[Induction Content](../Inductions/trainer_guides/mitreband.md)
 
 ### **Maintenance**
 

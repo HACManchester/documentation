@@ -21,7 +21,7 @@
     "description": []
   },
   {
-    "title": "Who to Contact",
+    "title": "Who to contact",
     "file_name": "Who_to_contact",
     "url": "https://docs.hacman.org.uk/Who_to_contact/",
     "tags": [],
@@ -31,13 +31,6 @@
     "title": "Adding Documentation",
     "file_name": "adding_documentation",
     "url": "https://docs.hacman.org.uk/adding_documentation/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Space To Do",
-    "file_name": "space_to_do",
-    "url": "https://docs.hacman.org.uk/space_to_do/",
     "tags": [],
     "description": []
   },
@@ -595,16 +588,16 @@
     "description": []
   },
   {
-    "title": "Consumables",
-    "file_name": "Consumables_(Wood)",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Consumables_%28Wood%29/",
+    "title": "Index",
+    "file_name": "index",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/",
     "tags": [],
     "description": []
   },
   {
-    "title": "WoodyDusty",
-    "file_name": "index_(Wood)",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/index_%28Wood%29/",
+    "title": "Consumables",
+    "file_name": "Consumables",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Consumables/",
     "tags": [],
     "description": []
   },
@@ -616,7 +609,7 @@
     "description": []
   },
   {
-    "title": "Mitre Saws",
+    "title": "Mitre Saw",
     "file_name": "Mitre_Saw",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/Mitre_Saw/",
     "tags": [],
@@ -658,9 +651,51 @@
     "description": []
   },
   {
-    "title": "Mitre/Bandsaw induction",
-    "file_name": "mitreband",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/trainer_guides/mitreband/",
+    "title": "Bandsaw",
+    "file_name": "bandsaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/bandsaw/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "General",
+    "file_name": "general",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/general/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Mitresaw",
+    "file_name": "mitresaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/mitresaw/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Tablesaw",
+    "file_name": "tablesaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/tablesaw/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Bandsaw",
+    "file_name": "bandsaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/bandsaw/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "General",
+    "file_name": "general",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/general/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Mitresaw",
+    "file_name": "mitresaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/mitresaw/",
     "tags": [],
     "description": []
   },

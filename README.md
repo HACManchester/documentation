@@ -65,6 +65,7 @@ pip install git+https://github.com/rkoe/mkdocs-emailprotect@ef91e3dda367bd6a3f65
 pip install mkdocs-git-revision-date-localized-plugin
 ```
 
+
 Then we can use the build.py wrapper script
 ```sh
 # This builds the documentation page then makes it visible under http://127.0.0.1:8000
@@ -73,6 +74,16 @@ build.py serve
 build.py build
 # Cleans the build directory
 build.py clean
+```
+
+#### Alternative using tox
+[tox](tox.wiki) is a python-specific thing that's a bit like docker.
+
+You can set up a dev environment and run a mkdocs development server using:
+
+```sh
+pip install tox
+tox run
 ```
 
 ### Contributing

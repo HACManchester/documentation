@@ -1,5 +1,0 @@
-# Ignore tox dirs
-.tox-dev/
-
-# Ignore python virtual environment directory
-py38dev/

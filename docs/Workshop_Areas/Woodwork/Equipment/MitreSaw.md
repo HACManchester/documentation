@@ -12,7 +12,7 @@ Mitre Saws
 | Lone Working | No                  | No                     |
 | Materials    | Wood                | Wood                   |
 
-### **Features**
+### Features
 
 |           | Evolution         | DeWalt            |
 |-----------|-------------------|-------------------|
@@ -24,7 +24,7 @@ Mitre Saws
 | Bevel L/R | 45&deg; / 0&deg;  | 48&deg; / 48&deg; |
 | Max. Cut  | 300 x 60 mm       | 320 x 76 mm       |
 
-### **Manuals**
+### Manuals
 
 -	[Rage3-S300 Manual](../../../instruction_manuals/evolutionmitresaw.pdf)
 -	[Dewalt DW717XPS Manual](../../../instruction_manuals/dewaltmitresaw.pdf)
@@ -39,7 +39,7 @@ This Mitre Saw is mounted on the main workbench with the height set to allow for
 
 This Mitre Saw is mounted on a portable frame with extendable roller supports. The saw can be repositioned in the workshop to suit the requirement of the user, however it should be returned to its 'home' after use to keep the workshop tidy. Members are required to ensure that when cutting, the material is firmly clamped in place.
 
-### **Training**
+### Training
 
 These machines are included in the Mitre and bandsaw induction
 
@@ -48,7 +48,7 @@ The training will cover the following:
 -	Usage of the machines including accessories used with the tool
 -	How check & identify the installed blade
 
-### **Safety**
+### Safety
 
 When using the mitre saws PPE is mandatory and the dust extraction should be connected and running.
 
@@ -58,25 +58,24 @@ When using the mitre saws PPE is mandatory and the dust extraction should be con
 
 During an emergency, if the workshop safety switches are triggered the machine will be disabled as power to the workshop will be stopped.
 
-### **Risk Assessment**
+### Risk Assessment
 
 [Mitre Saw Risk Assessment](https://docs.google.com/document/d/1hz-QQyRN5IDYSb1ZQf2hbaZ7sfdufF3-600ZcDYxIJI/edit?usp=sharing)
 
-### **Induction Docs**
+### Induction Docs
 
--	[MitreSaw.pdf](../../Inductions/MitreSaw.pdf)
--	[MitreSaw.docx](../../Inductions/MitreSaw.docx)
+#### Training
 
-### **Manuals**
+-	[Training Content](../Training/MitreSaw.md)
+-	[Test Content](../Training/MitreSaw.md)
+-	[Mitre Saw Checklist (pdf)](../Inductions/MitreSaw.pdf)
+-	[Mitre Saw Checklist (docx)](../Inductions/MitreSaw.docx)
+
+### Manuals
 
 -	[Rage3-S300 Manual](../../../instruction_manuals/evolutionmitresaw.pdf)
 -	[Dewalt DW717XPS Manual](../../../instruction_manuals/dewaltmitresaw.pdf)
 
-### **Induction Docs**
-
--	[Mitre Saw Checklist](../Inductions/MitreSaw.pdf)
--	[Induction Content](../Inductions/trainer_guides/mitreband.md)
-
-### **Maintenance**
+### Maintenance
 
 Periodic maintenance is overseen by the Woodwork Team. Issues & faults can be reported to them though the public WoodyDusty telegram group chat [Got Wood?](http://protect-mylinks.com/decrypt?i=d354121e2215720)

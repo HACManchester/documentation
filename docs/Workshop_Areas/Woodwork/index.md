@@ -6,7 +6,7 @@ The woodwork area, affectionately known as WoodyDusty, is one of the larger encl
 Contact
 -------
 
-|                                                            |                                                                                   |
+| Contact                                                    |                                                                                   |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | [Co-ordinator](https://list.hacman.org.uk/u/peterdroberts) | Member responsible for the area.                                                  |
 | [Team](https://list.hacman.org.uk/g/Team_Wood)             | List of members of the Woodworking Team.                                          |

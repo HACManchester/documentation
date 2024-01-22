@@ -30,14 +30,21 @@ Controls
 Preparation for cutting
 -----------------------
 
-### Check material is correctly located and secured
+1.	Check material is correctly located and secured
 
-### Blade teeth pointing the right way
+2.	Blade teeth pointing the right way
 
-![img](bandsaw-TPI-chart.jpg)
+	![img](bandsaw-TPI-chart.jpg)
 
-### Use vee block when cutting round material
+3.	Use vee block when cutting round material
 
-This is a simple device that can be homemade which prevents round material from rotating and pulling your hand into the blade
+	This is a simple device that can be homemade which prevents round material from rotating and pulling your hand into the blade
 
-![img](FG7WZI1J8OR3V9B.jpg)
+	![img](FG7WZI1J8OR3V9B.jpg)
+	
+4. Set the guard about 1cm from the top of the material to be cut
+
+Cutting
+-------
+
+1.	Push the material through the blade steadily. Let the blade do the work. If it takes a long time the blade may be blunt and forcing it will just break it.

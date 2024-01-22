@@ -1,3 +1,4 @@
 # Remove Apple OS Files
 .DS_Store
 site/
+.tox/

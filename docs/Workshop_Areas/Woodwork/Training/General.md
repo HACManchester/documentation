@@ -76,11 +76,14 @@ Moisturiser-like product that products against irritation when coming in contact
 
 2.	Noises/etc.
 
-When the machine is on, listen for unusual sounds that may indicate an internal fault
+	When the machine is on, listen for unusual sounds that may indicate an internal fault
 
-1.	Is dust extraction connected (when available)
-2.	Do I have push sticks available?
-3.	Is machine at a neutral angle etc.
+3.	Is dust extraction connected (when available)
+
+4.	Do I have push sticks available?
+
+5.	Is machine at a neutral angle etc.
+
 	1.	Previous users may have adjusted the tool such that it is at an angle other than 90 degrees, so check this yourself to avoid disappointment
 
 ### Is this the right tool?
@@ -110,35 +113,37 @@ When the machine is on, listen for unusual sounds that may indicate an internal 
 	-	Starting the machine with material touching the blade will overload the engine.
 2.	If the machine sounds wrong or is struggling a lot, go slower or stop using it and report broken if this isn't possible. The blades do blunt over time. Forcing stuff through the bandsaw is most likely to break it.
 
-How to report faults/help out
------------------------------
+Faults
+------
 
-### Only adjust angle controls etc. as an ordinary user
+**If you think you could fix a fault don't try before speaking to the [wood area coordinator](../index.md#contact). If you don't receive a response do not assume you can go ahead.**
 
-Calibration is done by maintainers. The wood team maintainers are volunteers. If you are practically minded and believe this is something you could do, feel free to reach out to the coordinator and ask if you can help. However, do not adjust anything without speaking to the coordinator first, as not knowing who has touched what makes their job much more difficult as well as leading to health and safety risks and damaged equipment.
+1.	Only adjust angle controls etc. as an ordinary user
 
-### Use report signs with QR codes around the space to report faults, or post on telegram
+	Calibration is done by maintainers. The wood team maintainers are volunteers. If you are practically minded and believe this is something you could do, feel free to reach out to the coordinator and ask if you can help. However, do not adjust anything without speaking to the coordinator first, as not knowing who has touched what makes their job much more difficult as well as leading to health and safety risks and damaged equipment.
 
-### Put a sign on the machine to say it's out of order so people don't use it and have injuries
+2.	Use report signs with QR codes around the space to report faults, or post on telegram
+
+3.	Put a sign on the machine to say it's out of order so people don't use it and have injuries
 
 Hackspace specifics
 -------------------
 
 ### Do not store anything in woodwork
 
--	If large storage is full, you must either clear outdated items out or store elsewhere
+If large storage is full, you must either clear outdated items out or store elsewhere
 
-	### Do not remove/borrow any tools or other from the space
+### Do not remove/borrow any tools or other from the space
 
-	### Scraps are free, but this system will be obsoleted
+### Scraps are free, but this system will be obsoleted
 
-	### There is a library with some woodworking books
+### There is a library with some woodworking books
 
-	This is in the main area on the box shelves. Particularly recommended is the 'Collin's Complete Woodworker's manual', which is also available on [archive.org](https://archive.org/details/CollinsCompleteWoodworkersManual) for free.
+This is in the main area on the box shelves. Particularly recommended is the 'Collin's Complete Woodworker's manual', which is also available on [archive.org](https://archive.org/details/CollinsCompleteWoodworkersManual) for free.
 
-	### We don't have cleaners so **leave the room tidy**.
+### We don't have cleaners so **leave the room tidy**.
 
-	### Don't leave machines/items in the gangway and put wheeled tools back after use
+### Don't leave machines/items in the gangway and put wheeled tools back after use
 
 ### 'No lone working' rule
 

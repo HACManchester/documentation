@@ -10,7 +10,7 @@ What is it for?
 
 2.	Blade is perpendicular so can be used to cut mortises etc.
 
-	![img](../mitreband/mortise-tenon-joints.jpg)
+	![img](mortise-tenon-joints.jpg)
 
 3.	Material that is not planed
 

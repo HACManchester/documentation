@@ -19,14 +19,14 @@ plugins:
 markdown_extensions:
   - pymdownx.highlight:
       use_pygments: false
-  - admonition
   - attr_list
   - md_in_html
-  - pymdownx.details
   - pymdownx.keys
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tabbed
+  - pymdownx.blocks.admonition
+  - pymdownx.blocks.details
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde

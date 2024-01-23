@@ -385,13 +385,6 @@
     "description": []
   },
   {
-    "title": "Index",
-    "file_name": "index",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Electronics/",
-    "tags": [],
-    "description": []
-  },
-  {
     "title": "Consumables (Elec)",
     "file_name": "Consumables_(Elec)",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Electronics/Consumables_%28Elec%29/",
@@ -402,27 +395,6 @@
     "title": "Reflow Oven",
     "file_name": "Reflow_Oven",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Electronics/Equipment/Reflow_Oven/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Index",
-    "file_name": "index",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/General/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Instruction Manuals",
-    "file_name": "Instruction_Manuals",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/General/Instruction_Manuals/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Index",
-    "file_name": "index",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Metalwork/",
     "tags": [],
     "description": []
   },
@@ -486,20 +458,6 @@
     "title": "Warco   Tools",
     "file_name": "Warco - Tools",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Metalwork/Equipment/Lathes/Warco%20-%20Tools/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Index",
-    "file_name": "index",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Photo_Cave/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Index",
-    "file_name": "index",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Visual_Arts/",
     "tags": [],
     "description": []
   },
@@ -609,23 +567,23 @@
     "description": []
   },
   {
-    "title": "Mitre Saw",
-    "file_name": "Mitre_Saw",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/Mitre_Saw/",
+    "title": "MitreSaw",
+    "file_name": "MitreSaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/MitreSaw/",
     "tags": [],
     "description": []
   },
   {
     "title": "Pillar Drills",
-    "file_name": "Pillar_Drill_(Wood)",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/Pillar_Drill_%28Wood%29/",
+    "file_name": "PillarDrill",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/PillarDrill/",
     "tags": [],
     "description": []
   },
   {
     "title": "Router Table",
-    "file_name": "Router Table",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/Router%20Table/",
+    "file_name": "RouterTable",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/RouterTable/",
     "tags": [],
     "description": []
   },
@@ -637,65 +595,72 @@
     "description": []
   },
   {
-    "title": "Table Saws",
-    "file_name": "Table_Saw",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/Table_Saw/",
+    "title": "TableSaw",
+    "file_name": "TableSaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/TableSaw/",
     "tags": [],
     "description": []
   },
   {
-    "title": "Wood Lathe",
-    "file_name": "Wood_Lathe",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/Wood_Lathe/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Bandsaw",
-    "file_name": "bandsaw",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/bandsaw/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "General",
-    "file_name": "general",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/general/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Mitresaw",
-    "file_name": "mitresaw",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/mitresaw/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Tablesaw",
-    "file_name": "tablesaw",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/tablesaw/",
+    "title": "WoodLathe",
+    "file_name": "WoodLathe",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/WoodLathe/",
     "tags": [],
     "description": []
   },
   {
     "title": "Bandsaw",
-    "file_name": "bandsaw",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/bandsaw/",
+    "file_name": "Bandsaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/Bandsaw/",
     "tags": [],
     "description": []
   },
   {
     "title": "General",
-    "file_name": "general",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/general/",
+    "file_name": "General",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/General/",
     "tags": [],
     "description": []
   },
   {
-    "title": "Mitresaw",
-    "file_name": "mitresaw",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/mitresaw/",
+    "title": "MitreSaw",
+    "file_name": "MitreSaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/MitreSaw/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "TableSaw",
+    "file_name": "TableSaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/TableSaw/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "BandSaw",
+    "file_name": "BandSaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/BandSaw/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "General",
+    "file_name": "General",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/General/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "MitreSaw",
+    "file_name": "MitreSaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/MitreSaw/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "TableSaw",
+    "file_name": "TableSaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/TableSaw/",
     "tags": [],
     "description": []
   },
@@ -945,23 +910,9 @@
     "description": []
   },
   {
-    "title": "Risk Assessment",
-    "file_name": "Risk_Assessment",
-    "url": "https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/Risk_Assessment/",
-    "tags": [],
-    "description": []
-  },
-  {
     "title": "Risk Assessment Laser Cutter (Blue)",
     "file_name": "Risk_Assessment_Laser_Cutter_(Blue)",
     "url": "https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/Risk_Assessment_Laser_Cutter_%28Blue%29/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Risk Assessment OrangeLaser",
-    "file_name": "Risk_Assessment_OrangeLaser",
-    "url": "https://docs.hacman.org.uk/old_wiki_files/Equipment/Laser_Cutter/Risk_Assessment_OrangeLaser/",
     "tags": [],
     "description": []
   },

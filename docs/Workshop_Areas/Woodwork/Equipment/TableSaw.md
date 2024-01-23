@@ -33,7 +33,7 @@ The optional sliding carriage table runs on triple sets of ball bearings in a to
 ### Manual
 
 -	[Scheppach TS2500 manual](../../../instruction_manuals/ts_2500_ci.pdf)
--	[Catalogue showing part numbers of various accessories](../../../scp_catalogue_2006_en.pdf)
+-	[Catalogue showing part numbers of various accessories](../../../instruction_manuals/scp_catalogue_2006_en.pdf)
 
 As standard the space stocks replacement blades for these machines as listed on the consumables page. Damaged and broken blades should be reported to the Woodwork Team so that replacements can be acquired asap. If members wish they can buy specialised blades for the machine using the dimensions listed in the table above.
 

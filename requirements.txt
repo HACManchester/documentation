@@ -1,6 +1,7 @@
 # Depends
 mkdocs
 mkdocs-material
+mkdocs-video
 
 # Tags for mkdocs
 git+https://github.com/srymh/MkdocsTagPlugin.git

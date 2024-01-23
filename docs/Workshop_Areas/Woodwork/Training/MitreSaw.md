@@ -1,21 +1,46 @@
-Mitre Saw
-=========
+Sliding Mitre Saws
+==================
 
-Sliding Mitre Saw
------------------
-
-### What is it for?
+What are they for?
+------------------
 
 1.	Cutting precise cuts in beams and narrow boards
 2.	Framing etc.
 
-### Controls
+Controls
+--------
 
-1.	Bevel control
-2.	Mitre control
-3.	Safety lock (i.e. the second button on the handle to release)
-4.	Start/stop button
-5.	Movable guards
+### Bevel control
+
+#### Evolution mitre saw
+
+![type:video](evo_bevel_control.ogg)
+
+#### Dewalt mitre saw
+
+![type:video](dewalt_bevel_control_001.ogg)
+
+![type:video](dewalt_bevel_control_002.ogg)
+
+### Mitre control
+
+#### Evolution mitre saw
+
+![type:video](evo_mitre_control.ogg)
+
+#### Dewalt mitre saw
+
+![type:video](dewalt_mitre_control.ogg)
+
+### Safety lock (i.e. the second button on the handle to release)
+
+#### Evolution mitre saw
+
+![type:video](evo_safety.ogg)
+
+### Start/stop button
+
+### Movable guards
 
 ### Preparation for cutting
 

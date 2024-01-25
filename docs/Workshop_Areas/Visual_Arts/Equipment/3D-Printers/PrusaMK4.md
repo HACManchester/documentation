@@ -1,6 +1,6 @@
 # How to setup the MK4's in PrusaSlicer
 
-![](/home/leah/.var/app/com.github.marktext.marktext/config/marktext/images/2024-01-25-22-03-08-image.png)
+![](images/1.png)
 
 Select MK4 with or without [input shaping]([Input Shaper (MK4, XL, MINI/+) | Prusa Knowledge Base](https://help.prusa3d.com/article/input-shaper-mk4-xl-mini-_451816))
 
@@ -10,7 +10,7 @@ Select MK4 with or without [input shaping]([Input Shaper (MK4, XL, MINI/+) | Pru
 
 Press "add physical printer"
 
-![](/home/leah/.var/app/com.github.marktext.marktext/config/marktext/images/2024-01-25-22-09-09-image.png)
+![](images/3.png)
 
 and add in the details to below
 

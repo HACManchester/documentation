@@ -19,8 +19,5 @@ and add in the details to below
 | Kim                 | 172.16.0.123 | dmAPJnhhJ37VXBV |
 | Romanov             | 172.16.0.124 | K2j5K9jNUwi4Aud |
 
-```
-
-```
 
 [PrusaLink setup (MK4, MK3.9, XL, MINI/+) | Prusa Knowledge Base](https://help.prusa3d.com/guide/wi-fi-and-prusalink-setup-mk4-mk3-9-xl-mini-_413293#416077)

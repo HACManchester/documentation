@@ -9,8 +9,28 @@ Top-level specifications:
     Red-dot laser for bounds checking
     Smart cooling
     Rise-and-fall bed, Super useful for engraving stuff on stuff
+    
+    
+    
+
+## 
+
+> All safety mechanisms of the laser cutters must be checked and confirmed are working and operational before using the lasers.
+> 
+> - Check chillers, lid interlocks, machine panels, extraction or any other feature or mechanism of the machine designed to keep members safe.
+> - The coolant pump *must* be running before cutting starts. This is a metal box under the laser cutter which has a two-digit temperature display when switched on.
+> - Leave the coolant pump on for at least 5 minutes after cutting finishes.
+> - Fume extraction must run while the laser is cutting. This starts automatically when the laser is working. If the extraction doesn't appear to be working, stop cutting.
+> - Stay close to the laser cutter and watch it at all times when it's cutting. Fires can start very quickly.
+> - Don't use the controls if someone is doing something on the bed
+> - If you think a tool is unsafe or behaving in a way it shouldn't;
+>   - Mark it out of use and alert the responsible team by the quickest means possible!
+>   - Do not attempt to use the tool or allow anyone else to use it.
+
+
 
 ## **Checklist for induction - Trainers Guide to Laser Cutting on Bluey**
+
 This is a checklist of items to run through but the more detailed version is below
 
 ### **Showy Steps**
@@ -19,17 +39,17 @@ This is a checklist of items to run through but the more detailed version is bel
 2. Make sure the coolant pump is on (mention recommended temp [25 or below] and it should come on automatically if the laser cutter is on)
 3. Talk about the emergency stop, water, fire extinguisher, fire alarm and when you should use them
 4. Open the cover. Mention the different parts, laser head, mirrors, lid switch for laser cut off (don't tamper with safety features)
-6. Autolevelling and manually moving the bed with bluey (note the limit switch and how a material should be placed for it)
-7. Talk about the menu and briefly mention what the buttons do but go into detail when demoing a cut. They don’t need to go into settings
-8. Pop open the bottom panel and show they can clean it out
-9. Mention the materials we supply and what materials are allowed
-10. Talk about the blue log book and money box. Mention the credit recording at the back of the book
-11. Mention why it's worth recording the time even if you don't care about how much money you pay
-12. Point out the offcuts pile
+5. Autolevelling and manually moving the bed with bluey (note the limit switch and how a material should be placed for it)
+6. Talk about the menu and briefly mention what the buttons do but go into detail when demoing a cut. They don’t need to go into settings
+7. Pop open the bottom panel and show they can clean it out
+8. Mention the materials we supply and what materials are allowed
+9. Talk about the blue log book and money box. Mention the credit recording at the back of the book
+10. Mention why it's worth recording the time even if you don't care about how much money you pay
+11. Point out the offcuts pile
 
 ### **Demo Steps**
 
-11. Move to the computer. Prep a job (make it as small as possible) and send it to the laser cutter to show how lightburn works
+11. Move to the computer. Prep a job (make it as small as possible) and send it to the laser cutter`` to show how lightburn works
 12. Show making a simple vector image with engraving and cutting a shape. Normally a shape with a cut, mark and engrave
 13. Power settings for these are in the cover of bluey notebook
 14. Mention the different options in lightburn and how you can manually tweak the settings
@@ -57,17 +77,21 @@ This is a checklist of items to run through but the more detailed version is bel
 24. Engraving a jpeg image
 25. Offset fill 
 
-
 ## **Operating the laser cutter**
-
 
 ### **Safety**
 
+All safety mechanisms of the laser cutters must be checked and confirmed are working and operational before using the lasers.
+
+* Check chillers, lid interlocks, machine panels, extraction or any other feature or mechanism of the machine designed to keep members safe.
 * The coolant pump _must_ be running before cutting starts. This is a metal box under the laser cutter which has a two-digit temperature display when switched on.
 * Leave the coolant pump on for at least 5 minutes after cutting finishes.
 * Fume extraction must run while the laser is cutting. This starts automatically when the laser is working. If the extraction doesn't appear to be working, stop cutting.
 * Stay close to the laser cutter and watch it at all times when it's cutting. Fires can start very quickly.
 * Don't use the controls if someone is doing something on the bed
+* If you think a tool is unsafe or behaving in a way it shouldn't;
+  - Mark it out of use and alert the responsible team by the quickest means possible!
+  - Do not attempt to use the tool or allow anyone else to use it.
 
 ### **In the event of fire / emergency**
 
@@ -76,7 +100,6 @@ This is a checklist of items to run through but the more detailed version is bel
 * There is an emergency stop button on the front that is functional, this will turn everything off and is recommended as a power off switch. The turn switch will just stop the laser firing as well as opening the lid.
 * If there is a fire you can safely fight it use the CO2 extinguisher available next to the laser
 * If you can't do either of these, leave the space immediately, and call 999. The address is Wellington House, Pollard Street, Manchester, M40 7FS
-
 
 ### **Problems other than fires**
 
@@ -106,7 +129,6 @@ Even if the laser cutter didn't work, let the chiller run for 5 mins before turn
 
 [Video on the features of the ruida controller](https://www.youtube.com/watch?v=l9nPmHXbX1I) 
 
-
 ## **Using Lightburn for laser cutting**
 
 Bluey uses lightburn which is paid for licensed software. 
@@ -134,7 +156,6 @@ After you install the software, there is a help screen and then it will invite y
 
 Buttons
 
-
 * Square Frame moves the laser to show a rectangle boundary around the shape(s)
 * Circle Frame moves the laser to draw the actual outlines of shape(s)
 * Send will send the file to the laser cutter to store in memory
@@ -148,7 +169,6 @@ Buttons
 * Optimise Cut Path 
 
 ![screen showing controls for a lasercutter in lightburn](images/lightburn_controls.png)
-
 
 ### **Laser operations in lightburn**
 
@@ -224,7 +244,6 @@ At this stage you should now be ready to do the cut for real.
 * U+ or U-
 * General settings
 * 
-
 
 # Upgrade training
 

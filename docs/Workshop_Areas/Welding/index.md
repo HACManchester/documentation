@@ -49,9 +49,11 @@ Equipment (PPE) for members to use and also have clear instructions and safety r
 These guidelines are there for everyone's protection and must be followed at all times when using the workshop facilities.
 Ensuring a safe and responsible working environment is crucial for all members.
 
-???+ warning "Important"
+/// admonition | Important
+    type: warning
 
-    If you find any PPE is missing or damaged please contact [The Welding Team](https://list.hacman.org.uk/g/Team_Welding) asap via [Telegram](https://t.me/HACManchester/211848).
+If you find any PPE is missing or damaged please contact [The Welding Team](https://list.hacman.org.uk/g/Team_Welding) asap via [Telegram](https://t.me/HACManchester/211848).
+///
 
 Due to the nature of welding/grinding it is common to find members using the equipment that requires PPE.
 As such we recommend that all members within woodwork wear the appropriate PPE whenever equipment is being used.
@@ -65,17 +67,20 @@ As such we recommend that all members within woodwork wear the appropriate PPE w
 - Welding/Grinding gloves
 - Welding aprons
 
-???+ note
+/// admonition | Note
+    type: note
 
-    You are free to bring your own PPE equipment, however it MUST be suitable for the task at hand.
-
+You are free to bring your own PPE equipment, however it MUST be suitable for the task at hand.
+///
 ### PPE you must have
 
 - P3 Respirator such as [option1](https://www.amazon.co.uk/dp/B01B6CT66E?psc=1&ref=ppx_yo2ov_dt_b_product_details), [option2](https://www.screwfix.com/p/jsp-force-8-medium-mask-respirator-with-press-to-check-filters-p3/1863f), [option3](https://www.screwfix.com/p/gvs-spr501-medium-large-half-mask-respirator-p3/6922g)
 
-???+ warning "Important"
+/// admonition | Important
+    type: warning
 
-    When attending to induction or when working in the welding are you MUST bring your own P3 respirator.
+When attending to induction or when working in the welding are you MUST bring your own P3 respirator.
+///
 
 ### Risk Assessment [TBC]
 

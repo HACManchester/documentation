@@ -4,8 +4,9 @@
 
 ### List of Printers
 
-- Creality Ender-3 V2 (Derek) with BLTouch and flex bed, 0.4mm nozzle
-- Creality Ender-3 V2 (Jeff), glass bed, 0.4mm nozzle
+- [Prusa mk4's](https://docs.hacman.org.uk/Workshop_Areas/Visual_Arts/Equipment/3D-Printers/PrusaMK4/)
+- ~~Creality Ender-3 V2 (Derek) with BLTouch and flex bed, 0.4mm nozzle~~
+- ~~Creality Ender-3 V2 (Jeff), glass bed, 0.4mm nozzle~~
 - Sunlu printer (Courtney), larger than the enders
 - Resin Printer (Bob Jr.) Elegoo Mars Pro
 

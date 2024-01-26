@@ -60,6 +60,7 @@ If you want to get a better preview of what the changes will look like when rend
 	pip install git+https://github.com/srymh/MkdocsTagPlugin.git@ac1f02ba95527d11d84b5ec87f4e63851d57fc7d
 	pip install git+https://github.com/rkoe/mkdocs-emailprotect@ef91e3dda367bd6a3f65dda183559e1b929d6240
 	pip install mkdocs-git-revision-date-localized-plugin
+    pip install mkdocs mkdocs-video
 	```
 
 Then we can use the build.py wrapper script

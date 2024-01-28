@@ -1,22 +1,30 @@
 # Angle Grinders
 
-## Angle Grinder
+## Lumberjack Electric Heavy Duty Trade Angle Grinder 115mm
 
-| Image                             | Description |
-|-----------------------------------|-------------|
-| ![XTM 201i](grinders/grinder.png) | TBC         |
+| Image                       | Description                                                                                                                                                                                  |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![AG820](ag820/AG820_0.jpg) | The Lumberjack 820W Angle Grinder is ideal for tackling a range of tasks including sanding, cutting, grinding or polishing, remove rust, grind mortar, smooth surfaces and cut metal piping. |
 
 ### Characteristics
 
-- TBC
+- Brand: Lumberjack
+- MPN: AG820
+- Barcode: 5060504001335
+- Voltage: 230V
+- Power: 820W
+- **No load speed: 11,000 RPM**
+- **Disc diameter: 115mm**
+- Disc Arbour: 22.23mm (Industry Standard)
+- Shaft Size: M14
 
 ### Documentation
 
-- TBC
+- [Safety and Operating Manual](ag820/AG820_Manual.pdf)
 
 ### Risk Assessments
 
-[Risk Assessment](https://docs.google.com/document/d/1Ec-5A3Q2Ch_SM9S83F1nCTQEzsbyRj8WMkXBcP4xxRk/edit?usp=sharing)
+[Risk Assessment](https://docs.google.com/document/d/1Ogk6B6C3GnDdjj43Wni3dsWTDIYYpGBI/edit?usp=sharing&ouid=112612275117000682260&rtpof=true&sd=true)
 
 [Category:Equipment](Category:Equipment "wikilink")
 [Category:Stubs](Category:Stubs "wikilink")

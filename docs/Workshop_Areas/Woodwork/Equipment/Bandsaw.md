@@ -1,81 +1,34 @@
-# Bandsaws
+Bandsaws
+========
 
-|               | Record Power           | Axminster              |
-|---------------|------------------------|------------------------|
-| Model No.     | BS12                   | AWHSBS250N             |
-| Asset ID      |                        |                        |
-| Location      | Woodwork, Freestanding | Woodwork, Freestanding |
-| Status        | Operating              | Operating              |
-| Ownership     | Hackspace              |                        |
-| Training      | Induction              | Induction              |
-| Lone Working  |                        |                        |
-| Materials     | Wood                   | Wood                   |
-
-*~ insert images~ *
-
----
-
-### **Features**
-#### Record Power - BS12
-*~ Write description & features ~*
-
-As standard the space stocks replacement blades for this machine, listed on the consumables page.  Damaged and broken blades should be reported to the Woodwork Team so that replacements can be acquired asap.  If members wish they can buy specialised blades for the machine using the following dimensions:
-
-* Size = 12"
-* Blade Length = 2240mm (88")
-* Blade Width = 19mm Max
-
-#### Axminster - AWHSBS250N
-*~ Write description & features ~*
-
-As standard the space stocks replacement blades for this machine, listed on the consumables page.  Damaged and broken blades should be reported to the Woodwork Team so that replacements can be acquired asap.  If members wish they can buy specialised blades for the machine using the following dimensions:
-
-* Size = 10"
-* Blade Length = 1790mm (88")
-* Blade Width = 6mm Min / 13mm Max
-
----
-
-### **Training**
-These machines are included in the general WoodyDusty Training & Safety Induction, this can be completed either in person or via the Moodle course:
-
-~insert link to Moodle course~
-
-The training will cover the following:
-
-* Usage of the machines including accessories used with the tool
-* How check & identify the installed blade
-* How to change & replace the blade
-* How to trouble shoot issues with the machines
-
----
-
-### **Safety**
-When using the bandsaws PPE is mandatory and the dust extraction should be connected and running.
-
-* Eye protection
-* Hearing protection
-* Dust mask (recommended)
-
-During an emergency, if the workshop safety switches are triggered the machine will be disabled as power to the workshop will be stopped.
-
----
-
-### **Risk Assessment**
-[Bandsaw Risk Assessment](https://docs.google.com/document/d/1XamNWhlXafMzea9VrnyEexjN7GmRunrqYpK8ltzWuMQ/edit?usp=sharing)
-
-
-### **Induction Docs**
-
-  * [BandSaw.pdf](../../Inductions/BandSaw.pdf)
-  * [BandSaw.docx](../../Inductions/BandSaw.docx)
-
----
+|                 | Record Power                 | Axminster                       |
+|-----------------|------------------------------|---------------------------------|
+|                 | ![img](../Training/8211.jpg) | ![img](../Training/ap2920b.jpg) |
+| Model No.       | BS12                         | AP2920B                         |
+| Location        | Woodwork, Freestanding       | Woodwork, Freestanding          |
+| Training        | Induction                    | Induction                       |
+| Lone Working    | No                           | No                              |
+| Materials       | Wood                         | Wood                            |
+| Blade Length    | 2240mm (88")                 | 2920mm (115")                   |
+| Min blade width | 6mm                          | 3mm                             |
+| Max blade width | 15mm                         | 19mm                            |
+| Blade speed     | 820m/min or 380m/min         | 800m/min                        |
+| Max cut height  | 175mm                        | 300mm                           |
+| Max cut width   | 185mm                        | 345mm                           |
+| Power           | 750W (1HP)                   | 1.5kW (2HP)                     |
 
 ### **Manuals**
-* *~ insert manuals ~*
 
----
+-	[Record Power BS12](../../../instruction_manuals/bandsaw_green.pdf)
+-	[Axminster AWHSBS250N](../../../instruction_manuals/bandsaw_grey.pdf)
 
-### **Maintenance**
-Periodic maintenance is overseen by the Woodwork Team.  Issues & faults can be reported to them though the public WoodyDusty telegram group chat [Got Wood?](http://protect-mylinks.com/decrypt?i=d354121e2215720)
+### **Training**
+
+Please review the bandsaw training before your induction session. For your induction you will be asked the theory questions and required to demonstrate the procedures in the practical session.
+
+-	[Bandsaw Training](../Training/BandSaw.md)
+-	[Bandsaw Induction](../Induction/BandSaw.md)
+
+### **Risk Assessment**
+
+[Bandsaw Risk Assessment](https://docs.google.com/document/d/1vmRQARijmAEr8GuRV7vNvCEUal7-j2Tp)

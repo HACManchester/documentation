@@ -20,7 +20,7 @@
 
 ### Documentation
 
-- [Safety and Operating Manual](ag820/AG820_Manual.pdf)
+- [Safety and Operating Manual](ag820/ag820_manual.pdf)
 
 ### Risk Assessments
 

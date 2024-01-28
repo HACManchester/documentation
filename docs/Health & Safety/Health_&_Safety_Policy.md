@@ -1,6 +1,6 @@
-# Health & Safety Policy 
 
 Health & Safety is the responsibility of every Hackspace Citizen** It is your duty to make sure they are safe and not endagering themselves or others! 
+Health & Safety is the responsibility of every Hackspace Citizen** It is your duty to make sure they are safe and not endangering themselves or others! 
 
 The Hackspace contains a lot of potentially dangerous tools for members to use: If you are not confident using a tool or machine DO NOT USE IT! Some equipment requires inductions whilst others do not however we do recommend you read AND FOLLOW any safety guides or instructions next to the machines. Please also ensure you use PPE when required to do so. 
 

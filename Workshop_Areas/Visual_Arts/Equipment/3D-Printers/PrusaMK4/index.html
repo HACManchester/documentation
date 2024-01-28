@@ -19,7 +19,7 @@
       
       
       <link rel="icon" href="../../../../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.5">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.6">
     
     
 
@@ -69,7 +69,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#how-to-setup-the-mk4s-in-prusaslicer" class="md-skip">
+        <a href="#how-to-setup-the-mk4s-in-prusaslicer-and-print" class="md-skip">
           Skip to content
         </a>
       
@@ -2513,18 +2513,18 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#how-to-setup-the-mk4s-in-prusaslicer" class="md-nav__link">
+  <a href="#how-to-setup-the-mk4s-in-prusaslicer-and-print" class="md-nav__link">
     <span class="md-ellipsis">
-      How to setup the MK4's in PrusaSlicer
+      How to setup the MK4's in PrusaSlicer and print
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#how-to-connect-to-add-them-to-prucaslicer" class="md-nav__link">
+  <a href="#printing-from-prusaslicer" class="md-nav__link">
     <span class="md-ellipsis">
-      How to connect to add them to PrucaSlicer
+      Printing from PrusaSlicer
     </span>
   </a>
   
@@ -3517,18 +3517,18 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#how-to-setup-the-mk4s-in-prusaslicer" class="md-nav__link">
+  <a href="#how-to-setup-the-mk4s-in-prusaslicer-and-print" class="md-nav__link">
     <span class="md-ellipsis">
-      How to setup the MK4's in PrusaSlicer
+      How to setup the MK4's in PrusaSlicer and print
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#how-to-connect-to-add-them-to-prucaslicer" class="md-nav__link">
+  <a href="#printing-from-prusaslicer" class="md-nav__link">
     <span class="md-ellipsis">
-      How to connect to add them to PrucaSlicer
+      Printing from PrusaSlicer
     </span>
   </a>
   
@@ -3573,27 +3573,34 @@
 
   <h1>PrusaMK4</h1>
 
-<div><h2 id="how-to-setup-the-mk4s-in-prusaslicer">How to setup the MK4's in PrusaSlicer</h2>
-<p><img alt="" src="/images/3D-Printers/1.png"></p>
+<div><h2 id="how-to-setup-the-mk4s-in-prusaslicer-and-print">How to setup the MK4's in PrusaSlicer and print</h2>
 <p>Select MK4 with or without <a href="https://help.prusa3d.com/article/input-shaper-mk4-xl-mini-_451816">Input Shaping</a></p>
-<h2 id="how-to-connect-to-add-them-to-prucaslicer">How to connect to add them to PrucaSlicer</h2>
-<p><img alt="" src="/images/3D-Printers/2.png"></p>
+<p><img alt="" src="/images/3D-Printers/P4_1.png"></p>
+<hr>
+<p>Go to "printer settings"</p>
+<p><img alt="fafaf" src="/images/3D-Printers/P4_2.png"></p>
 <p>Press "add physical printer"</p>
+<p>Note: When adding a second printer then "Original Prusa MK4...." must  be selected instead of a named printed in the drop-down.</p>
+<p><img alt="" src="/images/3D-Printers/P4_2.1.png"></p>
 <hr>
-<p><img alt="" src="/images/3D-Printers/3.png"></p>
 <p>Then add in the details from <a href="#printer-connection-information">Printer Connection Information</a></p>
+<p><img alt="dd" src="/images/3D-Printers/P4_3.png"></p>
 <hr>
+<h2 id="printing-from-prusaslicer">Printing from PrusaSlicer</h2>
+<p><img alt="ff" src="/images/3D-Printers/P4_5.png"></p>
+<p><img alt="ff" src="/images/3D-Printers/P4_6.png"></p>
 <h2 id="using-the-prusas-without-prusaslicer">Using the Prusa's without PrusaSlicer</h2>
-<p>It is perfectly fine if you want to use the Prusa's with a different slicer or <a href="https://fullcontrol.xyz/">custom G-code</a></p>
-<p>Simply visit the IP-Address from <a href="#printer-connection-information">Printer Connection Information</a></p>
-<p><img alt="3.png" src="/images/3D-Printers/4.png"></p>
+<p>It is perfectly fine if you want to use the Prusa's with a different slicer or <a href="https://fullcontrol.xyz/">custom G-code.</a></p>
+<p>Simply visit the IP-Address from <a href="#printer-connection-information">Printer Connection Information</a> to use <a href="https://help.prusa3d.com/guide/wi-fi-and-prusalink-setup-mk4-mk3-9-xl-mini-_413293#416077">PrusaLink.</a></p>
+<p><img alt="3.png" src="/images/3D-Printers/P4_4.png"></p>
+<hr>
 <h2 id="printer-connection-information">Printer Connection Information</h2>
 <table>
 <thead>
 <tr>
 <th>Name (and username)</th>
-<th>Ip-Address</th>
-<th>Prusa-Link key</th>
+<th>IP-Address</th>
+<th>Prusa-Link Key</th>
 </tr>
 </thead>
 <tbody>
@@ -3610,7 +3617,6 @@
 </tbody>
 </table>
 <p>Note: Accessing the printer's from outside the space is disabled</p>
-<p><a href="https://help.prusa3d.com/guide/wi-fi-and-prusalink-setup-mk4-mk3-9-xl-mini-_413293#416077">PrusaLink setup (MK4, MK3.9, XL, MINI/+) | Prusa Knowledge Base</a></p>
 <hr></div>
 
 
@@ -3687,7 +3693,7 @@
     <script id="__config" type="application/json">{"base": "../../../../..", "features": ["tabs"], "search": "../../../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../../../../../assets/javascripts/bundle.c18c5fb9.min.js"></script>
+      <script src="../../../../../assets/javascripts/bundle.e1c3ead8.min.js"></script>
       
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js"></script>
       

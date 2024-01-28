@@ -36,6 +36,8 @@ It is perfectly fine if you want to use the Prusa's with a different slicer or [
 
 Simply visit the IP-Address from [Printer Connection Information](#printer-connection-information) to use [PrusaLink.](https://help.prusa3d.com/guide/wi-fi-and-prusalink-setup-mk4-mk3-9-xl-mini-_413293#416077)
 
+Use "maker" as the username and the Prusa-Link key as the password.
+
 ![3.png](/images/3D-Printers/P4_4.png)
 
 ---

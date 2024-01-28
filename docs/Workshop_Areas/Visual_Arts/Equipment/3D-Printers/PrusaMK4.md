@@ -34,7 +34,7 @@ Simply visit the IP-Address from [Printer Connection Information](#printer-conne
 | Kim                 | 172.16.0.123 | dmAPJnhhJ37VXBV |
 | Romanov             | 172.16.0.124 | K2j5K9jNUwi4Aud |
 
-Note: Accessing the printer's from the space is disabled
+Note: Accessing the printer's from outside the space is disabled
 
 [PrusaLink setup (MK4, MK3.9, XL, MINI/+) | Prusa Knowledge Base](https://help.prusa3d.com/guide/wi-fi-and-prusalink-setup-mk4-mk3-9-xl-mini-_413293#416077)
 

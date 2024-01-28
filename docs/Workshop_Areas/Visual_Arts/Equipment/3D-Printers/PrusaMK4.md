@@ -25,6 +25,8 @@ It is perfectly fine if you want to use the Prusa's with a different slicer or [
 
 Simply visit the IP-Address from [Printer Connection Information](#printer-connection-information)
 
+![3.png](/images/3D-Printers/4.png)
+
 ## Printer Connection Information
 
 | Name (and username) | Ip-Address   | Prusa-Link key  |

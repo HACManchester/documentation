@@ -1,11 +1,6 @@
 ---
 ---
-title: YAML Front Matter
-description: A very simple way to add structured data to a page.
----
-<h1> Hello </h1>
-<p> {{ description }} </p>
-Page content here
+title: Prusa Mk4 Printer setup and usage
 ---
 
 
@@ -67,3 +62,15 @@ Use "maker" as the username and the Prusa-Link key as the password.
 ![3.png](/images/3D-Printers/P4_4.png)
 
 ---
+
+## Changing filament
+
+Use the knob on the printer and follow all instructions on the screen
+
+Note: Do not pull the filament from the extruder!
+
+
+
+## Notes:
+
+There is a manual next to the printers which contains plenty of information on how to use the printers.

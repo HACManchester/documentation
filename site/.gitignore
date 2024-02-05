@@ -1,0 +1,8 @@
+# This is a dummy file to make sure the site directory is created
+# This is for compatibility with mdoctag
+# Although we shouldn't keep the build contents that end up here in github
+
+# Ignore everything
+*
+# Except for this file
+!.gitignore

@@ -2,25 +2,28 @@
 
 ## XTM201i Inverter MIG
 
-| Image                                | Description                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![XTM 201i](xtm201i/XTM201i_ISO.png) | Portable 230V Single Phase MIG Power Source Inverter Welding Machine from [Parweld](https://parweld.com/). The XTM 201i is able to cope with inputs which fluctuate by +/-15% & can be used with the majority of generators. Materials up to 4mm can be welded with ease. Synergic control provides rapid setting. Can be used in MMA, Lift TIG, MIG manual and synergic with or without GAS. Wire sizes of 0.8-1.0mm can be used with ease. |
+| Image                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![XTM 201Di](xtm201di/XTM201Di_ISO.png) | The 3 in 1 Multi-Process XTM201Di MIG Machine is ideal for welding Stainless Steels, Steels and Aluminium using MIG, DC TIG or MMA Processes. This Welding Power Source Machine is suitable for site work, maintenance and repair work. The multi-language innovative digital interface allows machine setup with minimal process knowledge. The helpful display guides the user through the machine setup fron how to connect the power source for the chosen process, right through to the correct settings for the particular material thickness. |
 
 ### Characteristics
 
-- 230V Single Phase Machine
-- Synergic MIG
-- Lift TIG and MMA Welding
-- Compact and Portable
-- 200A @ 25% Duty Cycle
-- Gas or Gasless Operation Options
-- 2T / 4T Trigger Latching
-- Accepts 5kg (200mm) Spools
-- Supplied with 3m Earth Lead
+- Smart Switching Dual Voltage 100V / 230V 
+- Digital Multi-Language Interface 
+- Rapid Synergic Setup for MIG, TIG & MMA Welding 
+- Supplied with MMA Lead Set, Input Cable and Gas Hose
 
 ### Documentation
 
-- [XTM201i Operator Manual ](xtm201i/XTM-161i_201i-Operator-Manual-Issue-2.pdf)
+- [XTM201Di Operator Manual ](xtm201di/Instructions_XTM-201Di_Issue-3.pdf)
+
+### Videos
+
+- [XTM 201Di MULTI PROCESS MIG INVERTER](https://www.youtube.com/watch?v=3G1hJrQry28)
+- [XTM 201Di Automotive MIG and TIG Welding](https://www.youtube.com/watch?v=Z1jbV_UGBbw)
+- [XTM 201Di MMA Machine Welding Setup](https://www.youtube.com/watch?v=jucLqCA6c6g)
+- [XTM 201Di TIG Machine Welding Setup](https://www.youtube.com/watch?v=MqrYoK6m0WU)
+- [XTM 201Di MIG Machine Welding Setup](https://www.youtube.com/watch?v=e8vuY6fhEuE)
 
 ### Risk Assessments
 

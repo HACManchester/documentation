@@ -204,21 +204,29 @@ Make sure they read through this page and if possible have visicut setup on thei
 2. Always mention safety and safety features throughout, start with making sure the coolant pump is on (mention recommended temp)
 3. Open the cover. Mention the different parts, laser head, mirrors, lid switch for laser cut off
 4. Mention what the lid switch does and how it can be useful but make sure it is not tampered with
-5. Also mention the pneumatic arm is not working properly. A few people have bumped their heads. (Maybe we should fix that? Or not.)
+5. Also mention the pneumatic arm will just hold it open but won't soft close.
 6. Move on to raising and lowering the bed and why it's needed
 7. Talk about the menu but might be best to show it off when you start sending jobs to it
-8. Mention the materials we supply and what materials are allowed
+8. Mention the materials we supply and what materials are allowed. Also mention off cuts
 9. Talk about the log book and money box. Mention the credit recording at the back of the book
 10. Mention why it's worth recording the time even if you don't care about how much money you pay. Some people didn't get it until I had to spell out we want to know how long the laser has ran for, not what you paid for it
-11. Move to the computer. Prep a job (make it as small as possible) and send it to the laser cutter to show how visicut works
-12. Mention the different profile options in visicut and how you can manually tweak the settings
-13. On the laser cutter, after the job is sent, talk about the menu options like boundary
-14. Talk about emergency stop especially short press vs. long press
-15. Cut your piece
-16. Get them to do the same. Keep it simple though, this is an induction
-17. In between jobs I turn off the chiller so they make sure to remember to turn it on
-18. You have some time while the laser cutter is running to talk about relevant scenarios: so mention if there is a fire what to do, how to emergency stop if the menu crashes, how to report issues with the laser and what issues to look out for.
-19. Also remind them to time the cut
-
+11. Talk about test cutting and why it's important. Also show the existing cut guides to help visualise cutting techniques.
+12. Move to the computer. Prep a job (make it as small as possible) and send it to the laser cutter to show how visicut works
+13. Mention the different profile options in visicut and how you can manually tweak the settings
+14. On the laser cutter, after the job is sent, talk about the menu options like boundary
+15. Talk about emergency stop especially short press vs. long press
+16. Cut your piece
+17. Show the interupt working by opening the cover, they can use this to quick stop the laser
+18. Show the emergency stop button working
+19. Get them to do the same. Keep it simple though, this is an induction
+20. In between jobs I turn off the chiller so they make sure to remember to turn it on
+21. You have some time while the laser cutter is running to talk about relevant scenarios: so mention if there is a fire what to do, how to emergency stop if the menu crashes, how to report issues with the laser and what issues to look out for.
+22. Also remind them to time the cut
+    
+Things to mention but not important
+1. The key does nothing
+2. No need to turn the laser cutter off (but make sure the chiller is turned off)
+3. Help them setup/use visicut on their own machine if willing    
+    
 ### Risk Assessment
 [Laser Cutter Risk Assessment](https://docs.google.com/document/d/1lllSKpsBu2iK7Go8yagxja4cmtHXv9eduVnCUz_MOnI/edit?usp=sharing)

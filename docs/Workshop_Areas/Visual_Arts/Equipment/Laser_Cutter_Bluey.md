@@ -1,18 +1,5 @@
 The Blue Laser Cutter is usable by members who have had an induction.
 
-Top-level specifications:
-
-    900mm x 600mm usable area (but bed is bigger)
-    100W Laser Tube 
-    Awesome Extraction
-    Air Assist
-    Red-dot laser for bounds checking
-    Smart cooling
-    Rise-and-fall bed, Super useful for engraving stuff on stuff
-    
-    
-    
-
 ## 
 
 > All safety mechanisms of the laser cutters must be checked and confirmed are working and operational before using the lasers.
@@ -253,3 +240,21 @@ You will need to cover:
 * Using the on device controls (emergency stop, control panel buttons)
 * Sending files to laser cutter using lightburn
 * Difference in nomenclature (frame vs boundary)
+
+# Laser details
+
+Our laser is the [hl-1060](https://hl-yeah.com/product/hl-1060-100w-co2-laser-cutting-machine-reci-w2-laser-engraving-machine/)
+
+Top-level specifications:
+
+    950mm x 580mm usable area (but bed is bigger)
+    90W rated (100W Peak) Power
+    Cutting speeds up to 50mm/s
+    Engraving speeds up to 400mm/s
+    Resolution ratio >=1000dpi
+    Awesome Extraction
+    Air Assist
+    Red-dot laser for bounds checking
+    Smart cooling
+    Rise-and-fall bed, Super useful for engraving stuff on stuff
+    

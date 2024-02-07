@@ -1,10 +1,10 @@
 # Welding Machines
 
-## XTM201i Inverter MIG
+## XTM 201Di
 
-| Image                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![XTM 201Di](xtm201di/XTM201Di_ISO.png) | The 3 in 1 Multi-Process XTM201Di MIG Machine is ideal for welding Stainless Steels, Steels and Aluminium using MIG, DC TIG or MMA Processes. This Welding Power Source Machine is suitable for site work, maintenance and repair work. The multi-language innovative digital interface allows machine setup with minimal process knowledge. The helpful display guides the user through the machine setup fron how to connect the power source for the chosen process, right through to the correct settings for the particular material thickness. |
+| Image                                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![XTM 201Di](xtm201di/XTM201Di_ISO.png) | The 200A 3 in 1 Multi-Process Inverter Machine [XTM201Di MIG Machine](https://parweld.com/product/xtm201di/) is ideal for welding Stainless Steels, Steels and Aluminium using MIG, DC TIG or MMA Processes. This Welding Power Source Machine is suitable for site work, maintenance and repair work. The multi-language innovative digital interface allows machine setup with minimal process knowledge. The helpful display guides the user through the machine setup fron how to connect the power source for the chosen process, right through to the correct settings for the particular material thickness. |
 
 ### Characteristics
 
@@ -20,7 +20,6 @@
 ### Videos
 
 - [XTM 201Di MULTI PROCESS MIG INVERTER](https://www.youtube.com/watch?v=3G1hJrQry28)
-- [XTM 201Di Automotive MIG and TIG Welding](https://www.youtube.com/watch?v=Z1jbV_UGBbw)
 - [XTM 201Di MMA Machine Welding Setup](https://www.youtube.com/watch?v=jucLqCA6c6g)
 - [XTM 201Di TIG Machine Welding Setup](https://www.youtube.com/watch?v=MqrYoK6m0WU)
 - [XTM 201Di MIG Machine Welding Setup](https://www.youtube.com/watch?v=e8vuY6fhEuE)

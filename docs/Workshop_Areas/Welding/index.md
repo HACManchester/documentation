@@ -84,4 +84,4 @@ When attending to induction or when working in the welding are you MUST bring yo
 
 ### Risk Assessment [TBC]
 
-Area [Risk Assessment](https://docs.google.com/document/d/1Nxx7gC6ZlFJ3FDdt4ViFRJvyCdW8pJC49f7d4CRjHVY/edit?usp=sharing)
+Area [Risk Assessment](https://docs.google.com/document/d/12_7Fmfi2G1PTsVlbY8PHQK0ZIrzQaFeqpwH_IYf3CFU/edit?usp=sharing)

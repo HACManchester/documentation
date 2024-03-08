@@ -21,7 +21,8 @@
 
 - [XTM 201Di MULTI PROCESS MIG INVERTER](https://www.youtube.com/watch?v=3G1hJrQry28)
 - [XTM 201Di MMA Machine Welding Setup](https://www.youtube.com/watch?v=jucLqCA6c6g)
-- [XTM 201Di TIG Machine Welding Setup](https://www.youtube.com/watch?v=MqrYoK6m0WU)
+
+[//]: # (- [XTM 201Di TIG Machine Welding Setup]&#40;https://www.youtube.com/watch?v=MqrYoK6m0WU&#41;)
 - [XTM 201Di MIG Machine Welding Setup](https://www.youtube.com/watch?v=e8vuY6fhEuE)
 
 ### Risk Assessments

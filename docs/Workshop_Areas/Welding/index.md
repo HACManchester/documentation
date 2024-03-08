@@ -39,7 +39,7 @@ This area is managed by the [welding team](https://list.hacman.org.uk/g/Team_Wel
 
 ## Inductions [TBC]
 
-...
+To use the welding machine or the grinder equipment we ask that you complete an induction first.
 
 ## Safety
 
@@ -63,15 +63,15 @@ As such we recommend that all members within woodwork wear the appropriate PPE w
 - Goggles
 - Ear Defenders
 - Leather Aprons
-- Welding/Grinding masks
-- Welding/Grinding gloves
-- Welding aprons
+- Welding/Grinding Masks
+- Welding/Grinding Gloves
 
 /// admonition | Note
     type: note
 
 You are free to bring your own PPE equipment, however it MUST be suitable for the task at hand.
 ///
+
 ### PPE you must have
 
 - P3 Respirator such as [option1](https://www.amazon.co.uk/dp/B01B6CT66E?psc=1&ref=ppx_yo2ov_dt_b_product_details), [option2](https://www.screwfix.com/p/jsp-force-8-medium-mask-respirator-with-press-to-check-filters-p3/1863f), [option3](https://www.screwfix.com/p/gvs-spr501-medium-large-half-mask-respirator-p3/6922g)

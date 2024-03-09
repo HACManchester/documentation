@@ -37,7 +37,7 @@ This area is managed by the [welding team](https://list.hacman.org.uk/g/Team_Wel
 - Managing stock of consumables and procuring more when necessary
 - Managing training resources & member inductions
 
-## Inductions [TBC]
+## Inductions
 
 To use the welding machine or the grinder equipment we ask that you complete an induction first.
 

@@ -22,7 +22,8 @@ Practical Test
 - [ ] Demonstrate how to check the power cord is safe to use
 - [ ] Demonstrate how to position and operate the extraction system
 - [ ] Demonstrate how to check the gas bottle is safe to use
-- [ ] Demonstrate how to operate the gas regulator
+- [ ] Demonstrate how to operate the gas regulators
+- [ ] Demonstrate how to turn the welding machine on and off
 
 ### Demonstrate whilst the machine is plugged in
 

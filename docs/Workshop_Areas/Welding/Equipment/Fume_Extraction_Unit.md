@@ -23,9 +23,5 @@
 - [User Manual](protectoVac/protectovacmax_manual.pdf)
 
 
-### Risk Assessments
-[Risk Assessment](https://docs.google.com/document/d/1Pf4_sP4e9LW16PtBELJbvsHrfuWLs_itcXTn2hc8TfE/edit?usp=sharing)
-
-
 [Category:Equipment](Category:Equipment "wikilink")
 [Category:Stubs](Category:Stubs "wikilink")

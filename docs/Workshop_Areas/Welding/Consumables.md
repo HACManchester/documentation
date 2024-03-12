@@ -23,10 +23,9 @@ If in doubt check with the welding area co-ordinator before buying.
 Hackspace Manchester doesn't provide grinding consumables, so you are free to bring your own discs, however they <strong>MUST BE 115MM discs</strong> and suitable for the task at hand.
 ///
 
+The following is a list of recommended discs for grinding and cutting:
 
- The following is a list of recommended discs for grinding and cutting:
-
-| Item                                                                                                           | Machine / Tool                                    | Notes |
-|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|
-| [Grinding Disk](https://www.zoro.co.uk/shop/abrasives/grinding/115mm-4-5inch-metal-grinding-disc/p/ZT1012573S) | [Lumberjack 820W](Equipment/Angle_Grinders.md) |       |
-| [Cutting Disk ](https://www.amazon.co.uk/SHDIATOOL-Diamond-Cut-Off-Cutting-Abrasive/dp/B0C6D5DS92/?th=1)       | [Lumberjack 820W](Equipment/Angle_Grinders.md) |       |
+| Item                                                                                                                        | Machine / Tool                                    | Notes |
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|
+| [115MM (4.5") Grinding Disk](https://www.zoro.co.uk/shop/abrasives/grinding/115mm-4-5inch-metal-grinding-disc/p/ZT1012573S) | [Lumberjack 820W](Equipment/Angle_Grinders.md) |       |
+| [115MM (4.5") Cutting Disk ](https://www.amazon.co.uk/SHDIATOOL-Diamond-Cut-Off-Cutting-Abrasive/dp/B0C6D5DS92/?th=1)       | [Lumberjack 820W](Equipment/Angle_Grinders.md) |       |

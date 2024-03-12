@@ -82,6 +82,6 @@ You are free to bring your own PPE equipment, however it MUST be suitable for th
 When attending to induction or when working in the welding are you MUST bring your own P3 respirator.
 ///
 
-### Risk Assessment [TBC]
+### Risk Assessment
 
 Area [Risk Assessment](https://docs.google.com/document/d/12_7Fmfi2G1PTsVlbY8PHQK0ZIrzQaFeqpwH_IYf3CFU/edit?usp=sharing)

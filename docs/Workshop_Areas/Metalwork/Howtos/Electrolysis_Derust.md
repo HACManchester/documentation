@@ -27,9 +27,9 @@ Note Baking Powder should be avoided since it has other things in which interfer
 
 ![bicarb1](images/electrolysis_derust/bicarb1.jpg)
 
-![bicarb2](images//electrolysis_derustbicarb2.jpg)
+![bicarb2](images/electrolysis_derust/bicarb2.jpg)
 
-TODO image of measuring jug
+![measure1](images/electrolysis_derust/measure1.jpg)
 
 ### Cleaning the black coating
 

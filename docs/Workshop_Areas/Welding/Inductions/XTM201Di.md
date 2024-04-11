@@ -32,9 +32,9 @@ Practical Test
 - [ ] Demonstrate how to check the power cord is safe to use
 - [ ] Demonstrate how to position and operate the extraction system
 - [ ] Demonstrate how to check the gas bottle is safe to use
-- [ ] Explain the risks around pressurised gas, including how to protect bottle from sparks/heat
+    - [ ] Explain the risks around pressurised gas, including how to protect bottle from sparks/heat
 - [ ] Demonstrate how to operate the gas regulators
-- [ ] Quarter turn only when opening gas
+    - [ ] Quarter turn only when opening gas
 - [ ] Demonstrate how to turn the welding machine on and off
 
 ### Demonstrate whilst the machine is plugged in

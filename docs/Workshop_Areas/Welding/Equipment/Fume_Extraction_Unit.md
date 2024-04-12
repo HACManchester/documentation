@@ -20,11 +20,7 @@
 ## Documentation
 
 - [Product Information](protectoVac/pvacmax_pi.pdf)
-- [MSDS Data Sheet](protectoVac/protectovacmax_manual.pdf)
-
-
-### Risk Assessments
-[Risk Assessment](https://docs.google.com/document/d/1Pf4_sP4e9LW16PtBELJbvsHrfuWLs_itcXTn2hc8TfE/edit?usp=sharing)
+- [User Manual](protectoVac/protectovacmax_manual.pdf)
 
 
 [Category:Equipment](Category:Equipment "wikilink")

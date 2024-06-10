@@ -3,8 +3,7 @@ XTM 201Di Inverter MIG
 
 Hazards and risks
 ----------------
-1. Trainer and trainee should go through [risk assessment](https://docs.google.com/document/d/1Nxx7gC6ZlFJ3FDdt4ViFRJvyCdW8pJC49f7d4CRjHVY/edit?usp=sharing){target="_blank"}, answering any trainee questions as they arise
-2. Trainee should be able to name three hazards found in the welding area and list the controls necessary to mitigate the risks
+1. Trainee should be able to name three hazards found in the welding area and list the controls necessary to mitigate the risks
 
 Theory Questions
 ----------------
@@ -52,5 +51,8 @@ Practical Test
 - [ ] Explain how members must take their scrap home after use
 - [ ] Demonstrate how to store the PPE after use
 
+Hazards and risks (recap)
+----------------
+- [ ] Trainer and trainee should go through [risk assessment](https://docs.google.com/document/d/1Nxx7gC6ZlFJ3FDdt4ViFRJvyCdW8pJC49f7d4CRjHVY/edit?usp=sharing){target="_blank"}, checking that all risks and controls have been covered during the induction.
 
 [Print the induction form](https://docs.google.com/document/d/12HfxJR5V7nj9INx9q0f5p3mcVxhDKN7duq39EFStH6g/edit?usp=sharing){target="_blank"}

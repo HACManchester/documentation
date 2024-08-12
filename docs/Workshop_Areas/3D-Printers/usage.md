@@ -1,8 +1,7 @@
- 
-
 ## Machine Safety Introduction:
 
 - Be cautious of hot surfaces, CNC motion, flying debris, sharp elements, electrocution, strong magnets, and damaged tools.
+- Do not leave the machine running with nobody in the space
 
 ## Pre-Print Checks:
 
@@ -17,8 +16,6 @@
 ##### Do not forcefully pull filament from the extruder
 
 - Navigate to "Filament" on the printer and follow all instructions
-  
-  
   
   ****
 

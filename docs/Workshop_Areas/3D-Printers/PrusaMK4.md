@@ -1,5 +1,6 @@
 ---
 ---
+
 title: Prusa Mk4 Printer setup and usage
 ---
 
@@ -82,47 +83,33 @@ To UNLOAD previous filament:
 1. Navigate to Filament → Unload filament, and confirm selection,
    Printer will preheat, and filament will be ejected once temperature
    reached.
-   
 
 2. Once ejection complete, remove the filament by hand and wrap the
    spool up properly for the next Maker.
 
-
-
 To LOAD filament:
 
 1. Place a filament spool on the spool holder,
-   
 
 2. Unhook the end, but keep light tension on it,
-   
 
 3. Trim the end into a sharp point with cutters,
-   
 
 4. Thread the end through the filament guide and into the top of the
    extruder.
-   
 
 5. Navigate to Filament → Load Filament and confirm selection.
-   
 
 6. Select the material you are trying to Load, and confirm.
-   
 
 7. Wait for pre-heat to complete.
-   
 
 8. Press rotary knob to start feeding filament, and lightly push the
-   
 
 9. filament into the extruder until it starts pulling the filament by itself.
-   
 
 10. Wait for printer to stop pulling filament and:
-    
 
 11. Confirm if you see your new filament being extruded,
-    
 
 12. Purge more if the colour hasn’t fully changed.

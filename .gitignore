@@ -1,4 +1,5 @@
 # Remove Apple OS Files
+venv/
 .DS_Store
 site/
 .tox/

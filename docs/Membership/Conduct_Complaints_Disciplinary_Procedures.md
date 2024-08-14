@@ -1,4 +1,4 @@
-# CONDUCT AND DISCIPLINARY PROCEDURE
+# CONDUCT, COMPLAINTS, AND DISCIPLINARY PROCEDURES
 
 ## CONDUCT POLICY
 Manchester Hackspace is proud of its diverse community from all walks of life and with all sorts of skills. Anyone who follows our [rules](https://www.hacman.org.uk/rules/) is welcome to use the space in harmony regardless of sex, gender, ethnicity, race, ability, sexuality, socio-economic background or belief. We will not tolerate harassment in any form. Harassment includes, but may not be limited to:

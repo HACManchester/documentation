@@ -49,7 +49,7 @@
     "description": []
   },
   {
-    "title": "PPE & FIRE SUPPLIES",
+    "title": "PPE & Fire Supplies",
     "file_name": "PPE_fire_supplies",
     "url": "https://docs.hacman.org.uk/Health%20%26%20Safety/PPE_fire_supplies/",
     "tags": [],
@@ -721,7 +721,7 @@
     "description": []
   },
   {
-    "title": "NGINX SETUP",
+    "title": "NGINX Setup",
     "file_name": "nginx",
     "url": "https://docs.hacman.org.uk/infrastructure/nginx/",
     "tags": [],

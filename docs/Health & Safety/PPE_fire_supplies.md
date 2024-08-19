@@ -1,4 +1,4 @@
-# PPE & FIRE SUPPLIES
+# PPE & Fire Supplies
 
 The current list of PPE and Fire Supplies that the Space provides is below. 
 

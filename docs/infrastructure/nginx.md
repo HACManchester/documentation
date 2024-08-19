@@ -1,4 +1,4 @@
-# NGINX SETUP 
+# NGINX Setup
 
 ## Hosting multiple websites on a single Virtual Private Server is simple and efficient. Nowadays, HTTPS is a required feature for any website.
 

@@ -6,18 +6,19 @@ Download a PDF copy at
 
 ## Hackspace Membership System
 The Member system streamlines most of the membership functions of the Hackspace Exisiting members can easily edit their profile,
-update their RFID tag, amend their direct debit details including Bank Account Details, Payment
-amount etc, Pay for snackspace, laser costs, 3D print filament costs and any other required charges,
+update their RFID tag, amend their direct debit details including Bank Account Details, subscription amount,
 sort inductions for most equipment (this is a 2 step process), Manage Members Storage and more!
 The getting started guide below gives you some more in-depth details on the sysytem and how to use
 it.
 
 ## Signing up
-If you'd like to join Hackspace Manchester, you can sign up at https://members.hacman.org.uk/register
+If you'd like to join Hackspace Manchester, you can sign up at https://www.hacman.org.uk/become-a-member/
 
-When you've signed up, you'll be asked to set up a Direct Debit with our payment provider, GoCardless. We will not see any of your bank or card details, this is all done securely by GoCardless. 
+We always recommend coming down to an [open evening](https://www.hacman.org.uk/visit-us/) to check we’re the right fit for you before registering. All members must attend a tour before being given independent access to the space, but you’re welcome to sign up and set up your subscription before then, so you’re ready to collect your keyfob straight afterwards.
 
-When you have set up a payment, you will be posted a fob to the address you entered when you signed up. Instructions are enclosed onto how to get going, but can be found at hacman.org.uk/welcome
+When you've signed up, you'll be asked to set up a Direct Debit with our payment provider, GoCardless. We will not see any of your bank or card details, this is all done securely by GoCardless.
+
+You can register and collect your key fob at any open evening, or by arranging with a member to meet you at the space to provide entry.
 
 ## Access and logging in
 To access the members system visit https://members.hacman.org.uk and click the login button. If
@@ -60,40 +61,20 @@ add whatever information you want including adding a picture and then click save
 NOTE: Currently Photos require an admin to approve (awaiting a code change) Your photo
 won't display automatically until one of the administrators click a button
 
-## Managing your Balance
-This is where you can manage your balance to pay for snackspace, laser time etc.
-
-Click Manage my Balance on the left hand menu and the balance screen will load.
-
-To top up using direct debit enter the amount you wish to top up by and click Top up under the Add
-Credit Box. ( Note for this to work you will need to be on a variable direct debit see above)
-
-For Cash top ups its a similar process but make sure you use the Box that says Cash topup and click
-the Add Credit button
-
-To take money off your balance for Snackspace enter the amount in the Snackspace expenditure box and click Pay Now. this will take the amount off your current balance.
-
-Negative Balances are supported up to a maximum of -£25 however use of this is
-not encouraged
-
-You will also be able to see your balance and payment history from this page alongside your current
-balance.
-
 ## Members Storage
 To help improve members storage the system supports the ability to claim your box (shelf/cube in
 our case) each cube/shelf of members storage in the space now has a laser cut number on it. This
 number refers to the ID number in the members storage system
 
-To Claim your space. Click on Members Storage on the left hand menu and simply find the
+To claim a space. Click on Members Storage on the left hand menu and simply find the
 corresponding number and click claim.
 
-If you no longer need your members storage space or you are leaving the hackspace please ensure
-you return the space by clicking the button
+If you no longer need a members storage space or you are leaving the hackspace please ensure
+you return the space by clicking the button, as well as cleaning out the physical shelf itself.
 
-If you are currently
-violating member storage rules by having more than one cube or 1/2 a shelf please ensure
+If you are currently violating member storage rules by having more than one cube or 1/2 a shelf please ensure
 you rectify this as you might otherwise find your stuff is moved so members without spaces
-can claim a space
+can claim a space.
 
 ## Tools & Equipment
 The Tools & Equipment page lists (most) of the tools around the Hackspace and those are require an

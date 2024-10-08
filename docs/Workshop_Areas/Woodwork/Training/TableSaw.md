@@ -31,7 +31,7 @@ When you've got the blade at the height you want it, ensure that the wood can sl
 
 A table saw can be used to make angled cuts. To adjust the angle of the blade, you use this dial:
 
-PICTURE
+![img](angleadjust.png)
 
 Loosen the screw on the dial, and you will be able to move the dial to the required angle. Ensure that the crown guard is removed when you do this.
 
@@ -39,21 +39,21 @@ Loosen the screw on the dial, and you will be able to move the dial to the requi
 
 This is a rip fence:
 
-PICTURE
+![img](ripguide_overview.png)
 
 This is a crosscut fence:
 
-PICTURE
+![img](crosscut_overview.png) 
 
 The fence you use for your cut depends on the direction of your cut in relation to the longest side of your wood. The fence should always be supporting the longest side of the wood. 
 
 For this cut, you would use the rip fence:
 
-DIAGRAM
+![img](ripguide_w_wood.png ) 
 
 For this cut, you would use the crosscut fence:
 
-DIAGRAM
+<!-- TODO: Add image -->
 
 The rip fence is the standard fence. It should be on the table saw when you come to use it and, if you remove it, you should put it back when you're tidying up after use. To position it, you simply slide it closer and further away from the blade. 
 
@@ -61,15 +61,21 @@ The rip fence is the standard fence. It should be on the table saw when you come
 
 To secure it, first push down this lever:
 
-PICTURE
+![img](ripguide_scale_hand_coarse.png) 
 
 You can then make small adjustments using this dial:
 
-PICTURE
+<!-- TODO: Add image -->
 
 Finally, secure it in its final position, using this lever:
 
-PICTURE
+![img](ripguide_scale_hand_fine.png) 
+
+You can then make small adjustments using this dial:
+
+<!-- TODO: Add image -->
+
+Finally, secure it in its final position, using this lever:
 
 To take it off to use the crosscut fence, simply slide it off the bench.
 

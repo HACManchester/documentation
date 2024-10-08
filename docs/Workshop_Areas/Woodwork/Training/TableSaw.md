@@ -9,23 +9,23 @@ Cutting accurately and precisely on planed wood with a flat edge
 ### Crown Guard
 This is a crown guard:
 
-![img](crownguard.jpg)
+![img](crownguard.png)
 
 The crown guard is there to protect fingers and to protect the user against kickback. While some cuts may need the crown guard to be removed, you should keep it on whenever possible as this is the safest way to use the saw.
 
 If you need to remove the crown guard, you can do so by unscrewing the wingnut and lifting it up and off the blade:
 
-![img](rivingknife.jpg)
+![img](rivingknife.png)
 
 ### Blade height
 
 The blade should be high enough to go through the wood but not excessively high. You adjust the blade height using this dial. :
 
-![img](heightadjust.jpg)
+![img](heightadjust.png)
 
 When you've got the blade at the height you want it, ensure that the wood can slide under the crown guard comfortably.
 
-![img](crownguard_w_wood.jpg)
+![img](crownguard_w_wood.png)
 
 ### Blade Angle
 
@@ -57,7 +57,7 @@ DIAGRAM
 
 The rip fence is the standard fence. It should be on the table saw when you come to use it and, if you remove it, you should put it back when you're tidying up after use. To position it, you simply slide it closer and further away from the blade. 
 
-![type:video](ripguide_scale.webm)
+![type:video](ripguide.mp4)
 
 To secure it, first push down this lever:
 
@@ -78,7 +78,7 @@ To put the crosscut fence onto the bench, you need to align the rail with the wh
 PICTURES
 
 This is how the fence slides:
-![type:video](crosscut_sled_roll.webm)
+![type:video](crosscut_sled_roll.mp4)
 
 ### Starting/stopping the saw
 

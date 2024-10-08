@@ -9,29 +9,29 @@ Cutting accurately and precisely on planed wood with a flat edge
 ### Crown Guard
 This is a crown guard:
 
-![img](crownguard.jpg)
+![img](crownguard.png)
 
 The crown guard is there to protect fingers and to protect the user against kickback. While some cuts may need the crown guard to be removed, you should keep it on whenever possible as this is the safest way to use the saw.
 
 If you need to remove the crown guard, you can do so by unscrewing the wingnut and lifting it up and off the blade:
 
-![img](rivingknife.jpg)
+![img](rivingknife.png)
 
 ### Blade height
 
 The blade should be high enough to go through the wood but not excessively high. You adjust the blade height using this dial. :
 
-![img](heightadjust.jpg)
+![img](heightadjust.png)
 
 When you've got the blade at the height you want it, ensure that the wood can slide under the crown guard comfortably.
 
-![img](crownguard_w_wood.jpg)
+![img](crownguard_w_wood.png)
 
 ### Blade Angle
 
 A table saw can be used to make angled cuts. To adjust the angle of the blade, you use this dial:
 
-PICTURE
+![img](angleadjust.png)
 
 Loosen the screw on the dial, and you will be able to move the dial to the required angle. Ensure that the crown guard is removed when you do this.
 
@@ -39,37 +39,43 @@ Loosen the screw on the dial, and you will be able to move the dial to the requi
 
 This is a rip fence:
 
-PICTURE
+![img](ripguide_overview.png)
 
 This is a crosscut fence:
 
-PICTURE
+![img](crosscut_overview.png) 
 
 The fence you use for your cut depends on the direction of your cut in relation to the longest side of your wood. The fence should always be supporting the longest side of the wood. 
 
 For this cut, you would use the rip fence:
 
-DIAGRAM
+![img](ripguide_w_wood.png ) 
 
 For this cut, you would use the crosscut fence:
 
-DIAGRAM
+<!-- TODO: Add image -->
 
 The rip fence is the standard fence. It should be on the table saw when you come to use it and, if you remove it, you should put it back when you're tidying up after use. To position it, you simply slide it closer and further away from the blade. 
 
-![type:video](ripguide_scale.webm)
+![type:video](ripguide_scale.mp4)
 
 To secure it, first push down this lever:
 
-PICTURE
+![img](ripguide_scale_hand_coarse.png) 
 
 You can then make small adjustments using this dial:
 
-PICTURE
+<!-- TODO: Add image -->
 
 Finally, secure it in its final position, using this lever:
 
-PICTURE
+![img](ripguide_scale_hand_fine.png) 
+
+You can then make small adjustments using this dial:
+
+<!-- TODO: Add image -->
+
+Finally, secure it in its final position, using this lever:
 
 To take it off to use the crosscut fence, simply slide it off the bench.
 
@@ -78,7 +84,7 @@ To put the crosscut fence onto the bench, you need to align the rail with the wh
 PICTURES
 
 This is how the fence slides:
-![type:video](crosscut_sled_roll.webm)
+![type:video](crosscut_sled_roll.mp4)
 
 ### Starting/stopping the saw
 

@@ -1,10 +1,10 @@
-# 3D Printers
+# Overview
 
 [3D Printer induction checklist](https://drive.google.com/file/d/1-YUpSXcf9aK-DJKqVsGbCb0hIGlQevt3/view?usp=sharing)
 
 ### List of Printers
 
-- [Prusa MK4's](../3D-Printers/PrusaMK4/)
+- [Prusa MK4's](../PrusaMK4/)
 - Sunlu printer (Courtney), larger than the enders
 - Resin Printer (Bob Jr.) Elegoo Mars Pro
 

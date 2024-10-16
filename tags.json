@@ -378,9 +378,30 @@
     "description": []
   },
   {
-    "title": "Xl",
-    "file_name": "xl",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/3D-Printers/xl/",
+    "title": "Inductions",
+    "file_name": "Induction",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/3D-Printers/Induction/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Overview",
+    "file_name": "Overview",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/3D-Printers/Overview/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Prusa Mk4",
+    "file_name": "PrusaMK4",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/3D-Printers/PrusaMK4/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Prusa XL",
+    "file_name": "PrusaXL4",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/3D-Printers/PrusaXL4/",
     "tags": [],
     "description": []
   },
@@ -497,13 +518,6 @@
     "description": []
   },
   {
-    "title": "3D Printers",
-    "file_name": "3D Printers",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Visual_Arts/Equipment/3D%20Printers/",
-    "tags": [],
-    "description": []
-  },
-  {
     "title": "Heat Press & Dye Sublimation Printing",
     "file_name": "Heat_Press",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Visual_Arts/Equipment/Heat_Press/",
@@ -542,20 +556,6 @@
     "title": "Vinyl Cutter",
     "file_name": "Vinyl_Cutter",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Visual_Arts/Equipment/Vinyl_Cutter/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Prusa Mk4 Printer setup and usage",
-    "file_name": "PrusaMK4",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Visual_Arts/Equipment/3D-Printers/PrusaMK4/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Induction",
-    "file_name": "induction",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Visual_Arts/Equipment/3D-Printers/induction/",
     "tags": [],
     "description": []
   },

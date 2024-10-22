@@ -65,62 +65,56 @@ To secure it, first push down this lever:
 
 You can then make small adjustments using this dial:
 
-<!-- TODO: Add image -->
+![img](ripguide_scale_hand_dial.png) 
 
 Finally, secure it in its final position, using this lever:
 
 ![img](ripguide_scale_hand_fine.png) 
 
-You can then make small adjustments using this dial:
+To take it off to use the crosscut fence, simply release both levers and lift it off the table.
 
-<!-- TODO: Add image -->
+To put the crosscut fence onto the table, you need to align the rail with the wheels on the bottom of the fence. You also need to pull and twist out this stopper to ensure the fence can slide on properly. Once you have slid the crosscut fence onto the table, pull and twist the stopper so it slides back in. This will ensure that the fence doesn't roll back and off of the bench.
 
-Finally, secure it in its final position, using this lever:
-
-To take it off to use the crosscut fence, simply slide it off the bench.
-
-To put the crosscut fence onto the bench, you need to align the rail with the wheels on the bottom of the fence. You also need to pull and twist out this stopper to ensure the fence can slide on properly. Once you have slid the crosscut fence onto the table, pull and twist the stopper so it slides back in. This will ensure that the fence doesn't roll back and off of the bench.
-
-PICTURES
+![img](crosscut_rollers.png) 
 
 This is how the fence slides:
+
 ![type:video](crosscut_sled_roll.mp4)
 
 ### Starting/stopping the saw
 
 To switch the table saw on, first you must turn this dial to the on position (after putting in the code you received after your induction).
 
-PICTURE
+![img](isolation_switch.png) 
 
 The saw plugs in like this:
 
-PICTURE
+![img](powerlead.png) 
 
 Then you can use the start and stop buttons to switch it on:
 
-PICTURE
+![img](nvr_switch.png) 
 
 ### Preparation for cutting
 
-#### Check material is correctly located and secured
-
 Before cutting a piece of wood on the table saw, ensure it is planed and has a straight edge you can place against the fence.
 
-PICTURE
+![img](ripguide_w_wood)
 
 Ensure it can easily slide under the crown guard (otherwise it will cut stuck halfway through your cut).
 
-PICTURE
+![img](crownguard_w_wood.png)
 
 Ensure you are holding it securely, with your body to the side (so that, if kickback does occur, the wood will not hit you). 
 
 Use a push stick to push the wood through at the final part of the cut (you should always keep your hands more than 15cm away from the blade).
 
 #### Blade teeth in good condition
+
 Before use, check the blade is in good condition. To do this, make sure the machine is switched off and unplugged. Then, spin the blade around to ensure there are no notches or pieces missing from the blade.
 
 #### Blade straight
 
-Finally, ensure that the blade and the CAN'T REMEMBER TERM are aligned and straight. This ensures there the wood doesn't get caught on the blade and cause kickback.
+Finally, ensure that the blade and the ripguide are aligned and straight. This ensures there the wood doesn't get caught on the blade and cause kickback.
 
 PICTURE

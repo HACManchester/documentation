@@ -1,4 +1,4 @@
-# 20171-12 Decisions
+# 2017-12 Decisions
 
 ## Decisions taken 2017-12 not during a formal board meeting
 

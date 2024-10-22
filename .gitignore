@@ -2,6 +2,7 @@
 .DS_Store
 site/
 .tox/
+virtenv/
 old_wiki_files/Teams/Team_Woodwork.md
 old_wiki_files/Teams/Team_Template.md
 old_wiki_files/Teams/Team_Social.md

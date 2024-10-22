@@ -26,8 +26,8 @@ Bandsaws
 
 Please review the bandsaw training before your induction session. For your induction you will be asked the theory questions and required to demonstrate the procedures in the practical session.
 
--	[Bandsaw Training](../Training/BandSaw.md)
--	[Bandsaw Induction](../Induction/BandSaw.md)
+-	[Bandsaw Training](../Training/Bandsaw.md)
+-	[Bandsaw Induction](../Inductions/Bandsaw.md)
 
 ### **Risk Assessment**
 

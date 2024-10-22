@@ -4,6 +4,15 @@
 
 Cutting accurately and precisely on planed wood with a flat edge
 
+## Kickback
+
+Kickback is a particularly important mechanism to understand when using the table saw. In normal operation, the teeth of
+the saw will push the workpiece downwards into the table; however if the workpiece grips the saw at the back, it will be
+launched forwards.
+
+Even the best woodworkers make mistakes, but with some preparation and understanding you can reduce the risk of kickback
+and the severity of its consequences.
+
 ## Controls
 
 ### Crown Guard
@@ -11,7 +20,8 @@ This is a crown guard:
 
 ![img](crownguard.png)
 
-The crown guard is there to protect fingers and to protect the user against kickback. While some cuts may need the crown guard to be removed, you should keep it on whenever possible as this is the safest way to use the saw.
+The crown guard is there to protect fingers and to protect the user against kickback. While some cuts may need the crown
+guard to be removed, you should keep it on whenever possible as this is the safest way to use the saw. 
 
 If you need to remove the crown guard, you can do so by unscrewing the wingnut and lifting it up and off the blade:
 
@@ -36,7 +46,6 @@ A table saw can be used to make angled cuts. To adjust the angle of the blade, y
 Loosen the screw on the dial, and you will be able to move the dial to the required angle. Ensure that the crown guard is removed when you do this.
 
 ### Rip Fence and Crosscut Fence
-
 This is a rip fence:
 
 ![img](ripguide_overview.png)
@@ -45,17 +54,18 @@ This is a crosscut fence:
 
 ![img](crosscut_overview.png) 
 
-The fence you use for your cut depends on the direction of your cut in relation to the longest side of your wood. The fence should always be supporting the longest side of the wood. 
+The cross and rip guides are so named because with natural boards, the grain runs along the length of the board. When
+you crosscut, you cut across the grain; and when you rip cut, you cut along the grain, ripping the grain apart.
 
-For this cut, you would use the rip fence:
+![img][crosscutripcut.jpeg]
 
-![img](ripguide_w_wood.png ) 
+With manufactured boards, the grain may be in both directions (as with plywood), or there will be no direction to the grain at all (as
+with MDF or chipboard). When choosing which fence to use, you must choose the one that supports the longest edge of your
+workpiece. Do not use the machine while both guides are attached, as this is a common cause of kickback.
 
-For this cut, you would use the crosscut fence:
-
-<!-- TODO: Add image -->
-
-The rip fence is the standard fence. It should be on the table saw when you come to use it and, if you remove it, you should put it back when you're tidying up after use. To position it, you simply slide it closer and further away from the blade. 
+The rip fence should be on the table saw when you come to use it and, if you remove it, you should put it back when
+you're tidying up after use. To position it, you simply pull the levers upwards and slide it closer or further away
+from the blade.
 
 ![type:video](ripguide.mp4)
 
@@ -73,7 +83,10 @@ Finally, secure it in its final position, using this lever:
 
 To take it off to use the crosscut fence, simply release both levers and lift it off the table.
 
-To put the crosscut fence onto the table, you need to align the rail with the wheels on the bottom of the fence. You also need to pull and twist out this stopper to ensure the fence can slide on properly. Once you have slid the crosscut fence onto the table, pull and twist the stopper so it slides back in. This will ensure that the fence doesn't roll back and off of the bench.
+To put the crosscut fence onto the table, you need to align the rail with the wheels on the bottom of the fence. You
+also need to pull and twist out this stopper to ensure the fence can slide on properly. Once you have slid the crosscut
+fence onto the table, pull and twist the stopper so it slides back in. This will ensure that the fence doesn't roll back
+and off of the bench. 
 
 ![img](crosscut_rollers.png) 
 
@@ -99,22 +112,24 @@ Then you can use the start and stop buttons to switch it on:
 
 Before cutting a piece of wood on the table saw, ensure it is planed and has a straight edge you can place against the fence.
 
-![img](ripguide_w_wood)
+![img](ripguide_w_wood.png)
 
-Ensure it can easily slide under the crown guard (otherwise it will cut stuck halfway through your cut).
+Ensure it can easily slide under the crown guard (otherwise it will cut stuck halfway through your cut). 
 
 ![img](crownguard_w_wood.png)
 
-Ensure you are holding it securely, with your body to the side (so that, if kickback does occur, the wood will not hit you). 
-
-Use a push stick to push the wood through at the final part of the cut (you should always keep your hands more than 15cm away from the blade).
+Ensure you are holding it securely, with your body to the side (so that, if kickback does occur, the wood will not hit
+you). Use a push stick to push the wood through at the final part of the cut (you should always keep your hands more
+than 15cm away from the blade). 
 
 #### Blade teeth in good condition
 
-Before use, check the blade is in good condition. To do this, make sure the machine is switched off and unplugged. Then, spin the blade around to ensure there are no notches or pieces missing from the blade.
+Before use, check the blade is in good condition. To do this, make sure the machine is switched off and unplugged. Then,
+spin the blade around to ensure there are no notches or pieces missing from the blade.
 
 #### Blade straight
 
-Finally, ensure that the blade and the ripguide are aligned and straight. This ensures there the wood doesn't get caught on the blade and cause kickback.
+Ensure that the blade and the ripguide are aligned. To do this, raise the blade to its maximum extent and measure the distance between the
+ripguide and the blade at the front and the back of the blade.
 
-PICTURE
+![img][ripguide_parallel.png]

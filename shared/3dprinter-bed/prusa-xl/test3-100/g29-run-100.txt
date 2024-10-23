@@ -1,0 +1,544 @@
+Connecting...
+Printer is now online.
+>>> G29
+SENDING:G29
+echo:endstops hit:  X:-3.00
+echo:Backoff ipos:1120
+echo:endstops hit:  X:-17.60 Y:-7.00
+echo:endstops hit:  X:-20.00 Y:-7.00
+echo:Backoff ipos:-2608
+echo:endstops hit:  Y:-9.70
+echo:endstops hit:  Y:1.70
+echo:endstops hit:  Y:-9.70
+echo:endstops hit:  Y:1.80
+echo:endstops hit:  Z:2.98
+echo:endstops hit:  Z:2.98
+Default storage slot 0 selected.
+Mesh invalidated. Probing mesh.
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.52
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 317.76
+echo:Lifted and took new reference tare 1816.15
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.98
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.52
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 272.06
+echo:Lifted and took new reference tare 1949.53
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.30
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.52
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 370.20
+echo:Lifted and took new reference tare 1961.28
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.98
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 198.60
+echo:Lifted and took new reference tare 1952.41
+echo:Starting probe at 1
+echo:endstops hit:  Z:32.07
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as NOK (low-precision)
+echo:Re-tared with offset 23.62
+echo:Starting probe at 1
+echo:endstops hit:  Z:35.15
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.52
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 324.52
+echo:Lifted and took new reference tare 2073.00
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.38
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.52
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 272.93
+echo:Lifted and took new reference tare 2021.15
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.98
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 674.82
+echo:Lifted and took new reference tare 2016.86
+echo:Starting probe at 1
+echo:endstops hit:  Z:32.07
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 229.71
+echo:Lifted and took new reference tare 2023.85
+echo:Starting probe at 1
+echo:endstops hit:  Z:35.15
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as NOK (low-precision)
+echo:Re-tared with offset -13.59
+echo:Starting probe at 1
+echo:endstops hit:  Z:35.15
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.52
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.52
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 1151.08
+echo:Lifted and took new reference tare 2102.46
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.98
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 556.76
+echo:Lifted and took new reference tare 2080.84
+echo:Starting probe at 1
+echo:endstops hit:  Z:32.07
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 338.00
+echo:Lifted and took new reference tare 2095.70
+echo:Starting probe at 1
+echo:endstops hit:  Z:35.15
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.53
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 369.52
+echo:Lifted and took new reference tare 2163.97
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.30
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.52
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 569.47
+echo:Lifted and took new reference tare 2159.89
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.98
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 742.25
+echo:Lifted and took new reference tare 2156.64
+echo:Starting probe at 1
+echo:endstops hit:  Z:32.07
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 667.05
+echo:Lifted and took new reference tare 2150.15
+echo:Starting probe at 1
+echo:endstops hit:  Z:35.15
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.53
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.52
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 559.99
+echo:Lifted and took new reference tare 2236.34
+echo:Starting probe at 1
+echo:endstops hit:  Z:32.07
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as NOK (feature-out-of-range)
+echo:Re-tared with offset 307.03
+echo:Lifted and took new reference tare 2220.46
+echo:Starting probe at 1
+echo:endstops hit:  Z:35.15
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:34.95
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:31.87
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:28.78
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:25.70
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:22.61
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:19.52
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:16.44
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:13.35
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:10.27
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:7.18
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:4.10
+echo:Probe classified as clean and OK
+echo:Starting probe at 1
+echo:endstops hit:  Z:1.01
+echo:Probe classified as clean and OK
+Extrapolating mesh...done
+Unified Bed Leveling System v1.01 active

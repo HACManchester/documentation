@@ -1,15 +1,19 @@
-Hackspace Manchester is something we do together. It is a community. The infrastructure (building, equipment, internet etc) provides the foundations, and people working together with shared understandings and expectations are what provide a place of strong community.
+Hackspace Manchester is something we do together. It is a community. 
+
+The infrastructure (building, equipment, internet etc) provides the foundations, and people working together with shared understandings and expectations are what provide a place of strong community.
+
 Every member is a part of the Hackspace Community and as such must follow the rules and guidelines in place to ensure that the community can exist safely and cohesively.
+
 The following rules lay out the minimum expectations from all Hackspace Members. Examples included in the rules are just that, this is not an exhaustive list of behaviours that may be considered in breach of the rules.
 ## Rule 1 - Be Excellent to Each Other
-Members should treat one another with the respect we feel we deserve ourselves. This is an inclusive environment, and we will not tolerate any behaviour that we deem to be harassment, bullying, or discrimination. See our Conduct Policy.
+Members should treat one another with the respect we feel we deserve ourselves. This is an inclusive environment, and we will not tolerate any behaviour that we deem to be harassment, bullying, or discrimination. See our Conduct Policy below.
 ## Rule 2 - Keep Hackspace Tidy
 Put tools away, dispose of items appropriately and leave tables tidy. Give the floor a sweep from time to time and take out the bins.
 
 ## Rule 3 - Respect the Space
 Hackspace is a community that provides the facilities, tools and consumables for members to get making. We are not a commodity or service provider.
 
-Please share the space and tools with others, your needs do not take priority over anyone else's. Use consumables sparingly, providing your own or replenishing the space’s stock where you are likely to use a lot. Where tools get broken, report them via the report form so they can be fixed https://forms.gle/2cp73P1SHGaGuRvaA
+Please share the space and tools with others, your needs do not take priority over anyone else's. Use consumables sparingly, providing your own or replenishing the space’s stock where you are likely to use a lot. Where tools get broken, report them via the [report form](https://forms.gle/2cp73P1SHGaGuRvaA) so they can be fixed 
 
 Our space operates an honesty system for the tuck shop and some material provision.
 ## Rule 4 - Give Back to the Space
@@ -80,7 +84,7 @@ When you visit, try to set aside 10-15 minutes before you leave to do some of th
 * Restocking the tuckshop fridge & consumables
 * Giving tours at our open evenings
 * Taking on a task from the to-do list
-* Maintaining tools, and reporting faulty ones via the report form https://forms.gle/2cp73P1SHGaGuRvaA
+* Maintaining tools, and reporting faulty ones via the [report form](https://forms.gle/2cp73P1SHGaGuRvaA) 
 * Taking things to the tip.
 
 If you’re a more frequent user, please also consider offering to help with bigger or more regular jobs. These include:
@@ -100,7 +104,7 @@ Do not use Hackspace as your business’ registered address.
 
 
 # Complaints Policy
-If the behaviour continues or the member does not feel comfortable this should be reported via the Complaints Form as soon as practical. This can only be seen by the board of directors. If your complaint is about a board member, please speak to another board member directly.
+If the behaviour continues or the member does not feel comfortable this should be reported via the [Complaints Form](https://forms.gle/HC2xJrz1XcXx4W1w7) as soon as practical. This can only be seen by the board of directors. If your complaint is about a board member, please speak to another board member directly.
 
 The form asks for the following compulsory information:
 * Reporter Name
@@ -141,6 +145,23 @@ Illegal items
 Radioactive Materials
 No live animals or perishable articles including food
 No genetically modified organisms
+
+# Critical Infrastructure
+We have numerous assets that we consider critical infrastructure, and that members must not work on or make changes to themselves.
+
+These include:
+
+* Our physical building, external walls, and internal walls
+* Doors, locks, and access control systems
+* Electrical infrastructure, wiring, and sockets
+* Plumbing infastructure
+* Safety infrastructure (first aid kits, fire extinguishers, fire alarms)
+* On-site digital infrastructure, networking equipment, and network wiring
+* Online digital infrastructure, websites, and services
+
+The board of directors will coordinate any work needed on items of critical infrastructure to ensure the board maintain oversight and awareness of changes to our critical infrastructure, and make sure we are operating in compliance with legal, health & safety, landlord, and insurance obligations.
+
+If you become aware of any issues affecting critical infrastructure, please report it via our [Member Incident Report](https://forms.gle/PgARKofR3oV7wqyNA) form as either “Broken tool/Malfunctioning Equipment” or “Something else”.
 
 # Definitions
 The Board of Directors a.k.a The Board, The Directors, The Governance

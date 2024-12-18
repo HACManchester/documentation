@@ -8,9 +8,7 @@ The polisher is a 1/2HP Naerock benchgrinder with two wheels attached.
 
 ![Polisher1](images/polisher1.jpg)
 
-  * TODO Add new wheels to machine
-  * TODO Screw machine to bench
-  * TODO insert wider image of machine
+![Polisher2](images/polisher2.jpg)
 
 ## Wheels
 
@@ -28,10 +26,20 @@ There are several polish types based on they're color.
 
 ![Polish](images/polish-compounds.png)
 
+Currently they're being stored in this draw along with the spare wheel
+
+![Polisher3](images/polisher3.jpg)
+
+## PPE
+
+Make sure to wear a faceguard when using the machine
+
+![Polisher3](images/faceguard1.jpg)
+
 ## Risk Assesment / Training
 
 The training for the bench grinder will cover the training for the polisher.  
 Full PPE should be worn which includes a face mask and avoiding wearing loose clothing.  
 this is due to the potential risk of something catching and being flown across into someone's face if let go.
 
-TODO Risk assesment form.
+TODO Waiting on Risk assesment form of the bench grinder from Mike.

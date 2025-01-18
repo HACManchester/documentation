@@ -43,7 +43,7 @@ Then add in the following details
 | Name    | IP-Address   | Prusa-Link Key  |
 | ------- | ------------ | --------------- |
 | Kim     | 172.16.0.123 | dmAPJnhhJ37VXBV |
-| Romanov | 172.16.0.124 | K2j5K9jNUwi4Aud |
+| Romanov | 172.16.0.124 JZXE4a9SUKAKWEW |
 
 ![dd](/images/3D-Printers/P4_3.png)
 

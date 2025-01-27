@@ -1,4 +1,4 @@
-Feeds and Speeds## **Detailed Feeds & Speeds information for new users**
+Feeds and Speeds **Detailed Feeds & Speeds information for new users**
 
 
 These feeds and speeds are primarily for inductions and have been tested on the machine.
@@ -13,8 +13,6 @@ Compression Bit Or 1F
 Use vacuum
 
 The basic wood strategy is high speed and feed with an approximate 5mm stepdown. If using a 1f 4mm you may want to limit your stepdown to 2mm or so. Always use the vacuum with wood. Our biggest issue is burning and scorching, so our aim is to feed fast enough to avoid this. Reducing speed can help reduce burn with larger endmills. Compression endmills are stronger [less likely to snap]
-
-
 
 Always run at 24,000 rpm. You will run around 3000-5000mm/min on most woods with these endmills.  We suggest 4500mm/min to start. Pockets with a 4mm can be slower, all the way down to 1300mm/min. Start around 2000mm/min. Make sure your endmill is up to speed before entering the stock.
 

@@ -15,6 +15,6 @@ Ensure no one is near moving parts before starting a print.
 
 Get familiar with the [mk4](PrusaMK4.md)'s before using this printer
 
-| Username | API_Key         | Ip_address   |
+| Username | Ip_address      | API_Key    
 | -------- | --------------- | ------------ |
-| maker    | Mt764hiyxNvJKvP | 172.16.0.125 |
+| maker    | 172.16.0.125    | Mt764hiyxNvJKvP

@@ -5,6 +5,7 @@
 ### List of Printers
 
 - [Prusa MK4's](../PrusaMK4/)
+- [Prusa XL](../PrusaXL/)
 - Sunlu printer (Courtney), larger than the enders
 - Resin Printer (Bob Jr.) Elegoo Mars Pro
 

@@ -763,9 +763,9 @@
     "description": []
   },
   {
-    "title": "BandSaw",
-    "file_name": "BandSaw",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/BandSaw/",
+    "title": "Bandsaw",
+    "file_name": "Bandsaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/Bandsaw/",
     "tags": [],
     "description": []
   },
@@ -780,6 +780,13 @@
     "title": "MitreSaw",
     "file_name": "MitreSaw",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/MitreSaw/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Table Saws",
+    "file_name": "TableSaw",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/TableSaw/",
     "tags": [],
     "description": []
   },

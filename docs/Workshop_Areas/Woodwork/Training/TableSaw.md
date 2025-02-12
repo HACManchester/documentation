@@ -132,4 +132,4 @@ spin the blade around to ensure there are no notches or pieces missing from the 
 Ensure that the blade and the ripguide are aligned. To do this, raise the blade to its maximum extent and measure the distance between the
 ripguide and the blade at the front and the back of the blade.
 
-![img][ripguide_parallel.png]
+![img](ripguide_parallel.png)

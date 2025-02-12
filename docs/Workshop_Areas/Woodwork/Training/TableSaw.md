@@ -57,7 +57,7 @@ This is a crosscut fence:
 The cross and rip guides are so named because with natural boards, the grain runs along the length of the board. When
 you crosscut, you cut across the grain; and when you rip cut, you cut along the grain, ripping the grain apart.
 
-![img][crosscutripcut.jpeg]
+![img](crosscutripcut.jpeg)
 
 With manufactured boards, the grain may be in both directions (as with plywood), or there will be no direction to the grain at all (as
 with MDF or chipboard). When choosing which fence to use, you must choose the one that supports the longest edge of your

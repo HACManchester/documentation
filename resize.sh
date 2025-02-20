@@ -12,16 +12,16 @@ shopt -s nullglob
 # Make folder called 'resized' if it doesn't already exist
 mkdir -p "$PWD/resized"
 
-# resize every mp4, mov, ogg or mkv file to an mp4 file that fits in an 800px x 800px box.
-# Replace 800:800 if you want some other size
+# resize every mp4, mov, ogg or mkv file to an mp4 file that fits in an 1920px x 1080px box.
+# Replace 1920:1080 if you want some other size
 for i in *.mp4 *.mov *.ogg *.mkv; do
     new="$PWD/resized/${i%.*}.mp4"
-    ffmpeg -i "$i" -vf scale="800:800:force_original_aspect_ratio=decrease" "$new"
+    ffmpeg -i "$i" -vf scale="1920:1080:force_original_aspect_ratio=decrease" "$new"
 done
 
-# resize every jpg, jpeg, bmp or png file to a png file that fits in an 800px x 800px box
-# Replace 800:800 if you want some other size
+# resize every jpg, jpeg, bmp or png file to a png file that fits in an 1920px x 1080px box
+# Replace 1920:1080 if you want some other size
 for i in *.jpg *.jpeg *.bmp *.png; do
     new="$PWD/resized/${i%.*}.png"
-    ffmpeg -i "$i" -vf scale="800:800:force_original_aspect_ratio=decrease" "$new"
+    ffmpeg -i "$i" -vf scale="1920:1080:force_original_aspect_ratio=decrease" "$new"
 done

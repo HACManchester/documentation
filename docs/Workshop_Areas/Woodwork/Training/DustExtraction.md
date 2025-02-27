@@ -59,11 +59,11 @@ At time of writing, the branch below goes to either the large bandsaw (down) or 
 
 The baffles use a simple sliding motion. See the baffle being opened:
 
-![img](dust_lathebranch_open.mp4)
+![type:video](dust_lathebranch_open.mp4)
 
 and closed
 
-![img](dust_lathebranch_close.mp4)
+![type:video](dust_lathebranch_close.mp4)
 
 ### Branch next to table saw
 
@@ -75,7 +75,7 @@ By the table saw there is one further branch allowing you to select the table sa
 
 As well as the larger pipes, the dust extraction also has three way outlets over workstations. The baffles here are similarly colour coded to the larger baffles; but selecting which pipe to use is dependant on placing the required baffle in the slot. Baffles at the station can be pulled out as shown:
 
-![img](dust_stationbaffle.mp4)
+![type:video](dust_stationbaffle.mp4)
 
 You may use these baffles to select a route for the extraction:
 

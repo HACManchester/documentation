@@ -2,37 +2,69 @@
 # Dust Extraction
 ## What is it for?
 
-The newly installed dust extraction system has been installed to reduce the amount of wood dust in the air and ensure the machines do not get clogged with sawdust.
+The dust extraction system has been installed to reduce the amount of wood dust in the air and ensure the machines do not get clogged with sawdust.
+
+## When should you use it?
+
+Whenever a machine has the capability for dust extraction.
+
+You **must** use dust extraction when operating the following machines:
+
+- Table saw
+- Planer/thicknesser
+- Bandsaw
+- Router table
+- Oscillating sander
 
 ## Controls
 
 ### Switching it on and directing it
 
-The extraction system is switched on using this dial
+The extraction system is switched on using rotary isolator next to the dust extractor.
 
-PHOTO
+![img](dust_stationbaffle_close.png)
+![img](dust_stationbaffle_leftopen.png)
+![img](dust_stationbaffle_midopen.png)
+![img](dust_stationbaffle.mp4)
 
-You can direct it to the tool you need through using the green and red paddles provided throughout the space. 
+You can direct the suction to the tool you need through using the green and red paddles provided throughout the space.
 
-There are two central pipes that lead to each machine that is currently connected to the system.
+### Main branch by dust extractor
 
-PICTURE
+There are two central branches from the dust extractor.
 
-Firstly, ensure that the pipe that leads to the machine you're using is open at the main divide here:
+![img](dust_mainsplit.png)
 
-PHOTO
+You must ensure that the branch leading to the machine you're using is open at this divide. The baffles are colour coded to show whether the baffle is open or closed. Green means open, red means closed. In the picture above, the right hand branch is open. You may open both branches if necessary.
 
-Then you switch it on and off for your machine where the pipe connects to it. For example, here is the paddle system for the lathe:
+The branches go to different parts of the workshop. They are labelled, but if you are unsure, you can follow the pipes. Here, you can see two branches on the ceiling:
 
-PHOTO
+![img](dust_ceilingbranch.png)
 
-VIDEO
+Follow the pipe to the machine you are using and ensure any intermediate baffles are open and baffles for unused paths are closed.
 
-And here is the paddle system for the table saw:
+### Branch next to lathe
 
-PHOTO
+At time of writing, the branch below goes to either the large bandsaw (down) or to the table saw or the free pipe (to be used for mobile tools). In the picture shown the path to the table saw is closed and the path to the bandsaw is open. Please ensure only one route is open.
 
-You slide the paddles like this to open and close them:
+![img](dust_lathebranch.png)
+
+The baffles use a simple sliding motion. See the baffle being opened:
+
+![img](dust_lathebranch_open.mp4)
+
+and closed
+
+![img](dust_lathebranch_close.mp4)
+
+### Branch next to table saw
+
+By the table saw there is one further branch allowing you to select the table saw or the free pipe to be used for mobile tools. Please ensure only one route is open.
+
+![img](dust_tablesawbranch.png)
+
+
+### Baffles at individual stations
 
 VIDEO
 

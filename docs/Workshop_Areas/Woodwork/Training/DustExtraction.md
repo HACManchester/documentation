@@ -1,31 +1,39 @@
-﻿
-# Dust Extraction
-## What is it for?
+﻿Dust Extraction
+===============
+
+What is it for?
+---------------
 
 The dust extraction system has been installed to reduce the amount of wood dust in the air and ensure the machines do not get clogged with sawdust.
 
-## When should you use it?
+When should you use it?
+-----------------------
 
-Whenever a machine has the capability for dust extraction.
+You **should** use dust extraction whenever a machine has the capability for dust extraction.
 
 You **must** use dust extraction when operating the following machines:
 
-- Table saw
-- Planer/thicknesser
-- Bandsaw
-- Router table
-- Oscillating sander
+-	Table saw
+-	Planer/thicknesser
+-	Bandsaw
+-	Router table
+-	Oscillating sander
 
-## Controls
+Safety and Useage Notes
+-----------------------
+
+-	When using the dust extraction, you must use ear protection
+-	You must not use the dust extraction system for metal
+-	When using hoses to connect machines to the extraction pipes, ensure they are not trip hazards or blocking exits
+-	Extraction should stay on for a few seconds after machine turns off so the dust has time to travel.
+-	When the extraction is switched on, ensure at least one gate is open so it isn't trying to pull a full vacuum
+
+Controls
+--------
 
 ### Switching it on and directing it
 
 The extraction system is switched on using rotary isolator next to the dust extractor.
-
-![img](dust_stationbaffle_close.png)
-![img](dust_stationbaffle_leftopen.png)
-![img](dust_stationbaffle_midopen.png)
-![img](dust_stationbaffle.mp4)
 
 You can direct the suction to the tool you need through using the green and red paddles provided throughout the space.
 
@@ -63,21 +71,22 @@ By the table saw there is one further branch allowing you to select the table sa
 
 ![img](dust_tablesawbranch.png)
 
-
 ### Baffles at individual stations
 
-VIDEO
+As well as the larger pipes, the dust extraction also has three way outlets over workstations. The baffles here are similarly colour coded to the larger baffles; but selecting which pipe to use is dependant on placing the required baffle in the slot. Baffles at the station can be pulled out as shown:
 
-For the smaller tools on the other wall, you use these paddles, which dictate which pipes are open and closed:
+![img](dust_stationbaffle.mp4)
 
-PHOTO
-VIDEO
+You may use these baffles to select a route for the extraction:
 
-### Safety and Useage Notes
+#### All pipes at workstation closed
 
- - The extraction system cannot be used for both the lathe and the table saw at the same time
- - When using the dust extraction, you must use earphones
-- You must not use the dust extraction system for metal
-- When using hoses to connect machines to the extraction pipes, ensure they're not trip hazards or blocking exits
-- Extraction should stay on for a few seconds after machine turns off so the dust has time to travel  
-- When the extraction is switched on, ensure at least one gate is open so it isn't trying to pull a full vacuum
+![img](dust_stationbaffle_close.png)
+
+#### Left hand channel at workstation opened
+
+![img](dust_stationbaffle_leftopen.png)
+
+#### Middle channel at workstation opened
+
+![img](dust_stationbaffle_midopen.png)

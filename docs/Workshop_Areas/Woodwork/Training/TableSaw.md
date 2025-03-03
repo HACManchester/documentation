@@ -16,7 +16,7 @@ Even the best woodworkers make mistakes, but with some preparation and understan
 Before proceeding, please review some training on how to avoid kickback:
 
 <div class="video-wrapper">
-  <iframe width="1280" height="720" src="https://www.youtube.com/embed/5BR1-0oY0jM" frameborder="0" allowfullscreen></iframe>
+  <iframe width="800" height="450" src="https://www.youtube.com/embed/5BR1-0oY0jM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 If you prefer a written article, this covers much of the same material: [https://kmtools.com/blogs/news/how-to-prevent-kickback](https://kmtools.com/blogs/news/how-to-prevent-kickback) 

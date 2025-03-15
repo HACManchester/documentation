@@ -37,4 +37,4 @@ Do not leave projects in workshop areas, even if they are labelled.
 * No live animals or perishable articles including food
 * No genetically modified organisms or chemicals that pose a risk to others.
 
-For full storage terms please see the rules
+For full storage terms please see the [rules](https://docs.hacman.org.uk/Membership/Rules)

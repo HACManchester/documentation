@@ -21,4 +21,4 @@ Wood lathe inductions are in person. You will be asked the questions linked belo
 
 -	[General Training](../Training/General.md)
 -	[General Induction](../Inductions/General.md)
--	[Wood Lathe Induction](../Inductions/Woodlathe.md)
+-	[Wood Lathe Induction](../Inductions/WoodLathe.md)

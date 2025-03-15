@@ -12,8 +12,6 @@ Theory questions
 
 - How should you cut cylinders on the bandsaw?
 
-[take the quiz](#){.md-button}
-
 Practical Test
 --------------
 

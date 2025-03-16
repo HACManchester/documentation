@@ -1,6 +1,12 @@
+# Rules of Membership
+All members are bound by these rules as a condition of membership. If you have any questions or concerns about your ability to comply with any of the following rules, please email board@hacman.org.uk before completing your membership sign up.
+
 Hackspace Manchester is something we do together. It is a community. The infrastructure (building, equipment, internet etc) provides the foundations, and people working together with shared understandings and expectations are what provide a place of strong community.
+
 Every member is a part of the Hackspace Community and as such must follow the rules and guidelines in place to ensure that the community can exist safely and cohesively.
+
 The following rules lay out the minimum expectations from all Hackspace Members. Examples included in the rules are just that, this is not an exhaustive list of behaviours that may be considered in breach of the rules.
+
 ## Rule 1 - Be Excellent to Each Other
 Members should treat one another with the respect we feel we deserve ourselves. This is an inclusive environment, and we will not tolerate any behaviour that we deem to be harassment, bullying, or discrimination. See our Conduct Policy.
 ## Rule 2 - Keep Hackspace Tidy

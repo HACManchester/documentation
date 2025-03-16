@@ -9,7 +9,7 @@ The forum uses a single sign-on from the [members portal](https://members.hacman
 ## Telegram
 Informal and quick moving discussion such as ‘where do we keep screws’ or chatting about an idea you're developing. Telegram is a messaging app similar to Whatsapp. The conversation is split into several topics.
 
-https://t.me/hacmanchester
+[https://t.me/hacmanchester](https://t.me/hacmanchester)
 
 ## Newsletter
 Our monthly newsletter is a handy summary of upcoming events at the space and the most important announcements. 

@@ -3,6 +3,11 @@ Home
 
 ![edit](/images/space.jpg)
 
+Welcome to the Manchester Hackspace Wiki Site!
+Here you will hopefully find a lot of the information you need to get making in our community.
+
+Like any wiki, this works better when we all make an effort to keep it current, so if you find that something isn't how it is described here, please update the wiki where you can via our [GitHub](https://docs.hacman.org.uk/adding_documentation/), or type up the changes and email it to board@hacman.org.uk and we'll update it for you.
+
 Quick links
 -----------
 

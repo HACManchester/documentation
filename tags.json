@@ -14,13 +14,6 @@
     "description": []
   },
   {
-    "title": "Telegram",
-    "file_name": "Telegram",
-    "url": "https://docs.hacman.org.uk/Telegram/",
-    "tags": [],
-    "description": []
-  },
-  {
     "title": "Who to contact",
     "file_name": "Who_to_contact",
     "url": "https://docs.hacman.org.uk/Who_to_contact/",
@@ -35,41 +28,6 @@
     "description": []
   },
   {
-    "title": "Health & Safety Policy",
-    "file_name": "Health_&_Safety_Policy",
-    "url": "https://docs.hacman.org.uk/Health%20%26%20Safety/Health_%26_Safety_Policy/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Personal Protective Equipment (PPE)",
-    "file_name": "PPE",
-    "url": "https://docs.hacman.org.uk/Health%20%26%20Safety/PPE/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "PPE & Fire Supplies",
-    "file_name": "PPE_fire_supplies",
-    "url": "https://docs.hacman.org.uk/Health%20%26%20Safety/PPE_fire_supplies/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Safety in the Workspace",
-    "file_name": "Safety_Rules_Condensed",
-    "url": "https://docs.hacman.org.uk/Health%20%26%20Safety/Safety_Rules_Condensed/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Asbestos",
-    "file_name": "asbestos",
-    "url": "https://docs.hacman.org.uk/Health%20%26%20Safety/asbestos/",
-    "tags": [],
-    "description": []
-  },
-  {
     "title": "Conduct, Complaints, Aand Disciplinary Procedures",
     "file_name": "Conduct_Complaints_Disciplinary_Procedures",
     "url": "https://docs.hacman.org.uk/Membership/Conduct_Complaints_Disciplinary_Procedures/",
@@ -77,23 +35,9 @@
     "description": []
   },
   {
-    "title": "Members Survey 2019",
-    "file_name": "Members_Survey_2019",
-    "url": "https://docs.hacman.org.uk/Membership/Members_Survey_2019/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Rules",
+    "title": "Rules of Membership",
     "file_name": "Rules",
     "url": "https://docs.hacman.org.uk/Membership/Rules/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Members Storage",
-    "file_name": "members_storage",
-    "url": "https://docs.hacman.org.uk/Membership/members_storage/",
     "tags": [],
     "description": []
   },
@@ -112,20 +56,6 @@
     "description": []
   },
   {
-    "title": "Members System User Guide",
-    "file_name": "user_guide",
-    "url": "https://docs.hacman.org.uk/Membership/user_guide/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Consumables",
-    "file_name": "Consumables",
-    "url": "https://docs.hacman.org.uk/Operations/Consumables/",
-    "tags": [],
-    "description": []
-  },
-  {
     "title": "Improve, Maintain & Clean the space:",
     "file_name": "Improve_Maintain_&_Clean_the_space",
     "url": "https://docs.hacman.org.uk/Operations/Improve_Maintain_%26_Clean_the_space/",
@@ -133,23 +63,9 @@
     "description": []
   },
   {
-    "title": "Snackspace",
-    "file_name": "Snackspace",
-    "url": "https://docs.hacman.org.uk/Operations/Snackspace/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Box of Shame",
-    "file_name": "boxes_of_shame",
-    "url": "https://docs.hacman.org.uk/Operations/boxes_of_shame/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Guests in the Hackspace",
-    "file_name": "guests",
-    "url": "https://docs.hacman.org.uk/Operations/guests/",
+    "title": "Members Storage Guidelines",
+    "file_name": "Storage",
+    "url": "https://docs.hacman.org.uk/Operations/Storage/",
     "tags": [],
     "description": []
   },
@@ -364,55 +280,6 @@
     "description": []
   },
   {
-    "title": "COMMON TERMS OF REFERENCE",
-    "file_name": "common_terms_of_reference",
-    "url": "https://docs.hacman.org.uk/Operations/governance/sub_committees/common_terms_of_reference/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "THE FINANCE SUB-COMMITTEE",
-    "file_name": "finance_terms_of_reference",
-    "url": "https://docs.hacman.org.uk/Operations/governance/sub_committees/finance_terms_of_reference/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "HEALTH & SAFETY SUB-COMMITTEE",
-    "file_name": "health_safety_terms_of_reference",
-    "url": "https://docs.hacman.org.uk/Operations/governance/sub_committees/health_safety_terms_of_reference/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "INFRASTRUCTURE SUB-COMMITTEE",
-    "file_name": "infrastructure_terms_of_reference",
-    "url": "https://docs.hacman.org.uk/Operations/governance/sub_committees/infrastructure_terms_of_reference/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "MEMBERSHIP SUB-COMMITTEE",
-    "file_name": "membership_terms_of_reference",
-    "url": "https://docs.hacman.org.uk/Operations/governance/sub_committees/membership_terms_of_reference/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "OUTREACH SUB-COMMITTEE",
-    "file_name": "outreach_terms_of_reference",
-    "url": "https://docs.hacman.org.uk/Operations/governance/sub_committees/outreach_terms_of_reference/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Index",
-    "file_name": "index",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/",
-    "tags": [],
-    "description": []
-  },
-  {
     "title": "Inductions",
     "file_name": "Induction",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/3D-Printers/Induction/",
@@ -479,13 +346,6 @@
     "title": "2. Feeds and Speeds Explanation",
     "file_name": "2. Feeds_and_Speeds_Explanation",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/CNC/Chunky%20CNC/Inductions/2.%20Feeds_and_Speeds_Explanation/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Consumables (Elec)",
-    "file_name": "Consumables_(Elec)",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Electronics/Consumables_%28Elec%29/",
     "tags": [],
     "description": []
   },
@@ -563,13 +423,6 @@
     "title": "Derusting with Electrolysis",
     "file_name": "Electrolysis_Derust",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Metalwork/Howtos/Electrolysis_Derust/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Consumables (VA)",
-    "file_name": "Consumables_(VA)",
-    "url": "https://docs.hacman.org.uk/Workshop_Areas/Visual_Arts/Consumables_%28VA%29/",
     "tags": [],
     "description": []
   },
@@ -801,6 +654,20 @@
     "title": "TableSaw",
     "file_name": "TableSaw",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Training/TableSaw/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Telegram",
+    "file_name": "telegram",
+    "url": "https://docs.hacman.org.uk/communication/telegram/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Asbestos",
+    "file_name": "asbestos",
+    "url": "https://docs.hacman.org.uk/health_%26_safety/asbestos/",
     "tags": [],
     "description": []
   },

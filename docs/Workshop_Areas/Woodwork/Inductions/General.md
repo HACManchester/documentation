@@ -13,6 +13,7 @@ Theory Questions
 7.	What should you do if you are cutting material such as MDF which has a higher than normal respiratory risk?
 8.	What does the 'no lone working' rule mean?
 9.	Who are the wood team and how can you join them?
+10.	What is barrier cream and where can it be found?
 
 Practical Test
 --------------

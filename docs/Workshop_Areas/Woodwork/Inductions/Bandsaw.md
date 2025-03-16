@@ -1,10 +1,16 @@
 Bandsaw
 =======
 
-Theory Questions
+| Trainee name | Date |
+|--------------|------|
+|              |      |
+
+Theory questions
 ----------------
 
-1.	How should you cut cylinders on the bandsaw?
+- Which way should the bandsaw teeth face?
+
+- How should you cut cylinders on the bandsaw?
 
 Practical Test
 --------------
@@ -16,9 +22,15 @@ Practical Test
 -	[ ] Show inspection of bottom door for cleanliness
 -	[ ] Show how to check integrity of blade
 -	[ ] Set guard the correct distance from the top of the workpiece.
+	-	[ ] Show how to connect dust extraction.
 
 ### Checks/demo whilst connected to power
 
 -	[ ] Show how to check for bent teeth
 -	[ ] Make straight cut
 -	[ ] Make curved cut on appropriate bandsaw
+
+| I confirm the above named has received the safety induction as indicated on this checklist | I confirm the above named has received the safety induction as indicated on this checklist |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Name                                                                                       | Name                                                                                       |
+| Signature                                                                                  | Signature                                                                                  |

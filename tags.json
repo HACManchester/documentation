@@ -28,6 +28,34 @@
     "description": []
   },
   {
+    "title": "Conduct, Complaints, Aand Disciplinary Procedures",
+    "file_name": "Conduct_Complaints_Disciplinary_Procedures",
+    "url": "https://docs.hacman.org.uk/Membership/Conduct_Complaints_Disciplinary_Procedures/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Rules of Membership",
+    "file_name": "Rules",
+    "url": "https://docs.hacman.org.uk/Membership/Rules/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "New Member Induction",
+    "file_name": "new_member_induction",
+    "url": "https://docs.hacman.org.uk/Membership/new_member_induction/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Access",
+    "file_name": "rfid_setup",
+    "url": "https://docs.hacman.org.uk/Membership/rfid_setup/",
+    "tags": [],
+    "description": []
+  },
+  {
     "title": "Improve, Maintain & Clean the space:",
     "file_name": "Improve_Maintain_&_Clean_the_space",
     "url": "https://docs.hacman.org.uk/Operations/Improve_Maintain_%26_Clean_the_space/",
@@ -38,13 +66,6 @@
     "title": "Members Storage Guidelines",
     "file_name": "Storage",
     "url": "https://docs.hacman.org.uk/Operations/Storage/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Emergency Procedure",
-    "file_name": "emergency_procedure",
-    "url": "https://docs.hacman.org.uk/Operations/emergency_procedure/",
     "tags": [],
     "description": []
   },
@@ -637,37 +658,9 @@
     "description": []
   },
   {
-    "title": "Communications",
-    "file_name": "index",
-    "url": "https://docs.hacman.org.uk/communications/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "The Forum",
-    "file_name": "forum",
-    "url": "https://docs.hacman.org.uk/communications/forum/",
-    "tags": [],
-    "description": []
-  },
-  {
     "title": "Telegram",
     "file_name": "telegram",
-    "url": "https://docs.hacman.org.uk/communications/telegram/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Introduction",
-    "file_name": "introduction",
-    "url": "https://docs.hacman.org.uk/getting_started/introduction/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Who's who?",
-    "file_name": "whos_who",
-    "url": "https://docs.hacman.org.uk/getting_started/whos_who/",
+    "url": "https://docs.hacman.org.uk/communication/telegram/",
     "tags": [],
     "description": []
   },
@@ -675,13 +668,6 @@
     "title": "Asbestos",
     "file_name": "asbestos",
     "url": "https://docs.hacman.org.uk/health_%26_safety/asbestos/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Health & Safety Policy",
-    "file_name": "health_and_safety",
-    "url": "https://docs.hacman.org.uk/health_%26_safety/health_and_safety/",
     "tags": [],
     "description": []
   },
@@ -710,41 +696,6 @@
     "title": "ZeroCool",
     "file_name": "overview",
     "url": "https://docs.hacman.org.uk/infrastructure/overview/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Conduct, Complaints, Aand Disciplinary Procedures",
-    "file_name": "Conduct_Complaints_Disciplinary_Procedures",
-    "url": "https://docs.hacman.org.uk/membership/Conduct_Complaints_Disciplinary_Procedures/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Rules of Membership",
-    "file_name": "Rules",
-    "url": "https://docs.hacman.org.uk/membership/Rules/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Terms and Conditions of Membership",
-    "file_name": "membership_t_and_cs",
-    "url": "https://docs.hacman.org.uk/membership/membership_t_and_cs/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "New Member Induction",
-    "file_name": "new_member_induction",
-    "url": "https://docs.hacman.org.uk/membership/new_member_induction/",
-    "tags": [],
-    "description": []
-  },
-  {
-    "title": "Access",
-    "file_name": "rfid_setup",
-    "url": "https://docs.hacman.org.uk/membership/rfid_setup/",
     "tags": [],
     "description": []
   },

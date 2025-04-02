@@ -11,6 +11,9 @@ Informal and quick moving discussion such as ‘where do we keep screws’ or ch
 
 [https://t.me/hacmanchester](https://t.me/hacmanchester)
 
+## Instagram
+You can find us on [Instagram](https://www.instagram.com/hacmanchester). If you're interested in helping with our social media, please don't hesitate to contact us.
+
 ## Newsletter
 Our monthly newsletter is a handy summary of upcoming events at the space and the most important announcements. 
 

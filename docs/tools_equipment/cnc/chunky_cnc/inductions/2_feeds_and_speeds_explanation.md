@@ -1,4 +1,6 @@
-Feeds and Speeds **Detailed Feeds & Speeds information for new users**
+# Feeds & Speeds
+
+**Detailed Feeds & Speeds information for new users**
 
 
 These feeds and speeds are primarily for inductions and have been tested on the machine.

@@ -1,4 +1,4 @@
-#Warco - Feed, Gears & Threading
+# Warco - Feed, Gears & Threading
 
 ## Gears
 
@@ -21,15 +21,15 @@
 | 62                                 | 1                  |          |
 | 63                                 | 1                  |          |
 
-##Threading
-###Threading Gear Arrangement
+## Threading
+### Threading Gear Arrangement
 #### Inline 
 Image from manual
 
 #### Stepped
 Add link to uploaded image
 
-###Threading - Metric
+### Threading - Metric
 | Pitch | Z1 | Z2 | Z3 | Z4 | Z5 | Z6 | Notes |
 |-------|----|----|----|----|----|----|-------|
 | 0.4   | 32 | 50 | 30 | 60 | 20 | 64 |       |
@@ -59,7 +59,7 @@ Add link to uploaded image
 | 10.0  | 32 | 64 | 60 | 30 | 50 | 20 |       |
 | 12.0  | 32 | 64 | 60 | 25 | 50 | 20 |       |
 
-###Threading - Inch
+### Threading - Inch
 | Threads/1" | Z1 | Z2 | Z3 | Z4 | Z5 | Z6 | Notes |
 |------------|----|----|----|----|----|----|-------|
 | 3          | 32 | 63 | 50 | 36 | 60 | 20 |       |
@@ -97,7 +97,7 @@ Add link to uploaded image
 | 60         | 32 | 48 | 30 | 60 | 20 | 63 |       |
 | 72         | 32 | 48 | 25 | 60 | 20 | 63 |       |
 
-###Power Feed Setup
+### Power Feed Setup
 | Threads/1" | Z1 | Z2 | Z3 | Z4 | Z5 | Z6 | Notes |
 |------------|----|----|----|----|----|----|-------|
 |            | 32 |    |    |    |    |    |       |

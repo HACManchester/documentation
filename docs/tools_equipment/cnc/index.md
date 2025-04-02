@@ -1,4 +1,4 @@
-# Ox CNC
+# CNC
 
 Test
 

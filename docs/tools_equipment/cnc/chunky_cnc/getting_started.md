@@ -1,5 +1,4 @@
-
-
+# Getting Started
 
 This file is intended for those with some experience in CNC machining, who are looking to use this machine. The information contained herein will be expanded upon during induction and learning, but is designed as a quick guide and reference.
 

@@ -1,4 +1,4 @@
-# Members Storage Guidelines
+# Members Storage Rules
 The space provides limited storage for active projects. All stored items should be in either member storage or large project storage. When your project finishes, please free your shelf up for others.
 
 Members may use one cube space, or half of a shelf in the storage area. To claim a shelf:

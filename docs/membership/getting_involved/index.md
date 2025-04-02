@@ -1,4 +1,4 @@
-# Improve, Maintain & Clean the space:
+# Getting Involved
 
 Every Hackspace Citizen plays a role in running the hackspace this includes helping keep it clean, helping to improve the space and helping to maintain it.
 
@@ -13,3 +13,13 @@ However, we expect Hackspace Citizens to go that bit further and instead of just
 - Housekeeping - Things need to be done on a regular basis to keep the space tidy this includes hoovering the floors, wiping down the work surfaces, taking the rubbish out and generally tidying up. If you have a spare 10 minutes in the space help it out by completing one of the housekeeping tasks
 - Equipment Maintenance/Induction - Join one of the teams that look after specific areas or equipment and get involved in helping to maintain equipment, train users in its use etc
 - Run an event/club/course - Do you have skills you would like to share with others? Why not run a club or course or an event that bring members (and potentially non-members) together to do that. The Hackspace Outreach Committee and the Hackspace Manchester Board would eagerly support this.
+
+## Members Meetings
+
+## Hack the Space Days 
+
+These are organised days where we get together to improve the space. 
+
+Lately these have become clean the space days and we need to get away from that. They should be about doing work to improve the space this could be from creating new tool storage to adding a wall.
+
+Anyone is free to organise one just post on the forum and telegram 

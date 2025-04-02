@@ -1,5 +1,3 @@
-
-
 Welcome to the new Manchester Hackspace PrintNC wiki.
 
 The machine is named **Little Chunky.**

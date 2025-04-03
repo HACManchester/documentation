@@ -1,5 +1,3 @@
 # Borrowing Tools
-Placeholder
-FILL_IN_GAPS
 
-Can you fill in this wiki page?
+Borrowing tools is **not allowed** at Hackspace and will result in disciplinary action. Please see our [rules](https://docs.hacman.org.uk/governance/rules/) for more information.

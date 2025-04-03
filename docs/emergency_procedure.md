@@ -38,3 +38,7 @@ In the event of water escape, we have a shutoff in the CNC room, just off the wo
 If water is coming in from another unit, or isn’t affected by the isolator valve, please contact the landlord on the number above.
 
 If you can, and if it is safe to do so, try and contain water escape, and move items away from the water.
+
+## Electrical Fault
+The mainspace, metal room, visual arts…. Electricity breakers are located at the back of the Visual Arts stage in a large beige steel cabinet.
+The woodroom breakers are located in members storage, above shelf A1 in a large grey steel cabinet.

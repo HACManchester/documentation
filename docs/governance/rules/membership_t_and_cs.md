@@ -2,9 +2,7 @@
 
 The following terms and conditions apply to all members of Manchester Hackspace.
 
-Manchester Hackspace, Hackspace Manchester, HACMan, Hackspace and Hacman are all trading names of Manchester Makers Ltd. Manchester Makers Ltd is a Company limited by guarantee without share capital.
-
-FILL_IN_GAPS verify above
+Manchester Hackspace, Hackspace Manchester, HACMan, Hackspace and Hacman are all trading names of Manchester Makers Ltd. Manchester Makers Ltd is a Company limited by guarantee without share capital. Company  Number 08012547.
 
 ### 1. Legal Status of Membership   
 
@@ -13,8 +11,6 @@ FILL_IN_GAPS verify above
 1.2 By becoming a member of Manchester Hackspace, you agree to be liable for a maximum of up to £1 (GBP) in the event of Manchester Makers Ltd becoming insolvent.
 
 1.3 By law, you must provide your legal name and an address you can be contacted at during sign up. You are also legally obligated to keep these up to date while you hold membership, and inform us of any changes to your contact address for a period of ten years after your membership ends.
-
-FILL_IN_GAPS verify above
 
 ### 2. Membership Subscription  
 
@@ -36,10 +32,10 @@ FILL_IN_GAPS verify above
 
 3.1.1 You have read these terms and conditions and agree to them.
 
-3.1.2 You have read the [rules](DOCS_LINK) and agree to them.
+3.1.2 You have read the [rules](https://docs.hacman.org.uk/governance/rules/) and agree to them.
 FILL_IN_GAPS links
 
-3.1.3 You have read our [health and safety policy](DOCS_LINK) and agree to abide by it.
+3.1.3 You have read our [health and safety policy](https://docs.hacman.org.uk/governance/health_safety) and agree to abide by it.
 
 3.1.3.1 You agree to abide by the lone working policy.
 
@@ -47,8 +43,7 @@ FILL_IN_GAPS links
 
 3.1.5 You have familiarised yourself with any other applicable policies and documents governing the use of Manchester Hackspace and agree to them.
 
-3.1.6 You have familiarised yourself with the [Emergency Procedure](DOCS_LINK) and understand what to do in the event of an emergency.
-FILL_IN_GAPS link above
+3.1.6 You have familiarised yourself with the [Emergency Procedure](https://docs.hacman.org.uk/emergency_procedure) and understand what to do in the event of an emergency.
 
 ### 4. Expectations of Members
 

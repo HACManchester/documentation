@@ -33,7 +33,6 @@ Manchester Hackspace, Hackspace Manchester, HACMan, Hackspace and Hacman are all
 3.1.1 You have read these terms and conditions and agree to them.
 
 3.1.2 You have read the [rules](https://docs.hacman.org.uk/governance/rules/) and agree to them.
-FILL_IN_GAPS links
 
 3.1.3 You have read our [health and safety policy](https://docs.hacman.org.uk/governance/health_safety) and agree to abide by it.
 

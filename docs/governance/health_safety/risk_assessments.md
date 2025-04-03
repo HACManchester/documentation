@@ -6,5 +6,7 @@ All work carried out in Hackspace should be appropriately risk assessed. We main
 Our risk assessments require reviewing annually, and we need help with this. If you have read through a risk assessment and agree it is still valid, please leave a comment on the document with your name and the date at the bottom besides 'last reviewed by'
 
 ## Risk Assessment Drive
-FILL_IN_GAPS Drive link
+[digital risk assessment folder](https://drive.google.com/drive/folders/1gNdDUavZLfXFX8dfru6wcbcLSanm1Sv-?usp=sharing)
 
+## Physical Folder
+A physical copy of all risk assessments is also kept at the welcome desk in the H&S file.

@@ -16,7 +16,7 @@ Quick links
 | [Visit & Join Us](https://hacman.org.uk/visit-us) | [Rules](https://docs.hacman.org.uk/governance/rules/) | [Metalwork](https://docs.hacman.org.uk/equipment/metalwork) |
 | [Getting Started](https://docs.hacman.org.uk/getting_started/) | [Storage Rules](https://docs.hacman.org.uk/governance/rules/member_storage/) | [Woodwork](https://docs.hacman.org.uk/equipment/woodwork/) |
 |  | [Purchase Proposals](https://docs.hacman.org.uk/membership/buying_stuff/)  | [Visual Arts](https://docs.hacman.org.uk/equipment/visual_arts/) |
-|  | [Consumables List](FILL_IN_GAPS) | [Welding](https://docs.hacman.org.uk/equipment/welding/) |
+|  | [Consumables List](https://docs.google.com/spreadsheets/d/1AOO55t0vs3c4PiPQu42w1USbfekBcNd9CSx9lppWmmY/edit?usp=sharing) | [Welding](https://docs.hacman.org.uk/equipment/welding/) |
 |  |  | [3D Printing](https://docs.hacman.org.uk/equipment/3d_printers/) |
 |  |  | [Electronics](https://docs.hacman.org.uk/equipment/electronics/) |
 |  |  | [CNC](https://docs.hacman.org.uk/equipment/cnc/) |

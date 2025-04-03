@@ -30,8 +30,7 @@ If they continue to use the tool in an unsafe way, ask them to stop using it and
  * Use the great selection of books in the space which form a fantastic learning resource.
  * Ask on the forum if anyone would be willing to meet you and show you how to use the tool.
 
- You should familiarise yourself with the risks of any tool before you use it. Risk assessments for each tool can be found in the red health and safety folder by the sign up desk, or in our [digital risk assessment folder](google_drive)
- FILL_IN_GAPS google drive RA link.
+ You should familiarise yourself with the risks of any tool before you use it. Risk assessments for each tool can be found in the red health and safety folder by the sign up desk, or in our [digital risk assessment folder](https://drive.google.com/drive/folders/1gNdDUavZLfXFX8dfru6wcbcLSanm1Sv-?usp=sharing)
 
 ### Tool Inductions
 Some tools require an induction. This is typically tools that are either complex to use, expensive or can cause damage quickly. You can find out if a tool requires an induction, as well as apply for one on the [tool page](https://members.hacman.org.uk/equipment) on the membership system.
@@ -47,8 +46,7 @@ Do not use a tool if you are not inducted on it and it requires one.
 
 ### Tag damaged or unsafe equipment out of use
 * A piece of paper with "Do Not Use" is sufficient, with reason why.
-* Let others know by posting a topic on the [forum](https://list.hacman.org.uk/).
-FILL_IN_GAPS forum link above
+* Let others know by posting a topic on the [forum](https://list.hacman.org.uk/c/broken-tools-maintenance-logs/broken-tools/61).
 
 ### Clean up after yourself
 * Remove all hazards for the next person wanting to use this tool.
@@ -66,11 +64,7 @@ If you are using a no lone working tool, you must find a 'safety partner', and i
 If at any point your safety partner leaves, they must inform you and you will either need to find another, or stop work if there is no one else in the space.
 
 ## Emergency Procedure
-Our emergency procedure can be found [here](https://docs.hacman.org.uk/)
-
-FILL_IN_GAPS
-link above needs fixing
-
+Our emergency procedure can be found [here](https://docs.hacman.org.uk/emergency_procedure)
 
 ## Negligence
 Manchester Hackspace is a place of learning, we will always seek to educate rather than punish. However we have a zero tolerence to willful ignorance of safety.
@@ -80,6 +74,4 @@ The decisions you make about how to use our equipment do not just effect you. It
 Where members ignore safety concerns or continue using equipment in an unsafe way having been told not to, we may:
 * Revoke inducted status requiring you to retrain.
 * Ban you from using a tool
-* Refer you to our [disciplinary procedure](https://docs.hacman.org.uk/).
-
-FILL_IN_GAPS for link above
+* Refer you to our [disciplinary procedure](https://docs.hacman.org.uk/governance/rules/conduct_complaints).

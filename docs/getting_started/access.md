@@ -3,7 +3,7 @@
 ## Keyfob Access
 To access the space for the first time independently (not on a tour) you will need to register an RFID fob. Fobs are available in the space by the registration computer (in front of you when you enter the space). They are typically plastic disks on a key ring. At the time of writing they are yellow plastic discs.
 
-To add an RFID tag to your account click the gear icon next to 'Your Membership' and then click the 'Edit your Account' button.
+To add an RFID tag to your account, log into <https://members.hacman.org.uk> and click "Set up an access method" or "[number of] access methods" in the bar at the top of the page.
 
 ***Note your Fob Will Not Work Until you have completed this induction and ticked the box at the bottom***
 

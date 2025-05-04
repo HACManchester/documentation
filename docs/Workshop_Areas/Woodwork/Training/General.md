@@ -104,7 +104,7 @@ Moisturiser-like product that products against irritation when coming in contact
 	-	All wood produces fine dust
 	-	MDF contains formaldehyde
 	-	Treated wood contains various chemicals
-	-	Wood naturally contains toxins and causes reactions. Research whatever you're using, referring to https://www.wood-database.com/wood-articles/wood-allergies-and-toxicity (accessed 26/11/23)
+	-	Wood naturally contains toxins and causes reactions. Research whatever you're using, referring to the [Wood Toxicities Database](https://www.wood-database.com/wood-articles/wood-allergies-and-toxicity) (accessed 26/11/23). This is also available laminated and attached to one of the shadow boards in the wood workshop.
 	-	Inform other people in the room if you're cutting something with high toxicity (as a guideline above 2 stars potency on the list linked, or MDF/treated wood).
 
 ### Minimising breakages

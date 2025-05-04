@@ -14,29 +14,29 @@ Controls
 
 #### Evolution mitre saw
 
-![type:video](evo_bevel_control.ogg)
+![type:video](evo_bevel_control.mp4)
 
 #### Dewalt mitre saw
 
-![type:video](dewalt_bevel_control_001.ogg)
+![type:video](dewalt_bevel_control_001.mp4)
 
-![type:video](dewalt_bevel_control_002.ogg)
+![type:video](dewalt_bevel_control_002.mp4)
 
 ### Mitre control
 
 #### Evolution mitre saw
 
-![type:video](evo_mitre_control.ogg)
+![type:video](evo_mitre_control.mp4)
 
 #### Dewalt mitre saw
 
-![type:video](dewalt_mitre_control.ogg)
+![type:video](dewalt_mitre_control.mp4)
 
 ### Safety lock (i.e. the second button on the handle to release)
 
 #### Evolution mitre saw
 
-![type:video](evo_safety.ogg)
+![type:video](evo_safety.mp4)
 
 ### Start/stop button
 

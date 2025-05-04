@@ -12,6 +12,7 @@ plugins:
   - search
   - emailprotect
   - mkdocs-video
+  - awesome-nav
   - mdoctag:
       tagpage_dir: 'tags'
       data_filename: 'tags.json'

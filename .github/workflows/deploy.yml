@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - uses: actions/setup-python@v5
@@ -27,6 +29,8 @@ jobs:
           python-version: 3.x
       - name: Install dependencies
         run: pip install -r requirements.txt
+      - name: Make a folder to stop a stupid error
+        run: mkdir -p _site
       - name: Build mkdocs
         run: mkdocs build --clean --verbose --site-dir _site
       - name: Upload artifact

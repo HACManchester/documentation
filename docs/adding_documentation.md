@@ -3,7 +3,7 @@
 ### Overview 
 https://docs.hacman.org.uk is the home for documentation relating to Manchester Hackspace
 
-It is hosted on github pages through mkdocs using the material theme. The wiki is written in markdown, a type of text file, the same that the forum uses.
+It is hosted on GitHub Pages through mkdocs using the material theme. The wiki is written in markdown, a type of text file, the same that the forum uses.
 
 ### Adding Documentation 
 

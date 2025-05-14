@@ -1,6 +1,6 @@
-# 2025-01-13
+# Template
 ## Meeting Information
-**Meeting Date/Time:** 2025-04-03, 19:15  
+**Meeting Date/Time:** YYYY-MM-DD, HH:MM  
 **Meeting Purpose:** board meeting  
 **Meeting Location:** University  
 

@@ -13,9 +13,6 @@ plugins:
   - emailprotect
   - mkdocs-video
   - awesome-nav
-  - mdoctag:
-      tagpage_dir: 'tags'
-      data_filename: 'tags.json'
   - git-revision-date-localized
 
 markdown_extensions:

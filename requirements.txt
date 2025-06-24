@@ -3,9 +3,6 @@ mkdocs
 mkdocs-material
 mkdocs-video
 
-# Tags for mkdocs
-git+https://github.com/srymh/MkdocsTagPlugin.git
-
 # Protection for email links
 git+https://github.com/rkoe/mkdocs-emailprotect
 
@@ -16,3 +13,7 @@ mkdocs-git-revision-date-localized-plugin
 # Used for ordering the navigation
 # https://lukasgeiter.github.io/mkdocs-awesome-nav/features/nav/
 mkdocs-awesome-nav
+
+# For setting up redirects from old URLs to new URLs
+# https://github.com/datarobot/mkdocs-redirects
+mkdocs-redirects

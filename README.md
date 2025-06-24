@@ -5,32 +5,6 @@ This repo contains the official documentation for Hackspace Manchester. All memb
 
 The syntax in use is markdown, for editing pages it is suggested to use an online markdown editor such as https://stackedit.io/app#
 
-Tags
-----
-
-This repo now has support for tags within the documentation. To add a tag to a page as an example
-
-Add something like this to the top of the page to add a tag **docs/Tools_Equipment/Wood_Working/Table_Saw_ts2500.md**
-
-```
----
-tags:
-  - Equipment
----
-```
-
-Next if the Tag is a new tag we need to create a page for it to show all pages that are a member of this tag **docs/tags/Equipment.md**
-
-```
----
-pagetype: tagpage
----
-
-# Tag: Equipment
-
-Equipment related pages
-```
-
 Getting Started
 ---------------
 
@@ -51,16 +25,10 @@ If you want to get a better preview of what the changes will look like when rend
 1.	Fork this repo and clone it to your local machine
 2.	Edit the .md files within the `docs` directory, (for best results something like vscode with markdown preview)
 3.	Install python 3.6+
-4.	Install the below packages
+4.	Install dependencies
 
 	```sh
-	# These can be seen here - https://github.com/HACManchester/documentation/blob/master/.github/workflows/ci.yml
-	pip install mkdocs
-	pip install mkdocs-material
-	pip install git+https://github.com/srymh/MkdocsTagPlugin.git@ac1f02ba95527d11d84b5ec87f4e63851d57fc7d
-	pip install git+https://github.com/rkoe/mkdocs-emailprotect@ef91e3dda367bd6a3f65dda183559e1b929d6240
-	pip install mkdocs-git-revision-date-localized-plugin
-    pip install mkdocs mkdocs-video
+	pip install -r requirements.txt
 	```
 
 Then we can use the build.py wrapper script

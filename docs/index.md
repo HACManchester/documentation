@@ -1,7 +1,7 @@
 Home
 ====
 
-![edit](/images/space.jpg)
+![edit](images/space.jpg)
 
 Welcome to the Manchester Hackspace Wiki Site!
 Here you will find a lot of the information you need to get making in our community.

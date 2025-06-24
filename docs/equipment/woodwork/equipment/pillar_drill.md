@@ -72,7 +72,7 @@ During an emergency, if the workshop safety switches are triggered the machine w
 
 ### **Induction Docs**
 
-  * [PillarDrill.pdf](../Inductions/PillarDrill.pdf)
+  * [PillarDrill.pdf](../inductions/pillar_drill.pdf)
 
 ---
 

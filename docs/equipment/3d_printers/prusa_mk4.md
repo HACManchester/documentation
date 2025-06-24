@@ -22,19 +22,19 @@ Download [PrusaSlicer](https://www.prusa3d.com/en/page/prusaslicer_424/?)
 
 Click "add/remove presets""
 
-![f](/images/3D-Printers/p4_add.png)
+![f](../../images/3D-Printers/p4_add.png)
 
 ---
 
 Select MK4 with or without [Input Shaping](https://help.prusa3d.com/article/input-shaper-mk4-xl-mini-_451816)
 
-![](/images/3D-Printers/P4_1.png)
+![](../../images/3D-Printers/P4_1.png)
 
 ---
 
 Press "add physical printer"
 
-![](/images/3D-Printers/p4_physical.png)
+![](../../images/3D-Printers/p4_physical.png)
 
 ---
 
@@ -45,7 +45,7 @@ Then add in the following details
 | Kim     | 172.16.0.123 | dmAPJnhhJ37VXBV |
 | Romanov | 172.16.0.124 | JZXE4a9SUKAKWEw |
 
-![dd](/images/3D-Printers/P4_3.png)
+![dd](../../images/3D-Printers/P4_3.png)
 
 ---
 
@@ -53,13 +53,13 @@ Then add in the following details
 
 Pressing the button next to "export g code" will send your file to a physical printer, if it doesn't work make sure you have a physical printer selected and not a generic preset.
 
-![ff](/images/3D-Printers/P4_6.png)
+![ff](../../images/3D-Printers/P4_6.png)
 
 ## Using the Prusa's **without** PrusaSlicer
 
 It is perfectly fine if you want to use the Prusa's with a different slicer or [custom G-code.](https://fullcontrol.xyz/)
 
-Simply visit the IP-Address from [Printer Connection Information](#printer-connection-information) to use [PrusaLink.](https://help.prusa3d.com/guide/wi-fi-and-prusalink-setup-mk4-mk3-9-xl-mini-_413293#416077)
+Simply visit the IP-Address from Printer Connection Information to use [PrusaLink.](https://help.prusa3d.com/guide/wi-fi-and-prusalink-setup-mk4-mk3-9-xl-mini-_413293#416077)
 
 Use "maker" as the username and the Prusa-Link key as the password.
 
@@ -68,7 +68,7 @@ Use "maker" as the username and the Prusa-Link key as the password.
 | maker    | 172.16.0.123 | dmAPJnhhJ37VXBV |
 | maker    | 172.16.0.124 | JZXE4a9SUKAKWEw |
 
-![3.png](/images/3D-Printers/P4_4.png)
+![3.png](../../images/3D-Printers/P4_4.png)
 
 ---
 

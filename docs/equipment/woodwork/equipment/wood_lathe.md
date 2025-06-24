@@ -19,6 +19,6 @@ Wood Lathes
 
 Wood lathe inductions are in person. You will be asked the questions linked below. You will be expected to understand general workshop protocols so please review the general training, particularly if this is your first in-person induction.
 
--	[General Training](../Training/General.md)
--	[General Induction](../Inductions/General.md)
--	[Wood Lathe Induction](../Inductions/WoodLathe.md)
+-	[General Training](../training/general.md)
+-	[General Induction](../inductions/general.md)
+-	[Wood Lathe Induction](../inductions/wood_lathe.md)

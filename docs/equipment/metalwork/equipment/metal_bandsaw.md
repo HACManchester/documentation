@@ -4,7 +4,7 @@ The bandsaw is a Clarke CBS45M, a convertable horizontal / vertical
 bandsaw, designed for cutting metal bar, rod and tube down to length. It
 has a 1/2hp 370w motor, and is commonly fitted with a 14TPI blade.
 
-[CBS45M Manual](Media:CBS45MD_Bandsaw_rev_4.pdf "wikilink")
+[CBS45M Manual](../../../instruction_manuals/CBS45MD_Bandsaw_Rev_5.pdf)
 
 ## Status
 
@@ -124,9 +124,6 @@ The below is the junction box below the zero power switch
 
 ### Risk Assessment
 [Metal Bandsaw Risk Assessment](https://docs.google.com/document/d/1L63IFT2mtebCvb3mKpEstMLqN3Si-7PQvn6bUsV1nFw/edit?usp=sharing)
-
-
-![<File:Metal_BandSaw.svg>](Metal_BandSaw.svg "File:Metal_BandSaw.svg")
 
 [Category:Equipment](Category:Equipment "wikilink")
 [Category:Metalspace](Category:Metalspace "wikilink") [Category:Team

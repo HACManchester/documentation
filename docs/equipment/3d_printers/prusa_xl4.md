@@ -13,7 +13,7 @@ remove.
 Remove jewellery.
 Ensure no one is near moving parts before starting a print.
 
-Get familiar with the [mk4](PrusaMK4.md)'s before using this printer
+Get familiar with the [mk4](prusa_mk4.md)'s before using this printer
 
 | Username | Ip_address      | API_Key    
 | -------- | --------------- | ------------ |

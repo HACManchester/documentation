@@ -129,12 +129,12 @@ material can be supplied by the space for a small fee.
 
 ### Myford ML7
 
-![<File:MyfordML7Manual.pdf>](MyfordML7Manual.pdf "fig:File:MyfordML7Manual.pdf")
+[Myford ML7 Manual](../../../instruction_manuals/metal_lathe_ml7.pdf)
 Purely the basic factory manual.
 
 ### Warco 220
 
-[Warco 220 Manual](/instruction_manuals/Warco-Lathe-220.pdf)
+[Warco 220 Manual](../../../instruction_manuals/Warco-Lathe-220.pdf)
 
 ## Risk Assessment
 

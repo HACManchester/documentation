@@ -11,9 +11,9 @@ If in doubt check with the welding area co-ordinator before buying.
 
 | Item                                                                                                                                  | Machine / Tool                                             | Notes |
 |---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-------|
-| [Welding wire 0.6mm](https://www.basicwelding.co.uk/collections/mild-steel-mig-welding-wire/products/mild-steel-mig-wire-0-8mm-0-7kg) | [XTM 201Di Inverter MIG](Equipment/Welding_Machines.md) |       |
-| [Welding wire 0.8mm ](https://www.basicwelding.co.uk/products/mild-steel-mig-wire-0-6mm-0-7kg)                                        | [XTM 201Di Inverter MIG](Equipment/Welding_Machines.md)    |       |
-| [20L Argon 5% Gas Bottle](https://www.basicwelding.co.uk/pages/rent-free-welding-gas-manchester)                                      | [XTM 201Di Inverter MIG](Equipment/Welding_Machines.md)    |       |
+| [Welding wire 0.6mm](https://www.basicwelding.co.uk/collections/mild-steel-mig-welding-wire/products/mild-steel-mig-wire-0-8mm-0-7kg) | [XTM 201Di Inverter MIG](equipment/welding_machines.md) |       |
+| [Welding wire 0.8mm ](https://www.basicwelding.co.uk/products/mild-steel-mig-wire-0-6mm-0-7kg)                                        | [XTM 201Di Inverter MIG](equipment/welding_machines.md)    |       |
+| [20L Argon 5% Gas Bottle](https://www.basicwelding.co.uk/pages/rent-free-welding-gas-manchester)                                      | [XTM 201Di Inverter MIG](equipment/welding_machines.md)    |       |
 
 ## Grinding
 
@@ -27,5 +27,5 @@ The following is a list of recommended discs for grinding and cutting:
 
 | Item                                                                                                                        | Machine / Tool                                    | Notes |
 |-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|
-| [115MM (4.5") Grinding Disk](https://www.zoro.co.uk/shop/abrasives/grinding/115mm-4-5inch-metal-grinding-disc/p/ZT1012573S) | [Lumberjack 820W](Equipment/Angle_Grinders.md) |       |
-| [115MM (4.5") Cutting Disk ](https://www.amazon.co.uk/SHDIATOOL-Diamond-Cut-Off-Cutting-Abrasive/dp/B0C6D5DS92/?th=1)       | [Lumberjack 820W](Equipment/Angle_Grinders.md) |       |
+| [115MM (4.5") Grinding Disk](https://www.zoro.co.uk/shop/abrasives/grinding/115mm-4-5inch-metal-grinding-disc/p/ZT1012573S) | [Lumberjack 820W](equipment/angle_grinders.md) |       |
+| [115MM (4.5") Cutting Disk ](https://www.amazon.co.uk/SHDIATOOL-Diamond-Cut-Off-Cutting-Abrasive/dp/B0C6D5DS92/?th=1)       | [Lumberjack 820W](equipment/angle_grinders.md) |       |

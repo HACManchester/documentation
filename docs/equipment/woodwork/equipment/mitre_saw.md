@@ -66,10 +66,10 @@ During an emergency, if the workshop safety switches are triggered the machine w
 
 #### Training
 
--	[Training Content](../Training/MitreSaw.md)
--	[Test Content](../Training/MitreSaw.md)
--	[Mitre Saw Checklist (pdf)](../Inductions/MitreSaw.pdf)
--	[Mitre Saw Checklist (docx)](../Inductions/MitreSaw.docx)
+-	[Training Content](../training/mitre_saw.md)
+-	[Test Content](../training/mitre_saw.md)
+-	[Mitre Saw Checklist (pdf)](../inductions/mitre_saw.pdf)
+-	[Mitre Saw Checklist (docx)](../inductions/mitre_saw.docx)
 
 ### Manuals
 

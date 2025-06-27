@@ -3,7 +3,7 @@ Bandsaws
 
 |                 | Record Power                 | Axminster                       |
 |-----------------|------------------------------|---------------------------------|
-|                 | ![img](../Training/8211.jpg) | ![img](../Training/ap2920b.jpg) |
+|                 | ![img](../training/8211.jpg) | ![img](../training/ap2920b.jpg) |
 | Model No.       | BS12                         | AP2920B                         |
 | Location        | Woodwork, Freestanding       | Woodwork, Freestanding          |
 | Training        | Induction                    | Induction                       |
@@ -26,8 +26,8 @@ Bandsaws
 
 Please review the bandsaw training before your induction session. For your induction you will be asked the theory questions and required to demonstrate the procedures in the practical session.
 
--	[Bandsaw Training](../Training/Bandsaw.md)
--	[Bandsaw Induction](../Inductions/Bandsaw.md)
+-	[Bandsaw Training](../training/bandsaw.md)
+-	[Bandsaw Induction](../inductions/bandsaw.md)
 
 ### **Risk Assessment**
 

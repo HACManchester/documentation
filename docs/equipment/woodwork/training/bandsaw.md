@@ -4,7 +4,7 @@ Bandsaw
 Pre-requisite training
 ----------------------
 
-[General](General.md)
+[General](general.md)
 
 What is it for?
 ---------------

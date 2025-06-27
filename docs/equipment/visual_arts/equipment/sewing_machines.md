@@ -12,7 +12,7 @@ machine.
 
 ### Manual
 
-![<File:Lervia564manual.pdf>](Lervia564manual.pdf "File:Lervia564manual.pdf")
+![Lervia 564 Manual](../../../instruction_manuals/sewingmachine_Lervia.pdf)
 
 ## Singer 4423 Heavy Duty
 
@@ -24,13 +24,10 @@ leather.
 ### Manual
 
 Quick Start guide -
-![<File:SingerQuickStartGuide4432.pdf>](SingerQuickStartGuide4432.pdf "fig:File:SingerQuickStartGuide4432.pdf")
+[Singer Quick Start Guide](../../../instruction_manuals/SingerQuickStartGuide4432.pdf)
 
 Full Manual -
-![<File:Singer4423Manual.pdf>](Singer4423Manual.pdf "fig:File:Singer4423Manual.pdf")
-
-Service Manual -
-![<File:Singer4423ServiceManual.pdf>](Singer4423ServiceManual.pdf "fig:File:Singer4423ServiceManual.pdf")
+[Singer 4423 Manual](../../../instruction_manuals/Singer4423Manual.pdf)
 
 ### Risk Assessment
 [Sewing Machine Risk Assessment](https://docs.google.com/document/d/1aUZWDqhOVUsFNbLjxgr4PFD62l2zbHXBCNHzI7B_ajg/edit?usp=sharing)

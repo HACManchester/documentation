@@ -41,10 +41,10 @@ As standard the space stocks replacement blades for these machines as listed on 
 
 These machines require extra Training to use and are included in the WoodyDusty Table Saw Training & Safety Induction.
 
--	[Training Content](../Training/TableSaw.md)
--	[Test Content](../Inductions/TableSaw.md)
--	[Table Saw Checklist (pdf)](../Inductions/TableSaw.pdf)
--	[Table Saw Checklist (docx)](../Inductions/TableSaw.docx)
+-	[Training Content](../training/table_saw.md)
+-	[Test Content](../inductions/table_saw.md)
+-	[Table Saw Checklist (pdf)](../inductions/table_saw.pdf)
+-	[Table Saw Checklist (docx)](../inductions/table_saw.docx)
 
 ### Safety
 

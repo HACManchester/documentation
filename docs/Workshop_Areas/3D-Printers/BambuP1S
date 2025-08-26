@@ -1,0 +1,15 @@
+Our Bambu P1S has the following details:
+
+Name: Delilah
+IP: 172.16.0.126
+Access code: 
+
+- The maximum print area is 233 x 248 x 250 [depending on print orientation.] However this can be extended to 256x256x256 [minus the cutout for the cutter of 18x28]. Please do not modify the printer to extend the max print volume without contacting the maintainer team for permission first as there are additional steps to take. 
+
+- The printer is equipped with an AMS for multi colour and multi material prints. You can use the following materials in the AMS. PLA, PETG, ASA, PC, PA, PVA. You may use all space supplied materials except for TPU in the AMS.Please do not fill the AMS with abrasive filaments. Always remove filament from the AMS after use.
+
+- Please do not attempt any sort of maintenance on the printer: If it doesn't work, ask the team in person or on telegram.
+
+- You can monitor the printer from the camera. However this can only be done locally from the space.
+
+The best way to interface with the printer is by installing bambuslicer or Orcaslicer. Once this 

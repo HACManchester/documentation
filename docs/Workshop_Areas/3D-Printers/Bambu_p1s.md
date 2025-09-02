@@ -9,7 +9,7 @@ Access code: 24877583
 
 Please note the access code may change from time to time if people in the space make a mistake on the printer. Please see the 'how to find the code' section for how to find the access code from the printer.
 
-- The maximum print area is 233 x 248 x 250 [depending on print orientation.] However this can be extended to 256x256x256 [minus the cutout for the cutter of 18x28]. Please do not modify the printer to extend the max print volume without contacting the maintainer team for permission first as there are additional steps to take. 
+- The maximum print area is 233 x 248 x 250 [depending on print orientation.] 
 
 - The printer is equipped with an AMS for multi colour and multi material prints. You can use the following materials in the AMS. PLA, PETG, ASA, PC, PA, PVA. You may use all space supplied materials except for TPU in the AMS.Please do not fill the AMS with abrasive filaments. Always remove your own filament from the AMS after use. If you do not remove your filament, it can and will be used by other members.
 

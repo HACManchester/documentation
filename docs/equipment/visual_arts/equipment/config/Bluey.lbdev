@@ -1,0 +1,44 @@
+{
+    "DeviceList": [
+        {
+            "Checklist": "",
+            "DefaultCutList": [
+            ],
+            "DefaultToolCutList": [
+            ],
+            "DisplayName": "Bluey",
+            "EnableLaser2Offset": false,
+            "EnableProcessOffset": false,
+            "GUID": "4NTAtNGEzN",
+            "Height": 600,
+            "HomeOnStartup": true,
+            "Info": "172.16.0.253",
+            "Laser2OffsetX": 0,
+            "Laser2OffsetY": 0,
+            "LastCamera": "",
+            "LastDevLibraryPath": "",
+            "MirrorX": false,
+            "MirrorY": true,
+            "Name": "Ruida",
+            "ProcessOffsetX": 0,
+            "ProcessOffsetY": 0,
+            "ReverseIntervalCompensation": false,
+            "Settings": {
+                "CutOrigin": 2,
+                "DockState_ArtBrowser": false,
+                "DockState_Camera": true,
+                "DockState_Console": false,
+                "DockState_CutLibrary": true,
+                "DockState_LaserFiles": false,
+                "DockState_Move": false,
+                "DockState_ShapeProperties": true,
+                "DockState_VariableText": true,
+                "NetworkTimeout": 5000,
+                "UserFinishX": 0,
+                "UserFinishY": 0
+            },
+            "Type": "UDP",
+            "Width": 900
+        }
+    ]
+}

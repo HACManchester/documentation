@@ -17,7 +17,7 @@ Please note the access code may change from time to time if people in the space 
 
 - Please do not attempt any sort of maintenance on the printer, other than the troubleshooting guides in this document: If it doesn't work, ask the team in person or on telegram.
 
-- You can monitor the printer from the camera. However this can only be done locally from the space.
+- You can monitor the printer from the camera. However this can only be done from computers within the Hackspace, or connected to the Hackspace's Wi-Fi.
 
 The best way to interface with the printer is by installing bambu studio or Orcaslicer. Once this is done, load up the camera by pressing play to ensure your connection is correct. Once you have connected the printer, you can sync the nozzle and bed information. You can also sync the filament information automatically if using bambu branded filament. 
 

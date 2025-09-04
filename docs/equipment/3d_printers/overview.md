@@ -6,6 +6,7 @@
 
 - [Prusa MK4's](prusa_mk4.md)
 - [Prusa XL](prusa_xl4.md)
+- [Bambu P1S](Bambu_p1s.md)
 - Sunlu printer (Courtney), larger than the enders
 - Resin Printer (Bob Jr.) Elegoo Mars Pro
 

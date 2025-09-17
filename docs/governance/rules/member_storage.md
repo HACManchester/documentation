@@ -41,6 +41,7 @@ Do not leave projects in workshop areas, even if they are labelled. Have a back 
 Provided labels are stored on the side of the last chance shelves.
 You must fill in your name and contact details.
 The publishing schedule is as follows:
+
 | Protection until | Published in | Colour |
 |---|---|---|
 | 1st January | July | Blue |

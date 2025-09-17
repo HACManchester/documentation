@@ -20,7 +20,7 @@ If you are about to use a tool that needs ear defenders, dust masks or other PPE
 
 If you see someone about to/doing something unsafe, stop them as soon as it is safe to do so. If you feel comfortable, offer to teach them how to use the tool safely.
 
-If they continue to use the tool in an unsafe way, ask them to stop using it and if necessary fill in the  [Complaints Form](https://forms.gle/HC2xJrz1XcXx4W1w7).
+If they continue to use the tool in an unsafe way, ask them to stop using it and if necessary fill in the  [Incident Form](https://forms.gle/HC2xJrz1XcXx4W1w7).
 
 
 ## Using Tools

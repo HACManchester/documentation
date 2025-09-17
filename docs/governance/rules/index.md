@@ -10,7 +10,7 @@ The following rules lay out the minimum expectations from all Hackspace Members.
 ## Rule 1 - Be Excellent to Each Other
 
 Members should treat one another with the respect we feel we deserve ourselves.  
-This is an inclusive environment, and we will not tolerate any behaviour that we deem to be harassment, bullying, or discrimination. See our Conduct Policy below.
+This is an inclusive environment, and we will not tolerate any behaviour that we deem to be harassment, bullying, or discrimination. See our [Conduct Policy](https://docs.hacman.org.uk/governance/rules/conduct_complaints/).
 
 ## Rule 2 - Keep Hackspace Tidy
 
@@ -22,14 +22,14 @@ Give the floor a sweep from time to time and take out the bins.
 Hackspace is a community that provides the facilities, tools and consumables for members to get making. We are not a commodity or service provider.  
 Please share the space and tools with others, your needs do not take priority over anyone else's.
 Use consumables sparingly, providing your own or replenishing the space’s stock where you are likely to use a lot.  
-Where tools get broken, report them via the [report form](https://forms.gle/2cp73P1SHGaGuRvaA) so they can be fixed 
+Where tools get broken, report them via the [report form](https://forms.gle/2cp73P1SHGaGuRvaA) so they can be fixed. 
 Our space operates an honesty system for the tuck shop and some material provision.
 
 ## Rule 4 - Give Back to the Space
 
 The space is run, maintained and improved by all of us.  
 Give back however you can: cleaning, joining a team, upgrading the space, etc.  
-See our To-Do list for some ideas. Aim to leave a bit of time spare on every visit to carry out a few chores.
+See our To-Do list for some ideas. Aim to leave a bit of time spare on every visit to do a few tasks.
 
 ## Rule 5 - Do Not Hack or Borrow
 

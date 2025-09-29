@@ -16,9 +16,9 @@ Manchester Hackspace, Hackspace Manchester, HACMan, Hackspace and Hacman are all
 
 2.1 You agree to pay a monthly membership subscription (otherwise referred to as membership subs, dues or fee) to be part of our community.
 
-2.1.1 Where you are offered a reduced rate subscription for extenuating circumstances, you agree to increase your subscription to regular levels when you are financially able.
+&nbsp;&nbsp;&nbsp;&nbsp;2.1.1 Where you are offered a reduced rate subscription for extenuating circumstances, you agree to increase your subscription to regular levels when you are financially able.
 
-2.1.2 Where you are using the space for business purposes (e.g. making goods for sale, using the space to do work, researching and developing products), you agree to increase your subscription proportionally to the value you gain from hackspace.
+&nbsp;&nbsp;&nbsp;&nbsp;2.1.2 Where you are using the space for business purposes (e.g. making goods for sale, using the space to do work, researching and developing products), you agree to increase your subscription proportionally to the value you gain from hackspace.
 
 2.2 The membership subscription is non-refundable.  
 
@@ -30,28 +30,23 @@ Manchester Hackspace, Hackspace Manchester, HACMan, Hackspace and Hacman are all
 
 3.1 By being a member you agree:
 
-3.1.1 You have read these terms and conditions and agree to them.
-
-3.1.2 You have read the [rules](https://docs.hacman.org.uk/governance/rules/) and agree to them.
-
-3.1.3 You have read our [health and safety policy](https://docs.hacman.org.uk/governance/health_safety) and agree to abide by it.
-
-3.1.3.1 You agree to abide by the lone working policy.
-
-3.1.4 You agree to only use tools you feel competant in the use of.
-
-3.1.5 You have familiarised yourself with any other applicable policies and documents governing the use of Manchester Hackspace and agree to them.
-
-3.1.6 You have familiarised yourself with the [Emergency Procedure](https://docs.hacman.org.uk/emergency_procedure) and understand what to do in the event of an emergency.
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.1 You have read these terms and conditions and agree to them.  
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.2 You have read the [rules](https://docs.hacman.org.uk/governance/rules/) and agree to them.  
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.3 You have read our [health and safety policy](https://docs.hacman.org.uk/governance/health_safety) and agree to abide by it.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.3.1 You agree to abide by the lone working policy.  
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.4 You agree to only use tools you feel competant in the use of.  
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.5 You have familiarised yourself with any other applicable policies and documents governing the use of Manchester Hackspace and agree to them.  
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.6 You have familiarised yourself with the [Emergency Procedure](https://docs.hacman.org.uk/emergency_procedure) and understand what to do in the event of an emergency.
 
 ### 4. Expectations of Members
 
 4.1 Hackspace is not a 'pay for use' or 'pay as you go' service. There are no staff or cleaners. In becoming a member of Manchester Hackspace, you agree to contribute to the running and maintenance of the space. This could be anything from cleaning, emptying bins, becoming a tool trainer or maintainer, running classes or socials, joining a team or even becoming a director.
 
-4.1.1 At the bare minimum we ask that you tidy up a little more than just the mess you made yourself.
+&nbsp;&nbsp;&nbsp;&nbsp;4.1.1 At the bare minimum we ask that you tidy up a little more than just the mess you made yourself.
 
-4.1.2 A good guide is to spend about 10-20% of your time giving back. 
-For example:
+&nbsp;&nbsp;&nbsp;&nbsp;4.1.2 A good guide is to spend about 10-20% of your time giving back.  
+&nbsp;&nbsp;&nbsp;&nbsp;For example:
+
 | Time at space | Expected time given back |
 | ----- | ----- |
 |3 hours = 180 mins | 15-30 mins
@@ -60,7 +55,7 @@ For example:
 
 Note do not feel you have to give back on the same day (other than cleaning up after yourself). You might have busy summers and quiet winters, just get involved when you can.
 
-4.1.3 If you can't help out because you don't have the time, consider raising your membership subscription as an alternative. As our membership grows, our need to buy more 'unbreakable' equipment increases, and unfortunately this often comes at considerable cost.
+&nbsp;&nbsp;&nbsp;&nbsp;4.1.3 If you can't help out because you don't have the time, consider raising your membership subscription as an alternative. As our membership grows, our need to buy more 'unbreakable' equipment increases, and unfortunately this often comes at considerable cost.
 
 ### 5. Your Belongings
 
@@ -75,8 +70,6 @@ Note do not feel you have to give back on the same day (other than cleaning up a
 
 6.2 Some tools are induction protected. You must not use these tools without being signed off. The [members portal](https://members.hacman.org.uk) is the best place to check if you need an induction to use a tool, and also an accurate log of who is allowed to use each inducted tool.
 
-6.3 Manchester Hackspace discourages members bringing their own tools in.
-
-6.3.1 We cannot be held responsible for any tools that are not provided by us.
-
-6.3.2 We cannot be held responsible for anyone using another member's tool.
+6.3 Manchester Hackspace discourages members bringing their own tools in.  
+&nbsp;&nbsp;&nbsp;&nbsp;6.3.1 We cannot be held responsible for any tools that are not provided by us.  
+&nbsp;&nbsp;&nbsp;&nbsp;6.3.2 We cannot be held responsible for anyone using another member's tool.

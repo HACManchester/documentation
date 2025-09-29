@@ -23,7 +23,7 @@
 
 ## 2. How Long We Keep Information
 
-2.1 Your membership account remains active for three years after you cancel your membership, afterwhich your personal information will be deleted with the exception of:  
+2.1 Your membership account remains active for three years after you cancel your membership, after which your personal information will be deleted with the exception of:  
 &nbsp;&nbsp;&nbsp;&nbsp;2.1.1 Incidents, complaints and disciplinary information is kept for the lifetime of the organisation, as well as enough information to identify a person banned from the Hackspace to prevent them attempting to re-register.  
 &nbsp;&nbsp;&nbsp;&nbsp;2.1.2 We keep your name and address on record for 10 years.  
 
@@ -37,7 +37,7 @@
 
 Our lawful bases for collecting and using your personal information are:
 
-3.1 Legal Obligation – As a membership organisation, we are [legally](https://www.legislation.gov.uk/ukpga/2006/46/part/8/chapter/2/crossheading/general)required to keep a record of your name and address for ten years after you leave the organisation.
+3.1 Legal Obligation – As a membership organisation, we are [legally](https://www.legislation.gov.uk/ukpga/2006/46/part/8/chapter/2/crossheading/general) required to keep a record of your name and address for ten years after you leave the organisation.
 
 3.2 Contractual – To provide and administer your membership to Manchester Hackspace.
 

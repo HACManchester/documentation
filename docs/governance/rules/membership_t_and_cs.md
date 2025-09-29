@@ -34,7 +34,7 @@ Manchester Hackspace, Hackspace Manchester, HACMan, Hackspace and Hacman are all
 
 3.1.2 You have read the [rules](https://docs.hacman.org.uk/governance/rules/) and agree to them.
 
-3.1.3 You have read our [health and safety policy](https://docs.hacman.org.uk/governance/health_safety) and agree to abide by it.
+3.1.3 You have read our [health and safety policy](https://docs.hacman.org.uk/governance/health_safety/health_and_safety/) and agree to abide by it.
 
 3.1.3.1 You agree to abide by the lone working policy.
 
@@ -68,7 +68,7 @@ Note do not feel you have to give back on the same day (other than cleaning up a
 
 5.2 Manchester Makers Ltd takes no resposibility for any personal belongings stored at the space.
 
-5.3 Manchester Makers Ltd reserves the right to dispose of, relocate or remove anything not stored in accordance with the [storage rules](https://docs.hacman.org.uk/Membership/members_storage/) without prior warning.
+5.3 Manchester Makers Ltd reserves the right to dispose of, relocate or remove anything not stored in accordance with the [storage rules](https://docs.hacman.org.uk/governance/rules/member_storage/) without prior warning.
 
 ### 6. Use of tools
 6.1 Manchester Hackspace provides a wide variety of tools. It is your responsibility to ensure you feel competent to use a tool before using it. If in doubt, ask somebody to help you, or spend some time learning best practise from available resources.

@@ -1,4 +1,5 @@
-# Emergency Procedure
+# Emergency procedures
+
 In the event of an emergency stay calm and leave the building if necessary.
 
 📞 999  or  0161 974 3232 for Landlord Emergency

@@ -51,7 +51,7 @@ If you need to isolate the electricity supply, you'll find circuit breakers in t
 - Wood workshop: Member storage area, in a grey steel cabinet above shelf A1
 - Rest of the space: Back of the visual arts area in a beige steel cabinet
 
-In any event, contact our [emergency contacts](#contacts) and follow their instructions.
+Once it's safe to do so, contact our [emergency contacts](#contacts) and follow their instructions.
 
 ## Crimes and personal safety
 
@@ -63,11 +63,13 @@ Once it's safe to do so, contact our [emergency contacts](#contacts) and follow 
 
 ## Local incidents
 
-Given our proximity to the Etihad Campus, it's likely that we'll be affected if there's a major incident there. The emergency services will respond using well-rehearsed plans to keep everyone safe.
+It's likely that the space will be affected if there's a major incident in the local area, but particularly so given our proximity to the Etihad Campus.
 
-If you become aware of an incident in the local area, you should:
+If there's a major incident in the local area, the emergency services will respond using robust and tested plans to keep everyone safe.
 
-- Consider staying in the space until you're sure that the immediate area is safe
+If you become aware of such an incident, you should:
+
+- Consider staying in the space until you're sure that the local area is safe
 - Notify others on Telegram, so that they don't put themselves at risk by travelling to the space
 - Follow any instructions that the emergency services give you
 
@@ -78,8 +80,11 @@ If there's a risk to life, property or the environment, call the emergency servi
 Once you've called them, you should:
 
 - Email the board at [board@hacman.org.uk](mailto:board@hacman.org.uk)
-- Call the landlord on [0161 974 3232](tel:+441619743232), if the incident affects the safety or integrity of the building
+- Call our landlord on [0161 974 3232](tel:+441619743232), if the incident affects the safety or integrity of the building
 
 If you're asked for the address of the space, it is:
 
-> Unit 1, Room 1, Wellington House, Pollard Street East, Manchester, M40 7FS
+> Wellington House  
+> Pollard Street East  
+> Manchester  
+> M40 7FS

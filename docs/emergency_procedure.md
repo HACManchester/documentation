@@ -12,7 +12,7 @@ If an incident occurs whilst you're in the space, you should:
 
 First aid equipment, including a burns kit and eye wash, are located in the kitchen. There is also a defibrilator at the entrance to the wood workshop and a plaster dispenser at the main entrance.
 
-If someone suffers a life-threatening illness or injury, call 999 and ask for Ambulance. You will be connected to [North West Ambulance Service](https://www.nwas.nhs.uk) who will ask questions about the person and their condition, and tell you what to do next.
+If someone suffers a life-threatening illness or injury, call 999 and ask for Ambulance. You will be connected to [North West Ambulance Service](https://www.nwas.nhs.uk) (NWAS), who will ask questions about the person and their condition, and tell you what to do next.
 
 However, if their condition is not life-threatening, you can call [NHS 111](tel:+44111) or visit [111 online](111.nhs.uk).
 
@@ -44,7 +44,7 @@ Do not re-enter the building until you're told by GMFRS that it's safe to do so.
 
 ## Utilities
 
-If there's a water leak, go to the back of the CNC room and turn the blue stop-tap to isolate the water supply.
+If there's a water leak, go to the back of the CNC room behind the woodwork room, and turn the blue stop-tap to isolate the water supply.
 
 If you need to isolate the electricity supply, you'll find circuit breakers in the following locations:
 
@@ -73,7 +73,7 @@ If you become aware of such an incident, you should:
 - Notify others on Telegram, so that they don't put themselves at risk by travelling to the space
 - Follow any instructions that the emergency services give you
 
-## Contacts
+## Emergency contacts {#contacts}
 
 If there's a risk to life, property or the environment, call the emergency services on 999. Don't assume that someone else has already done so.
 

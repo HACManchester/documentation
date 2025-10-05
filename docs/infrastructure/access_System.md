@@ -6,6 +6,7 @@ The keycode access system runs in parallel with the fob access system.
 ### Hardware
 
 It consists of:
+
 - A keypad outside
 - A pi Inside
 - A relay board inside

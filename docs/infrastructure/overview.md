@@ -1,6 +1,6 @@
 #  ZeroCool
 
-### Overview 
+### Overview
 ZeroCool is the external server hosted at Hetzner and houses the majority of the tech infrastructure for the hackspace including
 
  1. Main Website - https://www.hacman.org.uk
@@ -10,7 +10,7 @@ ZeroCool is the external server hosted at Hetzner and houses the majority of the
 
 Setup by Rossy in November 2018 this contains the heart of our infrastructure
 
-### Reverse Proxy 
+### Reverse Proxy
 
 The server is setup with a reverse proxy that uses automatic configuration to set the forwarding of the sub domain to the correct docker instance rathr than manually needing configured. This is based on the following docker file https://github.com/nginx-proxy/nginx-proxy.git and the setup process is detailed [here](https://docs.hacman.org.uk/infrastructure/nginx)
 
@@ -136,7 +136,7 @@ Buddy.works is used to run the member system billing script that requires to be 
 
 Standard Discourse install operates on a seperate ip to the rest of the server 
 
-### SMTP Server 
+### SMTP Server
 
 Until recently this was hosted with mailgun for free however due to the introduction of charges for that it we now currently use a mixture of Amazon Simple Email Service and smtp2go and is used for sending transactional email from each of the systems above
 
@@ -148,14 +148,13 @@ The Zerocool server is resticted to ssh access for security and GDPR reasons thi
 
 We use uptimerobot to monitor each server application including the space internet itself, the systems can be checked using the status page at https://status.hacman.org.uk
 
-### DNS Managmeent 
+### DNS Managmeent and Domain registration
 
-All DNS management is done via cloudflare 
+All DNS management is done via Cloudflare, which is also the domain registrar
 
 ### Backups
 
-The Database server is backup on a daily basis using sqlbak to a dedicated google drive
-Backups are stored for 30 days 
+The Database server is backup on a daily basis using sqlbak to a dedicated Google Drive  
+Backups are stored for 30 days
 
-Daily File Backups are done and stored on google drive, these are kept for 2 days (space limitations)
-
+Daily File Backups are done and stored on Google Drive, these are kept for 2 days (space limitations)

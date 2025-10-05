@@ -1,6 +1,6 @@
 # NGINX Setup
 
-Original article - https://francoisromain.medium.com/host-multiple-websites-with-https-inside-docker-containers-on-a-single-server-18467484ab95
+Original article - <https://francoisromain.medium.com/host-multiple-websites-with-https-inside-docker-containers-on-a-single-server-18467484ab95>
 
 ## Hosting multiple websites on a single Virtual Private Server is simple and efficient. Nowadays, HTTPS is a required feature for any website.
 
@@ -127,7 +127,7 @@ First create the network:
 
 Then create the reverse proxy with the `nginx`, `nginx-gen` and `nginx-letsencrypt` containers from the  `docker-compose.yml`  file:
 
-`$ cd /srv/www/nginx-proxy/`
+`$ cd /srv/www/nginx-proxy/`  
 `$ docker-compose up -d`
 
 Now the reverse-proxy is running.
@@ -177,7 +177,7 @@ networks:
 
 **Now lets start the website with:**
 
-`$ cd /srv/www/your-website.tld`
+`$ cd /srv/www/your-website.tld`  
 `$ docker-compose up -d`
 
 **The website is automatically detected by the reverse proxy, has a HTTPS certificate and is visible at https://your-website.tld .**

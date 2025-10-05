@@ -8,8 +8,8 @@ ZeroCool is the external server hosted at Hetzner and houses the majority of the
  3. Forum (Discourse) https://list.hacman.org.uk
  4. Database Server (MySQL) 
 
- Setup by Rossy in November 2018 this contains the heart of our infrastructure
- 
+Setup by Rossy in November 2018 this contains the heart of our infrastructure
+
 ### Reverse Proxy 
 
 The server is setup with a reverse proxy that uses automatic configuration to set the forwarding of the sub domain to the correct docker instance rathr than manually needing configured. This is based on the following docker file https://github.com/nginx-proxy/nginx-proxy.git and the setup process is detailed [here](https://docs.hacman.org.uk/infrastructure/nginx)
@@ -18,9 +18,8 @@ The server is setup with a reverse proxy that uses automatic configuration to se
 Each webserver with the exception of discourse is based on https://github.com/sprintcube/docker-compose-lamp/tree/7.2.x](https://github.com/sprintcube/docker-compose-lamp/tree/7.2.x) with amended docker-compose.yml files to work with the reverse proxy including removing the mysql, phpmyadmin and redis installs. Each webserver has a .env file which contains certain environment settings.
 
 Each webserver can be connected to via ssh from within Zerocool using the command
- 
 
-    docker exec –it container id (run docker-ps to find this) /bin/bash
+`docker exec –it container id (run docker-ps to find this) /bin/bash`
 
 #### Sample Docker Compose file
 
@@ -36,7 +35,7 @@ Example of the Docker Compose File (in this instance it was for the main site) c
     
     container_name: wordpress-website
     
-      
+    
     
     volumes:
     
@@ -70,7 +69,7 @@ Example of the Docker Compose File (in this instance it was for the main site) c
     
     - 80
     
-      
+    
     
     wordpress:
     

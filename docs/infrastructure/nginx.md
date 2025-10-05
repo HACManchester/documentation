@@ -1,5 +1,7 @@
 # NGINX Setup
 
+Original article - https://francoisromain.medium.com/host-multiple-websites-with-https-inside-docker-containers-on-a-single-server-18467484ab95
+
 ## Hosting multiple websites on a single Virtual Private Server is simple and efficient. Nowadays, HTTPS is a required feature for any website.
 
 ----------
@@ -27,9 +29,9 @@ The manual way to setup a nginx reverse-proxy is to install nginx directly on th
 -   The need to restart nginx after each config modification, causing a short downtime for every websites.
 -   The need to expose a port of each container to the host, and therefore keep track of the used ports (two containers can not use the same port).
 
-**To avoid these downsides, the magic** `[**jwilder/nginx-proxy**](https://github.com/jwilder/nginx-proxy)` **automates the creation of nginx configs and reloads the proxy server when a container starts and stops. And it has HTTPS support.**
+**To avoid these downsides, the magic** [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy) **automates the creation of nginx configs and reloads the proxy server when a container starts and stops. And it has HTTPS support.**
 
-**Even better, the nginx-proxy has a** `[**LetsEncrypt companion**](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion)`**, which allows the automatic creation and renewal of HTTPS certificates.**
+**Even better, the nginx-proxy has a** [LetsEncrypt companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion)**, which allows the automatic creation and renewal of HTTPS certificates.**
 
 **In one word: set-it-and-forget-it.**
 
@@ -37,6 +39,7 @@ The manual way to setup a nginx reverse-proxy is to install nginx directly on th
 
 Create a  `nginx-proxy`  directory next to the websites directories. In my setup this is in  `/srv/www/`  on the host.
 
+```
 .  
 +-- nginx-proxy  
 |   +-- docker-compose.yml  
@@ -48,6 +51,7 @@ Create a  `nginx-proxy`  directory next to the websites directories. In my setup
 +-- your-website-one.tld  
 +-- your-website-two.tld  
 +-- your-website-three.tld
+```
 
 Inside  `/nginx-proxy`, create four empty directories:  `conf.d`,  `vhost.d`,  `html`  and  `certs`. These are used to store the nginx and the Let’s Encrypt configuration files.
 
@@ -55,6 +59,7 @@ Inside  `/nginx-proxy`, create four empty directories:  `conf.d`,  `vhost.d`,  `
 
 Inside  `/nginx-proxy/`, create a  `docker-compose.yml`  file with this content:
 
+```
 version: '3'services:  
   nginx:  
     image: nginx  
@@ -100,29 +105,30 @@ version: '3'services:
   default:  
     external:  
       name: nginx-proxy
+```
 
 This will launch three services:
 
 -   `nginx`: the nginx-reverse proxy, uses the default nginx image. The label is needed so that the letsencrypt container knows which nginx proxy container to use.
--   `nginx-gen`: uses the  `[jwilder/docker-gen](https://github.com/jwilder/docker-gen)`  image. Its  `command`  instruction will render a nginx configuration (based on  `nginx.tmpl`) for each website / container added to the network.
+-   `nginx-gen`: uses the [jwilder/docker-gen](https://github.com/jwilder/docker-gen)  image. Its `command` instruction will render a nginx configuration (based on `nginx.tmpl`) for each website / container added to the network.
 -   `nginx-letsencrypt`: generates and renew the HTTPS certificates.
 
 All these services are bound to the  `nginx-proxy`  network.
 
 # nginx.tmpl
 
-Inside  `/nginx-proxy/`, create a  `nginx.tmpl`  file and copy the content from  [this file](https://raw.githubusercontent.com/jwilder/nginx-proxy/master/nginx.tmpl). This is the used by the  `nginx-gen`  container to create the nginx configuration file for each website / container added to the network.
+Inside `/nginx-proxy/`, create a `nginx.tmpl` file and copy the content from [this file](https://raw.githubusercontent.com/jwilder/nginx-proxy/master/nginx.tmpl). This is the used by the `nginx-gen` container to create the nginx configuration file for each website / container added to the network.
 
 # Boot up
 
 First create the network:
 
-$ docker network create nginx-proxy
+`$ docker network create nginx-proxy`
 
-Then create the reverse proxy with the  `nginx`,  `nginx-gen`  and  `nginx-letsencrypt`  containers from the  `docker-compose.yml`  file:
+Then create the reverse proxy with the `nginx`, `nginx-gen` and `nginx-letsencrypt` containers from the  `docker-compose.yml`  file:
 
-$ cd /srv/www/nginx-proxy/  
-$ docker-compose up -d
+`$ cd /srv/www/nginx-proxy/`
+`$ docker-compose up -d`
 
 Now the reverse-proxy is running.
 
@@ -132,14 +138,16 @@ To link a website to the running nginx-proxy, we need to update its own  `docker
 
 **1. Environment variables**
 
-services:  
-  my-app:   
-    …  
-    environment:  
-      VIRTUAL_HOST: your-website.tld   
-      VIRTUAL_PORT: 3000  
-      LETSENCRYPT_HOST: your-website.tld  
+```
+services:
+  my-app:
+    …
+    environment:
+      VIRTUAL_HOST: your-website.tld
+      VIRTUAL_PORT: 3000
+      LETSENCRYPT_HOST: your-website.tld
       LETSENCRYPT_EMAIL: your-email@domain.tld
+```
 
 -   `VIRTUAL_HOST`: your domain name, used in the nginx configuration.
 -   `VIRTUAL_PORT`: (opt.) the port your website is listening to (default to  `80`).
@@ -148,27 +156,31 @@ services:
 
 **2. Ports**
 
-services:  
-  my-app:   
-    …  
-    expose:  
+```
+services:
+  my-app:
+    …
+    expose:
       - 3000
+```
 
 Same as the  `VIRTUAL_PORT`  above.
 
 **3. Network**
 
-networks:  
-  default:  
-    external:  
+```
+networks:
+  default:
+    external:
       name: nginx-proxy
+```
 
 **Now lets start the website with:**
 
-$ cd /srv/www/your-website.tld  
-$ docker-compose up -d
+`$ cd /srv/www/your-website.tld`
+`$ docker-compose up -d`
 
-**The website is automatically detected by the reverse proxy, has a HTTPS certificate and is visible at** `**https://your-website.tld**`**.**
+**The website is automatically detected by the reverse proxy, has a HTTPS certificate and is visible at https://your-website.tld .**
 
 **Magic!**
 
@@ -179,11 +191,7 @@ How can we replicate this production environment, on a local dev computer? I wro
 # Useful links
 
 -   [A complete guide to switching from HTTP to HTTPS](https://www.smashingmagazine.com/2017/06/guide-switching-http-https/): a very rich article explaining what HTTPS is technically, the different types of certificates and different ways to set it up on a server.
--   A  [Docker Compose with nginx-proxy and Let’s Encrypt](https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion)  example by Ever Tramos automates the steps exposed in this article.
-
-#### 1K
-
-#### 30
+-   A [Docker Compose with nginx-proxy and Let’s Encrypt](https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion) example by Ever Tramos automates the steps exposed in this article.
 
 -   [Docker](https://medium.com/tag/docker)
 -   [Nginx](https://medium.com/tag/nginx)

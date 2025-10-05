@@ -6,9 +6,9 @@ The keycode access system runs in parallel with the fob access system.
 ### Hardware
 
 It consists of:
-* A keypad outside
-* A pi Inside
-* A relay board inside
+- A keypad outside
+- A pi Inside
+- A relay board inside
 
 ### Getting access codes
 The Pi gets a (`announce_name`, `fob_id`) CSV list of valid members every few minutes from the membership system and stores this locally.

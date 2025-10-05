@@ -3,16 +3,13 @@
 ### Overview 
 ZeroCool is the external server hosted at Hetzner and houses the majority of the tech infrastructure for the hackspace including
 
- 1. Members System - https://members.hacman.org.uk 
- 2. Main Website - https://www.hacman.org.uk
- 3. Moodle (Training/Induction System) - https://moodle.hacman.org.uk
- 4. Wiki (Archive) https://wiki.hacman.org.uk
- 5. Forum (Discourse) https://list.hacman.org.uk
- 6. Helpdesk https://help.hacman.org.uk
- 7. Database Server (MySQL) 
+ 1. Main Website - https://www.hacman.org.uk
+ 2. Members System - https://members.hacman.org.uk 
+ 3. Forum (Discourse) https://list.hacman.org.uk
+ 4. Database Server (MySQL) 
 
- Setup by Rossy in November 2018 this contains the heart of our infrastructure
- 
+Setup by Rossy in November 2018 this contains the heart of our infrastructure
+
 ### Reverse Proxy 
 
 The server is setup with a reverse proxy that uses automatic configuration to set the forwarding of the sub domain to the correct docker instance rathr than manually needing configured. This is based on the following docker file https://github.com/nginx-proxy/nginx-proxy.git and the setup process is detailed [here](https://docs.hacman.org.uk/infrastructure/nginx)
@@ -21,9 +18,8 @@ The server is setup with a reverse proxy that uses automatic configuration to se
 Each webserver with the exception of discourse is based on https://github.com/sprintcube/docker-compose-lamp/tree/7.2.x](https://github.com/sprintcube/docker-compose-lamp/tree/7.2.x) with amended docker-compose.yml files to work with the reverse proxy including removing the mysql, phpmyadmin and redis installs. Each webserver has a .env file which contains certain environment settings.
 
 Each webserver can be connected to via ssh from within Zerocool using the command
- 
 
-    docker exec –it container id (run docker-ps to find this) /bin/bash
+`docker exec –it container id (run docker-ps to find this) /bin/bash`
 
 #### Sample Docker Compose file
 
@@ -39,7 +35,7 @@ Example of the Docker Compose File (in this instance it was for the main site) c
     
     container_name: wordpress-website
     
-      
+    
     
     volumes:
     
@@ -73,7 +69,7 @@ Example of the Docker Compose File (in this instance it was for the main site) c
     
     - 80
     
-      
+    
     
     wordpress:
     
@@ -123,6 +119,10 @@ Direct Database access is only available through an SSH Tunnel
 Internal IP for the Database Server is REMOVED
 Currently there is one MYSQL server with multiple databases within it and different user(s) per database
 
+### Main Website (https://www.hacman.org.uk)
+
+Public Facing Website based on wordpress with avada theme. Members have editing privledges to the website to update it 
+
 ### Members (https://members.hacman.org.uk)
 This is a forked version of Build Brighton Membership System and can be found on github. Setup is fairly simple and requires a webserver running php with composer and larvell installed. Permissions may need to be edited for /storage and /bootstrap/cache for the install to work.
 
@@ -132,24 +132,9 @@ You also need a .env file within the members directory
 
 Buddy.works is used to run the member system billing script that requires to be run each day to bill members. 
 
-### Moodle (https://moodle.hacman.org.uk)
-Standard moodle install, uses external database authentication to sync login with the membership system.
-
 ### The Bikeshed aka the Forum (https://list.hacman.org.uk)
 
 Standard Discourse install operates on a seperate ip to the rest of the server 
-
-### Main Website (https://www.hacman.org.uk)
-
-Public Facing Website based on wordpress with avada theme. Members have editing privledges to the website to update it 
-
-### Wiki (Archived) (https://wiki.hacman.org.uk)
-
-Mediawiki Install – Requires a separate login and will shortly be in archived
-
-### Helpdesk (https://help.hacman.org.uk)
-
-Helpdesk Ticketing system for teams and sub committees to use to manage requests, emails etc based on OS ticket (Login is restricted to members of teams and subcommittees)
 
 ### SMTP Server 
 
@@ -173,5 +158,4 @@ The Database server is backup on a daily basis using sqlbak to a dedicated googl
 Backups are stored for 30 days 
 
 Daily File Backups are done and stored on google drive, these are kept for 2 days (space limitations)
-
 

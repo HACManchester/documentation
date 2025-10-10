@@ -22,7 +22,7 @@ Board Member Updates |
 Trello Review | • Tidy Up Tasks<br>• Reallocation of tasks
 Focus Session | 
 Upcoming Dates | • Classes<br> • HTSD<br> • Members meetings `Wednesday, 30th April 2025` `Decide. Wednesdays 3 months on. Publish` <br> • Next board meeting `Wedemsday, 7th May 2025`<br> • Board workshop `Sunday, 13th April 2025`
-AoB | • Reorder Natwest cards<br> • Parking<br> • Membership consent to [policies] (insurance)<br> • Handling of dormant balances (very important<br>
+AoB | • Reorder Natwest cards<br> • Parking<br> • Membership consent to [policies] (insurance)<br>
 
 ## Discussion
 * Discussion 1

@@ -13,7 +13,7 @@ Bob Clough, [22.11.17 08:21]
 Would be about €27 a month ongoing cost
 
 Bob Clough, [22.11.17 08:22]
-And replace the hacman VPS, the droplet running list, and the LDAP server on my dedicated servet
+And replace the hacman VPS, the droplet running list, and the LDAP server on my dedicated server
 
 Conor, [22.11.17 09:39]
 Dumb question - What would be the benefit?

@@ -25,8 +25,8 @@ If you discover a fire, activate the fire alarm using one of the red break-glass
 When you hear the fire alarm, you should:
 
 1. Stop and turn off any equipment that you're using
-2. Leave immediately by the nearest available exit
-3. Go to our assembly point at the top of Cowan Street
+2. Leave immediately by the nearest available exit, closing doors behind you
+3. Go to our assembly point at the top of Cowan Street (to the left of the main entrance)
 
 When you arrive at the assembly point, you should:
 
@@ -44,7 +44,7 @@ Do not re-enter the building until you're told by GMFRS that it's safe to do so.
 
 ## Utilities
 
-If there's a water leak, go to the back of the CNC room behind the woodwork room, and turn the blue stop-tap to isolate the water supply.
+If there's a water leak, go to the back of the CNC room behind the woodwork room, and turn the blue stop-tap towards the ceiling at the back of the room. This will isolate the water supply to the space.
 
 If you need to isolate the electricity supply, you'll find circuit breakers in the following locations:
 
@@ -67,11 +67,9 @@ It's likely that the space will be affected if there's a major incident in the l
 
 If there's a major incident in the local area, the emergency services will respond using robust and tested plans to keep everyone safe.
 
-If you become aware of such an incident, you should:
+If you become aware of such an incident, you should consider staying in the space until you're sure that the local area is safe.
 
-- Consider staying in the space until you're sure that the local area is safe
-- Notify others on Telegram, so that they don't put themselves at risk by travelling to the space
-- Follow any instructions that the emergency services give you
+Once it's safe to do so, contact our [emergency contacts](#contacts) and follow their instructions.
 
 ## Emergency contacts {#contacts}
 

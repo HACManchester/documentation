@@ -12,9 +12,9 @@ Elections are currently ongoing, to be completed once results are known
 
 - Harvinder Atwal
 - Joseph Christian
+- Jordon Colclough
 - Ben Dooks
 - Rob Jackson
-- Peter Roberts
 - Jasmine Streatfield
 ---
 

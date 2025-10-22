@@ -1,44 +1,88 @@
-# Emergency Procedure
-In the event of an emergency stay calm and leave the building if necessary.
+# Emergency procedures
 
-📞 999  or  0161 974 3232 for Landlord Emergency
+Whilst a serious incident is unlikely in the space, we have procedures in place to keep you safe.
 
-**Address:** 
-Unit 1, Room 1, Wellington House, Pollard Street East, Manchester, M40 7FS
+If an incident occurs whilst you're in the space, you should:
 
-## First Aid
-The first aid kit and accident book are located in the kitchen. This includes bandages, burns kits, eye wash and a tourniquet. 
+1. Move to somewhere safe and help others to do the same
+2. Notify others in the space who might not be aware of the incident
+3. Contact our [emergency contacts](#contacts) and follow their instructions
 
-There is an auto-defibrillator by the entrance to the wood workshop, in the event someone has a cardiac arrest. You should call 999, and let them know you have a defibrillator. They will tell you whether to use it or not.
+## First aid
 
-There is a smaller plaster dispenser by the main entrance.
+First aid equipment, including a burns kit and eye wash, are located in the kitchen. There is also a defibrilator at the entrance to the wood workshop and a plaster dispenser at the main entrance.
 
-Please fill in the accident report book for any health and safety incidents, or near misses.
+If someone suffers a life-threatening illness or injury, call 999 and ask for Ambulance. You will be connected to [North West Ambulance Service](https://www.nwas.nhs.uk) (NWAS), who will ask questions about the person and their condition, and tell you what to do next.
 
-## Police incident
-In the event of a criminal act in progress, call 999.
-If there’s been a break in or theft, please notify Hackspace's directors who can advise. board@hacman.org.uk
+However, if their condition is not life-threatening, you can call [NHS 111](tel:+44111) or visit [111 online](111.nhs.uk).
 
-If the space cannot be secured, do what you can to secure it, even if this means boarding up a door to prevent further damage, and notify the board immediately.
+Once the person is receiving care, please record the incident in the accident report book in the kitchen.
 
-## Fire
-The fire alarm is a loud blaring sound, with red flashing lights.
+## Fire safety
 
-CO2, powder and foam fire extinguishers are located around the space. Fight the fire if it is safe to do so.
+If you discover a fire, activate the fire alarm using one of the red break-glass call points around the space.
 
-Raise the alarm, by activating a call point if you pass one on your way out.
+When you hear the fire alarm, you should:
 
-Close doors behind you and gather at the meeting point at the top of Cowal street (leave the space, turn left, it's the T-junction on your right).
+1. Stop and turn off any equipment that you're using
+2. Leave immediately by the nearest available exit, closing doors behind you
+3. Go to our assembly point at the top of Cowan Street (to the left of the main entrance)
 
-If you believe there is a false alarm, please call our landlord on the number above.
+When you arrive at the assembly point, you should:
 
-## Flood
-In the event of water escape, we have a shutoff in the CNC room, just off the woodworking room. The valve is blue and at the back of the room towards the ceiling. Turn this to isolate water to our unit.
+1. Make sure that everyone who's known to be in the space has left
+2. Call 999, ask for Fire & Rescue, and give them [our address](#contacts)
+3. Contact our [emergency contacts](#contacts) and follow their instructions
 
-If water is coming in from another unit, or isn’t affected by the isolator valve, please contact the landlord on the number above.
+Once [Greater Manchester Fire & Rescue Service](https://www.manchesterfire.gov.uk) (GMFRS) arrive, you should give them:
 
-If you can, and if it is safe to do so, try and contain water escape, and move items away from the water.
+1. The location of the fire, if you know it
+2. Names and descriptions of anybody who's missing
+3. Details of any risks or hazards, such as equipment that you weren't able to stop
 
-## Electrical Fault
-The mainspace, metal room, visual arts…. Electricity breakers are located at the back of the Visual Arts stage in a large beige steel cabinet.
-The woodroom breakers are located in members storage, above shelf A1 in a large grey steel cabinet.
+Do not re-enter the building until you're told by GMFRS that it's safe to do so.
+
+## Utilities
+
+If there's a water leak, go to the back of the CNC room behind the woodwork room, and turn the blue stop-tap towards the ceiling at the back of the room. This will isolate the water supply to the space.
+
+If you need to isolate the electricity supply, you'll find circuit breakers in the following locations:
+
+- Wood workshop: Member storage area, in a grey steel cabinet above shelf A1
+- Rest of the space: Back of the visual arts area in a beige steel cabinet
+
+Once it's safe to do so, contact our [emergency contacts](#contacts) and follow their instructions.
+
+## Crimes and personal safety
+
+If your safety is at risk, such as a crime happening now, call 999 and ask for Police.
+
+In the event of a break-in or damage to the building, do what you can to secure the space, such as boarding up a door.
+
+Once it's safe to do so, contact our [emergency contacts](#contacts) and follow their instructions.
+
+## Local incidents
+
+It's likely that the space will be affected if there's a major incident in the local area, but particularly so given our proximity to the Etihad Campus.
+
+If there's a major incident in the local area, the emergency services will respond using robust and tested plans to keep everyone safe.
+
+If you become aware of such an incident, you should consider staying in the space until you're sure that the local area is safe.
+
+Once it's safe to do so, contact our [emergency contacts](#contacts) and follow their instructions.
+
+## Emergency contacts {#contacts}
+
+If there's a risk to life, property or the environment, call the emergency services on 999. Don't assume that someone else has already done so.
+
+Once you've called them, you should:
+
+- Email the board at [board@hacman.org.uk](mailto:board@hacman.org.uk)
+- Call our landlord on [0161 974 3232](tel:+441619743232), if the incident affects the safety or integrity of the building
+
+If you're asked for the address of the space, it is:
+
+> Wellington House  
+> Pollard Street East  
+> Manchester  
+> M40 7FS

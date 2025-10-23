@@ -1,10 +1,14 @@
-# Member Meeting Minutes (MMMMM <MEETING_NUMBER_SEE_PREVIOUS_MEETING_MINUTES>)
-#### Date: <DATE_OF_MEETING>
+# Member Meeting Minutes (MMMMMM )
+
+#### Date:
+
 #### Location: Hacman, Wellington House
-#### Minutes taken by <PERSON_WHO_TOOK_MINUTES>
-![](https://raw.githubusercontent.com/HACManchester/Branding/master/Logos/PNG/126/hackspace-dgrey.png)
-## Agenda 
+
+#### Minutes taken by:
+
+## Agenda
 ### Standing Items
+
 * Reports from teams
   * Board
   * Craft
@@ -21,6 +25,7 @@
 * <COPY_AGENDA_POINTS_FROM_THE_WIKI_TO_HERE>
 
 ## Proceedings
+
 ### Start
 <TIME_STARTED>
 <ANY_EVENTS>
@@ -29,15 +34,15 @@
 <WERE_PREVIOUS_MINUTES_APPROVED>
 
 ### Reports from teams
-* Board: 
+* Board:
   * 
-* Craft: 
+* Craft:
   * 
 * Laser:
   * 
 * 3D Print:
   * 
-* Documentation: 
+* Documentation:
   *
 * Procurement:
   * 
@@ -45,9 +50,9 @@
   * 
 * Events:
   * 
-* Social: 
+* Social:
   * 
-* Wood: 
+* Wood:
   * 
   
 
@@ -60,7 +65,6 @@
 
 #### <EXAMPLE_ITEM_TITLE_FROM_AGENDA>
 <DISCUSSIONS_HAD_HERE>
-
 
 
 ### AOB

@@ -7,12 +7,11 @@
 ## Attendees
 People who attended:
 
-- JC - Chair
-- HA
-- RJ
-- JS
-- BD
-- JC2
+- Ross Ballinger
+- Joseph Christian - Chair
+- Jordon Colclough
+- John Deptford
+- Rob Jackson
 
 ## Agenda Items
 

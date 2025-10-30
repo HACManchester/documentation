@@ -3,7 +3,11 @@ Current and previous board members
 
 ## Current board members:
 
-Elections are currently ongoing, to be completed once results are known
+- Ross Ballinger
+- Joseph Christian
+- Jordon Colclough
+- John Deptford
+- Rob Jackson
 ---
 
 ## Previous Board Members

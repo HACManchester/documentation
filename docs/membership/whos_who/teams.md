@@ -18,3 +18,12 @@ At each team meeting (which will be open to members), the team will:
 Trainers do not have to be part of the team.
 
 The board can add and remove members from teams.
+
+## Budgets
+Teams are alloted an annual £300 self-managed budget for small maintenance purchases to keep their areas running. This could include spare parts, consumables, signage, PPE, professional repair/servicing, etc.
+
+Spending should be expensed via the [reimbursement form](https://forms.gle/NAwY9UQmAdEzJJzQ7). 
+
+Teams can request their budget be increased if they approach the spending limit.
+
+The directors reserve the right to alter or remove the budget at any time.

@@ -41,7 +41,7 @@ This is a list of the existing github repositories.
   * https://github.com/HACManchester/Foundary.ElectricCoil  
     Details for a future project for building a Electric Coil Foundary for casting or hardening metal
 
-  * https://github.com/HACManchester/docker-dokuwiki
+  * https://github.com/HACManchester/docker-dokuwiki  
     https://github.com/HACManchester/dokuwiki-demo-setup  
     This was a dokuwiki demo setup I did that uses markdown instead of the dokuwiki syntax
     If we could get a standard setup for the hacman authentication

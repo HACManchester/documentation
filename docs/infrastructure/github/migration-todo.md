@@ -21,10 +21,6 @@ into other repositories to reduce the numbers
     Originally Alex sourced some Electronics from Ebay (currently in a box under the Metal Milling Machine)  
     This is the details on this
 
-  * https://github.com/HACManchester/MMMMM  
-    https://github.com/HACManchester/board_minutes  
-    Chris M is working on moving these into the main documentation
-
   * https://github.com/HACManchester/constitution  
     This might be out of date anyway, but just check before deleting if anything needs moving over
 

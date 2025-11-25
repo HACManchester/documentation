@@ -1,4 +1,4 @@
-# MemberShip / Door Access - Todo
+# Membership / Door Access - Todo
 
 This is a list of repositories assocaited ether with the membership system or door access.
 Ideally we need to review the below to see what is needed
@@ -31,7 +31,7 @@ some of this we might need but at the very least could do with being condensed d
     This is some notes associated with the setup of the original mailing list.  
     However ideally it needs updates from whoever is maintaining the mailing list at the moment.
   * https://github.com/HACManchester/mta-sts.hacman.org.uk  
-    This repos is needed for the mta-sts feature of the mailing list, it needs to remain seperate
+    This repos is needed for the mta-sts feature of the domain, it needs to remain seperate
   * https://github.com/HACManchester/Cloud-Forum2Telegram  
     This posts notification to telegram on new mailing list post
 
@@ -55,7 +55,3 @@ The new system mounted to the wall which can take pin numbers or rfid tags
     We used to have a large rotating beacon on top of the door I think to indicate the door bell had been pushed
 
 Ideally we could do with merging all this into two repos one for the old and one for the new door system
-
-
-
-

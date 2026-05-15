@@ -16,5 +16,5 @@ We have rehosted [a copy here](/instruction_manuals/card_printer_zxp1.pdf) in ca
 
 The manual lists all the guidance for changing ribbons, cleaning and maintenance and inserting blank cards.
 
-![Useful buttons](images/card_reader.png)
-![Power switch](images/card_reader_rear.png)
+![Useful buttons](images/card_printer.png)
+![Power switch](images/card_printer_rear.png)

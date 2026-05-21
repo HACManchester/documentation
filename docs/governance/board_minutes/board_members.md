@@ -6,7 +6,6 @@ Current and previous board members
 - Joseph Christian
 - Jordon Colclough
 - John Deptford
-- Rob Jackson
 ---
 
 ## Previous Board Members
@@ -14,6 +13,7 @@ Current and previous board members
 ### 2025-2026 Board Members:
 
 - Ross Ballinger
+- Rob Jackson
 
 ### 2024-2025 Board Members:
 

@@ -1,141 +1,39 @@
 # Laser Cutter
 
-The Orange Laser Cutter is usable by members who have had an induction.
+The Laser Cutter (Bluey) is usable by members who have had an induction.
 
-Top-level specifications:
+## Safety
 
--   A2-ish Bed size, 600mm x 400mm
--   60W Laser Tube (1250mm long / 55mm diameter)
--   Awesome Extraction
--   Air Assist
--   Red-dot laser for bounds checking
--   Smart cooling
--   Rise-and-fall bed, Super useful for engraving stuff on stuff
-
-## Preparing a file for laser cutting
-
-### Inkscape
-
-For vector editing and manipulation, we suggest people use Inkscape. It
-is a free and powerful vector editing package, and integrates well with
-Visicut. It can be downloaded from [the Inkscape release page](https://inkscape.org/release).
-
-### Visicut
-
-Visicut is the software that converts vector files into the code that
-drives the laser cutter. You can download Visicut from [https://download.visicut.org/](https://download.visicut.org/).
-
-On first run, Visicut will ask if you want to download settings. You do,
-just select **Manchester, UK: Hackspace** from the list and Visicut will
-automatically install the latest settings for our laser cutter. You can
-use this same method to reset your settings back to the default, under
-the menu item **Options > Settings > Download Recommended
-Settings**. You may get an error message, *error importing settings*. If
-this occurs, just close and reopen Visicut for the settings to apply.
-
-If you have Visicut and Inkscape installed, and have run Inkscape at
-least once (so it creates its folders in your home drive), You can
-install the Inkscape addon for Visicut by clicking **Extras > Install
-Inkscape Extension** in Visicut. Close and reopen Inkscape and you
-should have new options for sending vectors directly to Visicut. This isn't necessary to use the laser, but may be helpful.
-
-## Operating the laser cutter
-
-### Safety
-
-* The coolant pump *must* be running before cutting starts. This is a metal box near the laser cutter which has a two-digit temperature display when switched on.
-* Leave the coolant pump on for at least 5 minutes after cutting finishes.
-* Fume extraction must run while the laser is cutting. This starts automatically when the laser is working. If the extraction doesn't appear to be working, stop cutting.
-* Stay close to the laser cutter and watch it at all times when it's cutting. Fires can start very quickly.
+> All safety mechanisms of the laser cutter must be checked and confirmed are working and operational before using the laser.
+> 
+> - Check chillers, lid interlocks, machine panels, extraction or any other feature or mechanism of the machine designed to keep members safe.
+> - The coolant pump *must* be running before cutting starts. This is a metal box under the laser cutter which has a two-digit temperature display when switched on.
+> - Leave the coolant pump on for at least 5 minutes after cutting finishes.
+> - Fume extraction must run while the laser is cutting. This starts automatically when the laser is working. If the extraction doesn't appear to be working, stop cutting.
+> - Stay close to the laser cutter and watch it at all times when it's cutting. Fires can start very quickly.
+> - Don't use the controls if someone is doing something on the bed
+> - If you think a tool is unsafe or behaving in a way it shouldn't;
+>   - Mark it out of use and alert the responsible team by the quickest means possible!
+>   - Do not attempt to use the tool or allow anyone else to use it.
 
 ### In the event of fire / emergency
 
--   There is an emergency stop button on the top panel that is
-    functional. Opening the lid will also stop the laser from firing.
--   If you can smother the fire in-place using a piece of stock, do so.
--   If you can't smother it in place, put it on the floor and try to
-    stomp it out.
--   If the fire is in the laser and you can safely fight it use the CO2 extinghuser available next to the laser
--   If you can't do either of these, leave the space immediately, and
-    call 999. The address is Wellington House, Pollard Street,
-    Manchester, M40 7FS
+![estop and laser switch](images/bluey_buttons.jpg)
+
+* There is an emergency stop button on the front that is functional, this will turn everything off and is recommended as a power off switch. The turn switch will just stop the laser firing as well as opening the lid.
+* If there is a fire you can safely fight it use the CO2 extinguisher available next to the laser
+* If you can't do either of these, leave the space immediately, and call 999. The address is Wellington House, Pollard Street, Manchester, M40 7FS
 
 ### Problems other than fires
 
-If the laser cutter does **anything** out of the ordinary please make sure it's reported to a laser maintainer. This can be done through the visual arts telegram channel. If the response is "please put the out of order sign on the cutter" then do that. **DO NOT ATTEMPT TO FIX THE CUTTER YOURSELF.** If it is clearly not functioning, put the out of order sign on it and then report it. We will fix it as soon as possible.
+**DO NOT ATTEMPT TO FIX THE CUTTER YOURSELF.**
 
-Even if the cut didn't work, let the cutter cool down for 5 mins before turning off.
+If the laser cutter does **anything** out of the ordinary please make sure it's reported to a laser maintainer. 
+This can be done through the laser cutter telegram channel.
+If the response is "please put the out of order sign on the cutter" then do that. **DO NOT ATTEMPT TO FIX THE CUTTER YOURSELF.** 
+If it is clearly not functioning, put the out of order sign on it and then report it. We will fix it as soon as possible.
 
-### Control Panel
-
--   There is a small set of keyboard keys and small LCD screen which controls the laser. Menus can be selected by pressing left and right and pressing '*'.
--   The red button is a 'back' button in menus.
-
-### Positioning the part
-
-With the laser the only thing to worry about is the Z axis. There
-is a switch on the right hand side of the machine that can be used to
-lower or raise the main bed of the machine. It's a bit slow, but make
-sure not to crash the bed into the laser head, since there isn't a limit
-switch installed.
-
-There is a small plastic guide inside the machine that can be used to
-position / zero the height against the bed (the default position). This
-goes in between the bed and the left-hand part of the laser cutter, as
-in the following photo:
-
-![Image of bed height guide](images/bed-height-guide.png)
-
--   For cutting materials up to 6mm it's best to have the z height set
-    to bed level.
--   For cutting materials over 6mm, try to keep the z height 6mm into
-    the material. Multiple passes may be needed.
--   For engraving set the focal point to the height of the material by
-    placing the guide on top of it.
--   If you want crisp engraving on thick stock, you will need to do a
-    2-stage engrave / cut with the focal point initially set to the top
-    of your material, and then re-set to the correct height for your
-    cut.
--   If your material has a protective cover, try to leave the cover on both sides of the material,
-    or if only one side the bottom (not the top)
-
-### Test the Laser positioning
-
-Next we're going to do a boundary test to make sure the laser cutter is
-working on the area we think it's going to:
-
--   Click Execute in Visicut
--   Wait for the small LCD on the Cutter it to say the file name
--   Press the right arrow on the laser cutter to select "Boundary"
--   Press the centre '*' button, which will cause the red laser to
-    trace the box outline of where the cut will be done on the material.
--   This can be done with the lid open to assist in placing your part,
-    however please keep your hands/hair/ties out of the way of the moving parts.
--   Press the '*' button again to go back to the main menu.
-
-### Do the cut
-
-At this stage you should now be ready to do the cut for real.
-
--   Make sure the lid is closed, The laser won't fire with it open.
--   Check the coolant pump is still working and the temperature is below 25.
--   The LCD should show Run on the screen.
--   Press '*' button to start the run job.
--   Start a timer on your phone or watch so you know how much your job costs.
--   Keep watching the laser while it cuts to check nothing goes wrong (e.g. fires)
--   Check the extraction fan is working (you can tell either by the noise it makes, or by vibration of the exhaust hose).
-
-### Logging and payment
-
--   There is a log book for keeping track of usage of the laser. Please write down your name and the length of time you've used the laser for in the front of the book.
--   The laser is currently billed by 10 minute or 1 hour increments, with the rate written on the laser cutter.
--   Laser fees can be paid in cash into a box near the laser, which should be clearly marked, or from your member balance at [the members' system laser page](https://members.hacman.org.uk/equipment/laser).
--   If you owe the laser fund money or have some credit (e.g. have paid with a £10 note and only used £3) record your balance at the back of the log book.
-
-### Things to not worry about
-
--   The key does nothing
--   There is no need to turn the laser cutter off but there is a switch at the back if it is needed
+Even if the laser cutter didn't work, let the chiller run for 5 mins before turning off.
 
 ## Materials that can be used
 
@@ -179,7 +77,7 @@ At this stage you should now be ready to do the cut for real.
 | Ceramics  | Glass  | <p style="background-color:green;"> **Low Risk** </p>  |   | Engrave only.  |   |
 | Composites  | Fibreglass  | <p style="background-color:red;"> **Banned** </p>  | laser contamination, fire risk, emissions  |   |   |
 | Composites  | Carbon fibre  | <p style="background-color:red;"> **Banned** </p>  | laser contamination, fire risk, emissions  |   |   |
-| Metals  |   | <p style="background-color:red;"> **Banned** </p>  | Can cause laser damage  | She might ''seem'' really eager, but it's probably best not to listen to her...  |   |
+| Metals  |   | <p style="background-color:red;"> **Banned** </p>  | Can cause laser damage  |   |   |
 | Other  | Food  | <p style="background-color:red;"> **Banned** </p>  | laser contamination, fire risk, emissions  |   |   |
 | Other  | Body Parts  | <p style="background-color:red;"> **Banned** </p>  |   |   |   |
 | Other  | Lucy  | <p style="background-color:red;"> **Banned** </p>  | laser contamination, safety hazard  |   |   |
@@ -189,44 +87,200 @@ At this stage you should now be ready to do the cut for real.
 | Other  | Flexible Magnetic Sheet  | <p style="background-color:red;"> **Banned** </p>  | Emissions (HCl)  | If you find a supposedly laser-safe version, please contact the laser maintainers for approval  |   |
 | Other  | Asbestos (all types and products)  | <p style="background-color:red;"> **Banned** </p>  | Laser Contamination, H&S  | Someone asked, so we had to put this entry in  |   |
 
-
-## Status
-
-Status can be seen on the members page at [the members' system laser page](https://members.hacman.org.uk/equipment/laser). If there is a notice on the laser itself saying it is out of order, that takes priority.
-
 ## Checklist for induction - Trainers Guide to Laser Cutting
 
-### Prerequisites 
-Make sure they read through this page and if possible have visicut setup on their machine with a design ready to cut
+This is a checklist of items to run through but the more detailed version is below
 
-### Steps
+### Showy Steps
+
 1. Introduce the laser cutter and point all the functions i.e. the bed size, where the cooler is, the extractor fan, menu selector
-2. Always mention safety and safety features throughout, start with making sure the coolant pump is on (mention recommended temp)
-3. Open the cover. Mention the different parts, laser head, mirrors, lid switch for laser cut off
-4. Mention what the lid switch does and how it can be useful but make sure it is not tampered with
-5. Also mention the pneumatic arm will just hold it open but won't soft close.
-6. Move on to raising and lowering the bed and why it's needed
-7. Talk about the menu but might be best to show it off when you start sending jobs to it
-8. Mention the materials we supply and what materials are allowed. Also mention off cuts
-9. Talk about the log book and money box. Mention the credit recording at the back of the book
-10. Mention why it's worth recording the time even if you don't care about how much money you pay. Some people didn't get it until I had to spell out we want to know how long the laser has ran for, not what you paid for it
-11. Talk about test cutting and why it's important. Also show the existing cut guides to help visualise cutting techniques.
-12. Move to the computer. Prep a job (make it as small as possible) and send it to the laser cutter to show how visicut works
-13. Mention the different profile options in visicut and how you can manually tweak the settings
-14. On the laser cutter, after the job is sent, talk about the menu options like boundary
-15. Talk about emergency stop especially short press vs. long press
+2. Make sure the coolant pump is on (mention recommended temp [25 or below] and it should come on automatically if the laser cutter is on)
+3. Talk about the emergency stop, water, fire extinguisher, fire alarm and when you should use them
+4. Open the cover. Mention the different parts, laser head, mirrors, lid switch for laser cut off (don't tamper with safety features)
+5. Autolevelling and manually moving the bed with bluey (note the limit switch and how a material should be placed for it)
+6. Talk about the menu and briefly mention what the buttons do but go into detail when demoing a cut. They don’t need to go into settings
+7. Pop open the bottom panel and show they can clean it out
+8. Mention the materials we supply and what materials are allowed
+9. Talk about the blue log book and money box. Mention the credit recording at the back of the book
+10. Mention why it's worth recording the time even if you don't care about how much money you pay
+11. Point out the offcuts pile
+
+### Demo Steps
+
+11. Move to the computer. Prep a job (make it as small as possible) and send it to the laser cutter to show how lightburn works
+12. Show making a simple vector image with engraving and cutting a shape. Normally a shape with a cut, mark and engrave
+13. Power settings for these are in the cover of bluey notebook
+14. Mention the different options in lightburn and how you can manually tweak the settings
+    1. [Origin - how to set it](https://docs.lightburnsoftware.com/CoordinatesOrigin.html)
+    2. Difference between run and send (just use send for now)
+    3. Line and Fill (offset fill is spiral outwards from middle)
+15. On the laser cutter, after the job is sent, talk about the checks you want to do before the cut
+    1. Position material and focus head
+    2. Set origin
+    3. Frame test
 16. Cut your piece
-17. Show the interupt working by opening the cover, they can use this to quick stop the laser
-18. Show the emergency stop button working
-19. Get them to do the same. Keep it simple though, this is an induction
-20. In between jobs I turn off the chiller so they make sure to remember to turn it on
-21. You have some time while the laser cutter is running to talk about relevant scenarios: so mention if there is a fire what to do, how to emergency stop if the menu crashes, how to report issues with the laser and what issues to look out for.
-22. Also remind them to time the cut
-    
-Things to mention but not important
-1. The key does nothing
-2. No need to turn the laser cutter off (but make sure the chiller is turned off)
-3. Help them setup/use visicut on their own machine if willing    
-    
-### Risk Assessment
-[Laser Cutter Risk Assessment](https://docs.google.com/document/d/1lllSKpsBu2iK7Go8yagxja4cmtHXv9eduVnCUz_MOnI/edit?usp=sharing)
+17. Get them to do the same. I normally get them to draw a shape with a cut, mark and engrave.
+18. You have some time while the laser cutter is running to talk about relevant scenarios:
+    1. Mention again what to do in a fire
+    2. when to use emergency stop
+    3. how to report issues with the laser and what issues to look out for
+19. Also remind them to record the time of the cut using the laser cutter display
+20. Stop the laser with the stop button after a few minutes to allow chiller to run
+
+**Advanced Steps (optional)**
+
+21. Change the speed of the laser cutter to move the head around more slowly
+22. Change the speed and power while the job is running. Pause the job and adjust settings
+23. Minimum power settings
+24. Engraving a jpeg image
+25. Offset fill 
+
+## Operating the laser cutter
+
+### Control Panel
+
+![control panel for a laser cutter](images/bluey_control_panel.jpg)
+
+* Green - starts whatever job is loaded last or pauses the cut
+* Z - raise or lower the bed
+* U - rotate the rotary unit (not used)
+* Pulse - fires short pulse that can be configured, normally used for alignment
+* Focus - Auto level the bed to focus on material (WARNING- make sure your material will touch the push sensor behind the lens)
+* Power / Speed - adjust before or during a job
+* Origin - Set starting point for job
+* Home - sets head back to 0,0
+* Reset - restarts controller and zeros temporary values i.e. z height
+* Square/Sine wave - sets movement mode continuous or sections (section length needs to be set)
+
+[Video on the features of the ruida controller](https://www.youtube.com/watch?v=l9nPmHXbX1I) 
+
+## Using Lightburn for laser cutting
+
+The PC next to the laser cutter has lightburn installed and it is already licensed.
+
+You can download lightburn from [https://lightburnsoftware.com/pages/download-trial](https://lightburnsoftware.com/pages/download-trial). 
+
+You will need the profile for bluey which is [available here](config/Bluey.lbdev). The profile can be imported through the devices section in the bottom right.
+
+If you want to buy lightburn [this is the license you need](https://lightburnsoftware.com/products/lightburn-dsp) for Bluey.
+
+Hacman have negotiated a discount that gives you 75% off (but if you are using the software with any other laser cutter consider buying a full licence). The code is given on the member page after you’ve passed training.
+
+Note: We do not support RDWorks but that can be an option to use.
+
+### Lightburn
+
+Lightburn is the software that converts vector files into the code that drives the laser cutter.
+
+It has a [great guide here](https://docs.lightburnsoftware.com/index.html) well worth a read, if you want use the laser cutter for advanced techniques.
+
+After you install the software, there is a help screen and then it will invite you to setup a device. [Import Bluey’s config from here](config/Bluey.lbdev). 
+
+![device setup screen in lightburn](images/lightburn_layout.png)
+
+Buttons
+
+* Square Frame moves the laser to show a rectangle boundary around the shape(s)
+* Circle Frame moves the laser to draw the actual outlines of shape(s)
+* Send will send the file to the laser cutter to store in memory
+* Start will start the job without storing the file on the laser cutter
+* Pause you can pause a job while running (TBC)
+* Stop will stop the job and reset the laser head (TBC)
+* Save RD File
+* Run RD File
+* Home
+* Origin
+* Optimise Cut Path 
+
+![screen showing controls for a lasercutter in lightburn](images/lightburn_controls.png)
+
+### Laser operations in lightburn
+
+Layers and Ordering
+
+![Layers in lightburn](<images/layers.png>)
+
+Engrave vs Cut
+
+![Line and engrave selection](<images/cut_selection.png>)
+
+output, show, adjust speed and power
+
+![Cut options](<images/cut_options.png>)
+
+**Origin settings**
+
+![Origin settings](<images/origin_settings.png>)
+
+* Absolute - cut the shape as it is in lightburn
+* User position - uses origin set by laser cutter and displays that in lightburn as a green box
+* Current position - like user position but uses whatever position the laser is in at the moment i.e. not the origin set by the laser cutter
+
+### Positioning the part
+
+Focus button for auto levelling or manually level bed with Z buttons.
+
+Set the origin point using the laser cutter control panel (if needed)
+
+* For cutting materials up to 6mm it's best to have the z height set to bed level.
+* For cutting materials over 6mm, try to keep the z height 6mm into the material. Multiple passes may be needed.
+* For engraving set the focal point to the height of the material by placing the guide on top of it.
+* If you want crisp engraving on thick stock, you will need to do a 2-stage engrave / cut with the focal point initially set to the top of your material, and then re-set to the correct height for your cut.
+* If your material has a protective cover, try to leave the cover on both sides of the material, or if only one side the bottom (not the top)
+
+![laser bed](images/laser_bed.jpg)
+
+### Test the Laser positioning
+
+Next we're going to do a boundary test to make sure the laser cutter is working on the area we think it's going to:
+
+* Send the job from lightburn or use the frame buttons in lightburn
+* Press frame on the laser cutter
+* This can be done with the lid open to assist in placing your part, however please keep your hands/hair/ties out of the way of the moving parts.
+
+### Do the cut
+
+At this stage you should now be ready to do the cut for real.
+
+* Send the job to the laser cutter
+* Make sure the lid is closed, The laser won't fire with it open.
+* Check the coolant pump is still working and the temperature is below 25.
+* On the screen select the job and hit start
+* Keep watching the laser while it cuts to check nothing goes wrong (e.g. fires)
+* Check the extraction fan is working (you can tell either by the noise it makes, or by vibration of the exhaust hose).
+* Make a note of the time at the end of the job in the log book
+* Turn off laser cutter after 5 minutes
+
+![List of files](images/file_list.jpg)
+
+### Logging and payment
+
+* There is a blue log book for keeping track of usage of the laser. Please write down your name and the length of time you've used the laser for in the front of the book.
+* The laser is currently billed by 10 minute or 1 hour increments, with the rate written on the laser cutter.
+* Laser fees can be paid in cash into a box near the laser, using the payment terminal in the snackspace or from your member balance at[ the members' system laser page](https://members.hacman.org.uk/equipment/laser).
+* If you owe the laser fund money or have some credit (e.g. have paid with a £10 note and only used £3) record your balance at the back of the log book.
+
+(insert picture of time elapsed screen and blue book)
+
+### Things to not worry about
+
+* Pulse
+* U+ or U-
+* General settings
+
+# Laser details
+
+Our laser is the [hl-1060](https://hl-yeah.com/product/hl-1060-100w-co2-laser-cutting-machine-reci-w2-laser-engraving-machine/)
+
+Top-level specifications:
+
+    950mm x 580mm usable area (but bed is bigger)
+    90W rated (100W Peak) Power
+    Cutting speeds up to 50mm/s
+    Engraving speeds up to 400mm/s
+    Resolution ratio >=1000dpi
+    Awesome Extraction
+    Air Assist
+    Red-dot laser for bounds checking
+    Smart cooling
+    Rise-and-fall bed, Super useful for engraving stuff on stuff

@@ -88,7 +88,6 @@ plugins:
         'Workshop_Areas/Metalwork/Equipment/Polisher.md': 'equipment/metalwork/equipment/polisher.md'
         'Workshop_Areas/Metalwork/Howtos/Electrolysis_Derust.md': 'equipment/metalwork/how_tos/electrolysis_derust.md'
         'Workshop_Areas/Visual_Arts/Equipment/Heat_Press.md': 'equipment/visual_arts/equipment/heat_press.md'
-        'Workshop_Areas/Visual_Arts/Equipment/Laser_Cutter_Bluey.md': 'equipment/visual_arts/equipment/laser_cutter_bluey.md'
         'Workshop_Areas/Visual_Arts/Equipment/Laser_Cutter.md': 'equipment/visual_arts/equipment/laser_cutter.md'
         'Workshop_Areas/Visual_Arts/Equipment/Sewing_Machines.md': 'equipment/visual_arts/equipment/sewing_machines.md'
         'Workshop_Areas/Visual_Arts/Equipment/Vacuum_Former.md': 'equipment/visual_arts/equipment/vacuum_former.md'

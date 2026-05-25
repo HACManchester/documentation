@@ -42,19 +42,11 @@ into other repositories to reduce the numbers
     https://github.com/HACManchester/Apps.Cad  
     A Lot of info for this one, migrate it across to Tools.CNC.Metal.Dethklok for milling pcbs
 
-  * https://github.com/HACManchester/visicut-settings  
-    Since we haven't moved the orange laser to a new control board yet, maybe keep this for now
-    Move it to a Tools.OrangeLaser repo
-
   * https://github.com/HACManchester/pcb-gcode-settings  
     Move this to the 3020 CNC repo
 
   * https://github.com/HACManchester/Tools.Shapeoko2  
     TODO Move anything useful here into the Tools.OxCNC repo
-
-  * https://github.com/HACManchester/LaserCutter  
-    This has the designs for the wooden base for the laser cutter  
-    move this to the Tools.OrangeLaser repo
 
   * https://github.com/HACManchester/cura-settings  
     https://github.com/HACManchester/slic3r-profile  

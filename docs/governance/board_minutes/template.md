@@ -10,7 +10,6 @@ People who attended:
 - Joseph Christian - Chair
 - Jordon Colclough
 - John Deptford
-- Rob Jackson
 
 ## Agenda Items
 

@@ -55,23 +55,16 @@ The member who authored the proposal should keep a tally of member & board membe
 
 ## Proposal bands
 Purchase proposals are grouped by price, with each band having a different number of independent supporting members/board members to be approved.
-* Micro Proposal <=£100 - 2 general members and 1 board member
-* Small Proposal £100< and <= £250 - 5 general members and 2 board members
-* Medium Proposal £250< and <= £750 - 10 general members and strict majority of board members
-* Large Proposal > £750 - See below
+| Proposal Band   | Price                | General Members Needed | Management Team Needed |
+| :-------------- | :------------------- | :--------------------- | :------------------- |
+| Micro Proposal  |  <=£150              | 2                      | 1                    |
+| Small Proposal  |  > £150 <= £350      | 5                      | 2                    |
+| Medium Proposal |  > £350 <= £1000     | 10                     | Strict majority      |
+| Large Proposal  |  > £1000             | See below              | See below            |
+
 
 ### Large Proposals
-Large purchase proposals represent a significant investment for the Hackspace, and must be taken to the next members meeting for discussion and an in-person vote for approval.
-
-We aim to hold at least 4 members meetings per year (including our Annual General Meeting), and the agenda for each members meeting is locked 7 days before the date of the meeting. If a large purchase proposal is after the meeting’s agenda has been locked, it will be added to the agenda of the following meeting instead.
-
-Large proposals are more likely to benefit from pre-proposal discussion threads, as a failed proposal will have to wait roughly 3 months before any amendments can be voted on again.
-
-The in-person votes for large purchase proposals work as per the voting rules in our articles of association, with the additional rule that 'A present member can only represent 3 proxy votes.'
-
-The default voting options for a large purchase proposal will be “Yes”, “No”, and “Abstain”.
-
-A large purchase proposal can include suggestions on alternate voting options, which the board of directors will consider during the board review step and coordinate with the author to agree appropriate voting options before proposal’s inclusion in the members meeting agenda. If this cannot be agreed in a timely fashion, the proposal may either be included in the upcoming members with the default voting options, or deferred to a later members meeting with more appropriate voting options.
+Large purchase proposals represent a significant investment for the Hackspace and need to be fully considered before purchase. Large proposals are more likely to benefit from pre-proposal discussion threads. A large purchase proposal requires board majority consent. The board may call for a members consultation to take place, which could include bringing the proposal to a members meeting.
 
 ## Purchase & delivery of an approved proposal
 A proposal is considered approved once a proposal has reached enough member & board member approval, as per the above proposal bands.

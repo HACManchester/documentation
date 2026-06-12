@@ -4,7 +4,7 @@ The pillar drill (also known as a drill press) is one of the most useful tools i
 
 This guide outlines safety principles of the drill and provides some tips.
 
-To use the drill, you will need to pass a short online quiz. Read the information here, then take the quiz [here](https://forms.gle/c1AuZR1VWcv9hUgd6) and follow the instructions to get access to the drill.
+To use the drill, you will need to pass a short online quiz. This can be found on the [tool page of the members portal](https://members.hacman.org.uk/equipment/pillar-drill) by clicking the *Request induction* button. Read the information here, then take the quiz and follow the instructions to get access to the drill.
 
 ## Checks before use
 Before you even turn the machine on, check your surroundings and the machine's state.

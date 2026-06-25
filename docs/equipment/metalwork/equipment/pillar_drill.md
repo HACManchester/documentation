@@ -10,9 +10,9 @@ To use the drill, you will need to pass a short online quiz. This can be found o
 Before you even turn the machine on, check your surroundings and the machine's state.
 
 ### Are you safe?
- - **Wear eye protection**. Drilling metal will create small metal chips (called swarf) that are thrown in all directions.
- - No loose clothing, jewellery or hair
- - **Tight fitting gloves** can protect your hands when handling sharp metal workpieces and swarf, but they can reduce sensitivity and become entangled in moving parts. Consider using gloves only when it is safe to do so.
+ - **Wear eye protection.** Drilling metal will create small metal chips (called swarf) that are thrown in all directions.
+ - **No gloves.** They can become entangled in moving parts.
+ - **No loose clothing/hair/jewellery.** This can also be an entanglement risk.
  - **Use hearing protection** if required. Usually, drilling metal does not produce loud noises.
 
 ### Is the machine safe?
@@ -73,7 +73,8 @@ Then you must re-tighten the belt by moving the motor backwards. In most cases, 
 -  **Mark your spot:** Use a center punch to create a small indent in the metal. This prevents the drill bit from "wandering."
 - **Start small:** For large holes, drill a smaller "pilot hole" first. 6mm is a good starting size, then work up in 3mm increments. Our drill is not designed for holes larger than about 13mm.
 - **The "peck" method:** Apply steady pressure, but frequently lift the bit slightly to break up long, sharp metal shavings (swarf).
-- **Coolant:** If drilling steel, use a drop of cutting oil (blue can) to keep the bit cool and prolong its life. For aluminium, isopropyl alcohol can help.
+- **Coolant:** If drilling steel, use a drop of cutting oil (blue can) to keep the bit cool and prolong its life. For aluminium, isopropyl alcohol can help. These fluids can cause skin reactions, so you can protect your hands with nitrile gloves when applying, but remove them when actually operating the drill.
+- **Watch out for hot parts:** Drill bits and workpieces can get hot. Be careful when handling and use tools (e.g. pliers) if required.
 
 ## Emergency procedures
 - **Snagging:** Metal drill bits frequently “grab” the work. This is especially common when breaking through sheet metal, so clamping work down is mandatory 100% of the time.   

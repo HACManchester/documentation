@@ -44,6 +44,7 @@ Never hold the workpiece with your hands. Use the supplied drill vices, toggle c
  > **Clamping work is not a suggestion – it is mandatory.** Drills frequently “grab” onto metal, especially when breaking through thin sheet. If work it not clamped when a drill grabs, the piece will spin out of your hand, becoming a dangerous, sharp, fast-moving hazard that can badly injure you.
 
 ### Depth stop
+![](images/pillar_drill_depth_stop.jpg)
 To set a depth stop, loosen the bolt, slide the ring around to your desired depth, and tighten the bolt back. Our drill is quite old, so this is marked in inches.
 
 ### Speed (RPM)

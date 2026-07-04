@@ -24,12 +24,9 @@ Under no circumstances shoud the machine be used to cut or bend metal rods, bar,
 
  You should also wear close-toed, sturdy shoes.
 
- ## Explainer video
-(click thumbnail to open video in YouTube)
+## Explainer video
 
-[![How to use the 3-in-1 sheet metal tool
-](https://img.youtube.com/vi/vy0tWdF98l8/0.jpg)](https://www.youtube.com/watch?v=vy0tWdF98l8)
-
+![type:video](https://www.youtube.com/embed/vy0tWdF98l8)
 
 0:00 - Intro  
 0:27 - Safety  

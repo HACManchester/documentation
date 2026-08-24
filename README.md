@@ -51,6 +51,8 @@ You can set up a dev environment and run a mkdocs development server using:
 ```sh
 pip install tox
 tox serve
+# or if tox is not recognised on the path
+python -m tox -- serve
 ```
 
 ### Contributing

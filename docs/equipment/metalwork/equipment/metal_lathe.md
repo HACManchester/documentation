@@ -31,11 +31,11 @@ Inductions take place on the Myford. Once inducted, you may use any of the lathe
 
 The induction has 3 elements:
  
-1. Reading and watching the information on [this page](../Inductions/metal_lathe_induction) (about 1.5h).
+1. Reading and watching the information on [this page](../../metalwork/Inductions/metal_lathe_induction.md) (about 1.5h).
 2. A brief online quiz to test your knowledge (about 15 minutes)
 3. An in-person training session where you will get to use the lathe and make a simple part (about 2h)
 
-[To begin, click "Request induction" on this page](https://members.hacman.org.uk/equipment/metal-lathe-1)
+[To begin, click "Request induction" on this page.](https://members.hacman.org.uk/equipment/metal-lathe-1) Note this only works for members of Hacksapce Manchester.
 
 ## Manuals
 
@@ -52,12 +52,13 @@ The induction has 3 elements:
 [Metal lathe risk assessment](https://docs.google.com/document/d/1Ckn6wt5Kt5GExF2brg1Ixn9H61BRuLUSmT6GqF7LXkM/edit?usp=drive_link)
 
 ## Beginner projects and other resources
-![type:video](https://youtu.be/-dyO4PEkEkc?si=agKwzMjqkEfVXw8f)
 
-![type:video](https://youtu.be/t9NGty1CVII?si=Z0B2uT11G3mrEX6l)
+![type:video](https://www.youtube.com/embed/t9NGty1CVII)
 
-![type:video](https://youtu.be/aeWsanIDxr4?si=qgz9NFa4938mQTHz)
+![type:video](<https://www.youtube.com/embed/-dyO4PEkEkc)
 
-![type:video](https://youtu.be/UvCB3_KtSz0?si=npQvrs6Brt75Yklk)
+![type:video](https://www.youtube.com/embed/aeWsanIDxr4)
 
-The latter two videos are from YouTuber Blondihacks, who has an [excellent playlist on lathe skills](https://www.youtube.com/watch?v=H6Dnmd3lDzA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN). If you watch this entire playlist and practice the skills, you'll become a very capable machinist.
+![type:video](https://www.youtube.com/embed/UvCB3_KtSz0)
+
+The first two videos are from YouTuber Blondihacks, who has an [excellent playlist on lathe skills](https://www.youtube.com/watch?v=H6Dnmd3lDzA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN). If you watch this entire playlist and practice the skills, you'll become a very capable machinist.

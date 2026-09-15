@@ -1,144 +1,63 @@
 # Metal Lathe
 
-We have three metal lathes at the Hackspace
-- Myford ML7
-- Warco 220
-- Atlas Halifax
+We have two main metal lathes at the Hackspace
 
-## Ownership
+![](images/myford_plain.jpg)
+Myford ML7
 
-The Warco 220 currently belongs to Michael / MuteDuck
-
-The Myford ML 7 is on loan on a (hopefully) permanent basis from Steve.
-As such, treat the machine with respect and do not abuse/mistreat it.
-
-The Atlas Halifax lathe is currently in the middle of being reninvated / converted to a cnc lathe.
-It belongs to Richard / Garlicbread
+![](images/warco.jpg)
+Warco 220
 
 ## About
 
 The Myford ML 7 lathe was manufactured in the 1940's as a light
 machining and model lathe. The lathe has the space to take a roughly 5"
-diameter by 20" length piece of work (*double check actual sizes*).
+diameter by 20" length piece of work.
 
-This machine is ONLY for metalwork, and should only be used by people
-who have been trained.
+This machine is ONLY for metalwork, and should only be used by people who have been trained.
 
-The Atlas Halifax - http://www.lathes.co.uk/atlas/page9.html
+## Lubrication (Myford)
+- When first starting to use the lathe, the oil containers on top need to have the levers on the top put in the upright position to let the oil start to flow. These need to be closed off after you have finished using the lathe by placing them in the laying-down position.
 
-## Usage
+![](images/oilers.png)
 
-  - When first starting to use the lathe, the oil containers on top need
-    to be turned a quarter turn to undo them to let the oil start to
-    flow. These need to be closed off after you have finished using the
-    lathe
-  - There are 13 points that need to be oiled (16 on the diagram), place
-    the can with a black tip of the metal bottle onto each point with a
-    single squeeze to force oil into these points
+- There are 13 points that should be oiled as required. Most of these have red plastic caps on. Use single pump from the silver oil pump gun to force oil into these points. This is shown during inductions.
 
-## Trained users
-
-Only the following people have been trained to use the metal lathes. Nobody else may use them. If you think your name should be on this list, please contact the metalworking team via Telegram.
-
- - Greg Morris
- - Richard Westwell
- - Alex Bennett
- - Stephen Procter
- - Michael Hindley
- - Jason Mosely
- - Ellen Pearce
- - Paul Plowman
- - Jamie Helsby
- - Adam Paigge
- - Adam Fraser
- - Wayne Smith
- - Bob Clough
- - Jason France
- - Mark Concannon
-
-## Lathe Tour
-
-A Brief outline of the different part names of a Lathe, and what they
-are (generally) used for.
-
-*needs more info*
-
-
-## Safety Precautions
-
-Please follow these safety precautions when using this machine, and
-again, **DO NOT operate this machine if you have not been trained, or do
-not feel confident with it**.
-
--   **Always ensure someone else is in the space when using the lathe**
--   **Always wear Eye Protection**
-    -   Swarf can be very sharp, and the last place you want it is in
-        your eye.
--   **Do not wear loose fitting clothes, especially anything with long
-    loose sleeves. Short sleeve shirts/t-shirts are recommended.**
-    -   Even though this is a small Lathe, this machine still has enough
-        power to break you.
--   **Do not wear jewellery which could get caught in the machine. This
-    includes bracelets, necklaces, watches etc.**
--   **Tie back long hair to keep it away from the work**
--   **NEVER LEAVE THE CHUCK KEY IN THE CHUCK**
-    -   The chuck key has a home on the little metal plinth in front of
-        the gear housing. Get in the habit of the chuck key being there
-        when not in use.
--   **Keep fingers clear of a moving chuck and workpiece**
--   **Never reach over a moving chuck**
--   **Make sure that the work piece will not foul on any part of the
-    lathe when turned on - always spin the chuck by hand before starting
-    the machine**
-
-There will probably be more to come over time, but these are some main
-ones. Obviously, do not be an idiot, and think about what you are doing
-first.
-
-<figure>
-<img src="Myford_ml7_lathe_oiling_diagram.jpg" title="Myford_ml7_lathe_oiling_diagram.jpg" width="250" alt="Myford_ml7_lathe_oiling_diagram.jpg" /><figcaption aria-hidden="true">Myford_ml7_lathe_oiling_diagram.jpg</figcaption>
-</figure>
-
-
-## Maintanance
-
-  - Ensure the oilers are kept topped up, and opened when the lathe is
-    in use
-  - Oil all oiling points regularly - see the diagram on the right.
-
+- Lubricate the slideways if necessary using the green can.
 
 ## Induction
 
-Inductions are now available - please ask in the Weldy Grindy Telegram group or contact Mike Hindley via Telegram to arrange.
+Inductions take place on the Myford. Once inducted, you may use any of the lathes.
 
-During this training session, trainees will be able to make a small decorative ring in brass and learn the following skills:
+The induction has 3 elements:
+ 
+1. Reading and watching the information on [this page](../Inductions/metal_lathe_induction) (about 1.5h).
+2. A brief online quiz to test your knowledge (about 15 minutes)
+3. An in-person training session where you will get to use the lathe and make a simple part (about 2h)
 
--   Health and safety
--   Using the 3-jaw chuck
--   Facing and turning to diameter
--   Drilling
--   Boring
--   Grooving and parting off
+[To begin, click "Request induction" on this page](https://members.hacman.org.uk/equipment/metal-lathe-1)
 
-Other skills will be taught upon request - this can either be on
-material supplied by the trainee (a project, for example), or the
-material can be supplied by the space for a small fee.
-
-
-## Manual
+## Manuals
 
 ### Myford ML7
 
-[Myford ML7 Manual](../../../instruction_manuals/metal_lathe_ml7.pdf)
-Purely the basic factory manual.
+[Myford ML7 manual](../../../instruction_manuals/metal_lathe_ml7.pdf) – purely the basic factory manual.
 
 ### Warco 220
 
-[Warco 220 Manual](../../../instruction_manuals/Warco-Lathe-220.pdf)
+[Warco 220 manual](../../../instruction_manuals/Warco-Lathe-220.pdf)
 
 ## Risk Assessment
 
-[Metal Lathe Risk Assessment](https://docs.google.com/document/d/1sL7dRjBeEd598XGXlioWClssJAlI1N-WiVfwOxGq438/edit?usp=sharing)
+[Metal lathe risk assessment](https://docs.google.com/document/d/1Ckn6wt5Kt5GExF2brg1Ixn9H61BRuLUSmT6GqF7LXkM/edit?usp=drive_link)
 
-[Category:Equipment](Category:Equipment "wikilink")
-[Category:Bloody_dangerous_equipment](Category:Bloody_dangerous_equipment "wikilink")
+## Beginner projects and other resources
+![type:video](https://youtu.be/-dyO4PEkEkc?si=agKwzMjqkEfVXw8f)
+
+![type:video](https://youtu.be/t9NGty1CVII?si=Z0B2uT11G3mrEX6l)
+
+![type:video](https://youtu.be/aeWsanIDxr4?si=qgz9NFa4938mQTHz)
+
+![type:video](https://youtu.be/UvCB3_KtSz0?si=npQvrs6Brt75Yklk)
+
+The latter two videos are from YouTuber Blondihacks, who has an [excellent playlist on lathe skills](https://www.youtube.com/watch?v=H6Dnmd3lDzA&list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN). If you watch this entire playlist and practice the skills, you'll become a very capable machinist.

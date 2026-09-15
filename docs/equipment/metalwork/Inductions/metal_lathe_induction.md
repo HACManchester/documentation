@@ -1,4 +1,4 @@
-# Metal lathe training
+# Metal lathe – info for trainees
 Welcome to the HacMan lathe training course.
  
 You will learn to use the lathe in a manner that is safe to you, other people, and the machine.
@@ -14,7 +14,7 @@ The course has 3 elements:
 ## Let’s go
 To start, please watch this seven-minute video introducing you to the lathe and lathe safety.
 
-![type:video](https://www.youtube.com/watch?v=H6Dnmd3lDzA)
+![type:video](https://www.youtube.com/embed/H6Dnmd3lDzA)
 
 ## Clothing and PPE when using the lathes in the space
 * Safety glasses are mandatory.
@@ -114,17 +114,17 @@ Whilst they are HSS, please don't let them get too hot – occasionally cool the
 ## Basic operations
 Now we've got a good understanding of safety and how a lathe works, let's look at some basic operations. These short videos explain the concepts very well. Please watch them all.
  
-![type:video](https://www.youtube.com/watch?v=r9AqbENiLOQ)
-Facing (cutting across the end of a workpiece – 07:22)
+![type:video](https://www.youtube.com/embed/r9AqbENiLOQ)
+*Facing (cutting across the end of a workpiece – 07:22)*
 
-![type:video](https://www.youtube.com/watch?v=1IsG8vIXA8k)
-Turning (cutting along the length of a workpiece – 08:03)
+![type:video](<https://www.youtube.com/embed/1IsG8vIXA8k)
+*Turning (cutting along the length of a workpiece – 08:03)*
 
-![type:video](https://www.youtube.com/watch?v=IHquZSsM_k0)
-Drilling (making holes in the centre of a workpiece – 11:32)
+![type:video](https://www.youtube.com/embed/IHquZSsM_k0)
+*Drilling (making holes in the centre of a workpiece – 11:32)*
 
-![type:video](https://www.youtube.com/watch?v=PeHmee4tvYc)
-Parting (cutting your part off the main workpiece once it's done – 30:57)
+![type:video](https://www.youtube.com/embed/PeHmee4tvYc)
+*Parting (cutting your part off the main workpiece once it's done – 30:57)*
 
 This final video is quite long and involved. You don't need to know all the detail about parting tools and their setup in the first 16:26 minutes, but watching it won't hurt.
  

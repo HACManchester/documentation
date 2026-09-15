@@ -1,4 +1,4 @@
-# Lathe trainer’s manual
+# Lathe trainer’s guide
 A step-by-step guide to lathe inductions
 
 ## Can trainees fail this course?

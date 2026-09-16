@@ -117,7 +117,7 @@ Now we've got a good understanding of safety and how a lathe works, let's look a
 ![type:video](https://www.youtube.com/embed/r9AqbENiLOQ)
 *Facing (cutting across the end of a workpiece – 07:22)*
 
-![type:video](<https://www.youtube.com/embed/1IsG8vIXA8k)
+![type:video](https://www.youtube.com/embed/1IsG8vIXA8k)
 *Turning (cutting along the length of a workpiece – 08:03)*
 
 ![type:video](https://www.youtube.com/embed/IHquZSsM_k0)

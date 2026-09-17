@@ -55,7 +55,7 @@ The induction has 3 elements:
 
 ![type:video](https://www.youtube.com/embed/t9NGty1CVII)
 
-![type:video](<https://www.youtube.com/embed/-dyO4PEkEkc)
+![type:video](https://www.youtube.com/embed/-dyO4PEkEkc)
 
 ![type:video](https://www.youtube.com/embed/aeWsanIDxr4)
 

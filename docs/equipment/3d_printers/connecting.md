@@ -7,7 +7,7 @@ The information on this page is intended for inducted HacMan members who want to
 | Printer | IP address | PrusaLink key |
 |---|---|---|
 | Kim | `172.16.0.123` | `dmAPJnhhJ37VXBV` |
-| Romanov | `172.16.0.124` | `JZXE4a9SUKAKWEw` |
+| Romanov | `172.16.0.124` | `TKrGNbjAsFUBUTf` |
 
 ### Add a physical printer to PrusaSlicer
 
@@ -35,7 +35,7 @@ This can be used to upload correctly prepared G-code without configuring PrusaSl
 
 | Name | IP address | Current access code |
 |---|---|---|
-| Delilah | `172.16.0.201` | `36375270` |
+| Delilah | `172.16.0.201` | `32943394` |
 
 The access code can change. If the stored code does not work, read the current code from the printer using the instructions below and let the maintainers know that the published code needs updating.
 

@@ -12,26 +12,26 @@ Trainees can be considered “trained” if they show a good understanding of th
 **Use your judgment.** If you do not feel that the trainee you are inducting can work independently, ask that they come for a second session at a later date.
 
 ## 1. Clothing and PPE
-1. What PPE is necessary to use the lathe?
- - Eye protection
- - Closed-toe shoes
+1. Ask the trainee what PPE is necessary to use the lathe. Discuss if they have any questions.
+   - Eye protection
+   - Closed-toe shoes
  
-2. What other safety precautions should be taken regarding personal safety and  clothing?
- - No long hair/ loose clothing
- - No gloves
- - Jewellery off
+2. Ask them what other safety precautions should be taken regarding personal safety and clothing Discuss if necessary.
+   - No long hair/ loose clothing
+   - No gloves
+   - Jewellery off
  
 If the trainee is struggling, indicate that all this information is printed above the lathe itself!
 
 3. Discuss any further questions the trainee has about clothing and PPE.
 
 ## 2. General safety
-1. Why are the following rules are in place?
+1. Ask the trainee why the following rules are in place. Discuss if necessary.
 
- - NO lone working
- - NEVER leave chuck key in chuck
- - Never operate the lathe under the influence of alcohol, drugs, or fatigue
- - If using a file, the file must have a proper handle fitted
+   - NO lone working
+   - NEVER leave chuck key in chuck
+   - Never operate the lathe under the influence of alcohol, drugs, or fatigue
+   - If using a file, the file must have a proper handle fitted
 
 2. Discuss any further questions the trainee has about the “FOR YOUR SAFETY” poster above the lathe. Explain why these measures are in place – some are obvious, others less so to a beginner.
  
@@ -56,29 +56,29 @@ If the trainee is struggling, indicate that all this information is printed abov
 2. Mention the concept of overhang/stickout (max 3x work diameter) and how tail support works, but you don't need to show this necessarily.
 
 3. Show them how to change a chuck
- - Place protective wood on bed of lathe
- - Open belt guard
- - Use special 3D-printed spanner to lock gear
- - Insert chuck key in chuck
- - Pull chuck key towards you and unscrew chuck
- - Inspect spindle threads for swarf, debris
- - Replace with 3-jaw again and put some plastic or aluminium stock in the chuck (you'll need it for the next steps)
+   - Place protective wood on bed of lathe
+   - Open belt guard
+   - Use special 3D-printed spanner to lock gear
+   - Insert chuck key in chuck
+   - Pull chuck key towards you and unscrew chuck
+   - Inspect spindle threads for swarf, debris
+   - Replace with 3-jaw again and put some plastic or aluminium stock in the chuck (you'll need it for the next steps)
  
 4. Explain to the trainee how to change the chuck jaws around and that they must be put back in a certain order. 3, 2, 1 to remove, 1, 2, 3 to put back. You don't need to demonstarte this as it can be time-consuming.
  
 5. Briefly explain how other workholding methods work, but there is no need to demonstrate:
- - Faceplate
- - Turning between centres
- - Collet chucks
+   - Faceplate
+   - Turning between centres
+   - Collet chucks
 
 Make sure the trainee understands that they will have to research the best work holding method for their chosen project.
 
 6. Remind them that the manuals live with the lathes and can/should be consulted.
  
 7. Reinforce the following with the trainee:
- - Use the protective wood and DO NOT drop chucks. Treat them very carefully.
- - DO NOT run the lathe backwards when using the screw-on chucks or faceplate as they could unscrew during use. Explain the physics of this so the trainee understands *why* it happens.
- - Hold the work securely within the jaws, don't hold the very tip of the workpiece so that the jaws "pinch" inside the chuck
+   - Use the protective wood and DO NOT drop chucks. Treat them very carefully.
+   - DO NOT run the lathe backwards when using the screw-on chucks or faceplate as they could unscrew during use. Explain the physics of this so the trainee understands *why* it happens.
+   - Hold the work securely within the jaws, don't hold the very tip of the workpiece so that the jaws "pinch" inside the chuck
 
 ## 5. Tooling
 1. Show the trainee the HSS and carbide tools and explain how to change/rotate a carbide insert.
@@ -165,4 +165,6 @@ If using carbide in the Myford, use the fastest speed at all times, unless parti
 - Tell them that they are used to set carriage feed rate and/or thread pitch
 - Invite trainees to research the topic for themselves as it can be quite complex
 
+## 10. Sign-off form
+Print off [this form](https://docs.google.com/document/d/19uGD_Li8aognww_h2Bk_LTlxgziqoI6NxoB1wTUqxl4/edit?usp=sharing). Both you and the trainee should sign it. Then file it in the metal cabinet in the metalwork drawer.
 

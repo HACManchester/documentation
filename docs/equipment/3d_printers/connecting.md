@@ -35,7 +35,7 @@ This can be used to upload correctly prepared G-code without configuring PrusaSl
 
 | Name | IP address | Current access code |
 |---|---|---|
-| Delilah | `172.16.0.201` | `32943394` |
+| Delilah | `172.16.0.201` | `21848185` |
 
 The access code can change. If the stored code does not work, read the current code from the printer using the instructions below and let the maintainers know that the published code needs updating.
 
@@ -73,8 +73,8 @@ Include the printer's name and explain which detail appears to have changed. Do 
 
 | Printer | IP address | Access code |
 |---|---|---|
-| Artemis | `172.16.0.15` | `7afd1f56` |
-| Constantine | `172.16.0.115` | `7494b598` |
+| Artemis | `172.16.0.15` | `265f2109` |
+| Constantine | `172.16.0.115` | `7cf07571` |
 
 ## Credential changes
 

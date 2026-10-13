@@ -13,6 +13,48 @@ you can get a side by site markdown preview window by typing "preview" into the 
 As well as a couple of tasks for serving with livereload
 
 
+## Virtual Python Environment
+
+If you want to test out / see what the site looks like while editing
+You can setup a virtual python enviroment to get everything working
+
+```sh
+# First to Create a python virtual env
+python -m venv .venv
+
+# To acitvate the environment via powershell (Windows)
+.\.venv\Scripts\Activate.ps1
+
+# To acitvate the environment via Linux
+source .venv/bin/activate
+
+# To install all the requirements into the virtual env
+pip install -r requirements.txt
+
+# To serve the site locally on 127.0.0.1:8000
+python build.py serve
+
+# Leave the python virtual environment when finished
+deactivate
+```
+
+### Manual Build
+
+The above steps include calling a script called **build.py**  
+Typically the actual live build makes use of tox, but this script is just handy for perfoming manual builds or serving with cleanup
+
+To have the site built locally and visible on [http://127.0.0.1:8000] on your own machine
+You can ether run
+
+  * build.py serve
+  * mkdocs serve --livereload
+
+### Github Actions Build
+
+The live build is normally performed automatically.  
+This is handled via github action scripts under `.github/workflows`  
+This is typically automatic as soon as a new commit is pushed
+
 ## Plugins
 
 The plugins in use include
@@ -26,25 +68,6 @@ There is a full list of plugins here
 
   * [Mkdocs Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
 
-## Build System
-
-For most folks they only want to add pages or images via Github so are not interested in how the main page is built.
-However for those interested the documentation pages are built into a site using mkdocs and the mkdocs material theme using a ci script
-[.github/workflows/ci.yml](.github/workflows/ci.yml)
-
-This is typically automatic as soon as a new commit is pushed
-
-### Manual Build
-
-If you want to experiment manually building the documentation for experimenting with plugins etc.
-There's a script in the root directory called **build.py** which can be used with python 3.8 / mkdocs / mkdocs material / any other plugins required.
-There's also a **virtenv** directory that can be used to setup a virtual python environment.
-
-To have the site built locally and visible on [http://127.0.0.1:8000] on your own machine
-You can ether run
-
-  * build.py serve
-  * mkdocs serve --livereload
 
 ## TODO
 

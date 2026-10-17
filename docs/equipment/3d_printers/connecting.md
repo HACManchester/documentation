@@ -7,7 +7,7 @@ The information on this page is intended for inducted HacMan members who want to
 | Printer | IP address | PrusaLink key |
 |---|---|---|
 | Kim | `172.16.0.123` | `dmAPJnhhJ37VXBV` |
-| Romanov | `172.16.0.124` | `TKrGNbjAsFUBUTf` |
+| Romanov | `172.16.0.124` | `xptZZwt7MdVHufn` |
 
 ### Add a physical printer to PrusaSlicer
 

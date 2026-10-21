@@ -1,6 +1,6 @@
 # Using the Bambu P1S and P2S
 
-General rules and preparation are covered in [Getting Started](getting_started.md). This page contains Bambu-specific operation. IP addresses and access codes are kept on [Connect Your Computer to the Printers](connecting.md).
+General rules and preparation are covered in [Getting Started](getting_started.md). This page contains Bambu-specific operation. For IP addresses and illustrated instructions to read the current access code from each printer, see [Connect Your Computer to the Printers](connecting.md).
 
 <figure markdown="1">
   ![HacMan Bambu P2S with AMS 2 Pro](images/fdm-bambu-p2s-ams-front.jpg)

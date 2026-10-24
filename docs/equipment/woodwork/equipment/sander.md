@@ -19,7 +19,7 @@
 #### Clarke - CS4-6E
 *~ Write description & features ~*
 
-As standard the space stocks replacement sanding belts and discs for this machine, listed on the consumables page.  Damaged and broken belts/discs should be reported to the Woodwork Team so that replacements can be acquired asap.  If members wish they can buy specific belts/discs for the machine using the following dimensions:
+As standard the space stocks replacement sanding belts and discs for this machine, as listed on the [consumables list](../../../membership/getting_involved/buying_stuff.md#consumables).  Damaged and broken belts/discs should be reported to the Woodwork Team so that replacements can be acquired asap.  If members wish they can buy specific belts/discs for the machine using the following dimensions:
 
 - Belt Length = 915mm (36")
 - Belt Width = 100mm (4")
@@ -28,7 +28,7 @@ As standard the space stocks replacement sanding belts and discs for this machin
 #### Triton - TSPS450
 *~ Write description & features ~*
 
-As standard the space stocks replacement sanding drums for this machine, listed on the consumables page.  Damaged and broken drums should be reported to the Woodwork Team so that replacements can be acquired asap.  If members wish they can buy specialised drums for the machine using the following dimensions:
+As standard the space stocks replacement sanding drums for this machine, as listed on the [consumables list](../../../membership/getting_involved/buying_stuff.md#consumables).  Damaged and broken drums should be reported to the Woodwork Team so that replacements can be acquired asap.  If members wish they can buy specialised drums for the machine using the following dimensions:
 
 - Drum Diameters = 13, 19, 26, 38, 51 & 76mm
 - Drum Length = 115mm

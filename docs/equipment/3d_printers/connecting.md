@@ -2,7 +2,7 @@
 
 The information on this page is intended for inducted HacMan members who want to set up their own computer to connect to the printers. Your computer must be connected to the Hackspace Wi-Fi or wired network.
 
-**The printer's screen is the source of truth.** The codes and keys below are retained as examples from earlier working connections; they are not a promise of the current value. If one stops working, read the current value from the correct printer using the instructions below and update the connection on your own computer. You do not need to wait for someone to update this page.
+The codes below are examples and may have changed. If a code does not work, follow the steps below to find the current one on the printer, then enter it on your computer. Please leave the printer's code unchanged.
 
 /// warning | Read the code — please do not change it
 These are shared printers. Changing a code disconnects other members and the workshop computers. **Do not press the circular refresh arrow beside a Bambu access code, or select Generate Password on a Prusa.** Reading the displayed value is enough. Leave LAN mode, Wi-Fi, PrusaLink and account settings as they are; do not reset a printer or bind it to a personal account to fix a login problem. If a setting needs changing, ask the 3D printing team.
@@ -30,13 +30,8 @@ Use the rotary knob to highlight menu entries and press it to open them.
 **Leave Generate Password alone.** It creates a different password; it is not needed to reveal or copy the existing one. If PrusaLink is disabled or the menu looks unfamiliar, ask the team instead of changing the settings.
 
 <figure markdown="1">
-  ![Prusa MK4 Network menu with PrusaLink at the top and IPv4 Address highlighted](images/connection-prusa-mk4-network.jpeg)
-  <figcaption>First open Settings &gt; Network. Read IPv4 Address, then open PrusaLink. Manufacturer illustration from <a href="https://help.prusa3d.com/guide/sending-files-from-prusaslicer-to-prusalink_222961#417427">Prusa's credential guide</a>; its example address is not a HacMan printer address.</figcaption>
-</figure>
-
-<figure markdown="1">
   ![PrusaLink screen showing User and Password below the Generate Password control, which must be left alone](images/connection-prusa-mk4-prusalink.jpeg)
-  <figcaption>Read User and Password. Do not select Generate Password above them. Image: Prusa Research; the pictured password is an example, not a HacMan key.</figcaption>
+  <figcaption>The blue arrows point to User and Password. Read those two values; leave Generate Password alone. Image: <a href="https://help.prusa3d.com/guide/sending-files-from-prusaslicer-to-prusalink_222961#417427">Prusa Research</a>. The pictured password is an example, not a HacMan key.</figcaption>
 </figure>
 
 ### Add a physical printer to PrusaSlicer
@@ -99,7 +94,7 @@ This can be used to upload correctly prepared G-code without configuring PrusaSl
 
 <figure markdown="1">
   ![Bambu touchscreen LAN Only page showing the IP address and Access Code, with a circular refresh arrow to the right of the code](images/connection-bambu-touchscreen-access-code.jpg)
-  <figcaption>Bambu Lab uses this touchscreen illustration in its <a href="https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode#h2-series-p2s-x-series-printers">H2/P2S/X-series instructions</a>. Read Access Code; leave the arrow and switches alone. The pictured values are manufacturer examples. Layout and wording can vary with firmware.</figcaption>
+  <figcaption>The red box surrounds IP and Access Code. Read the code beside Access Code; do not tap the circular arrow to its right. Image: <a href="https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode#connect-to-the-printer-using-the-access-code-and-ip">Bambu Lab's LAN connection guide</a>. Its example values are blurred. Layout and wording can vary with firmware.</figcaption>
 </figure>
 
 ## Connect Bambu Studio
@@ -125,7 +120,8 @@ Routine code changes do not require a documentation update: members can read the
 ## Manufacturer references
 
 - [Bambu Lab: LAN mode and finding the access code (P1P/P1S and H2/P2S/X series)](https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode)
+- [Bambu Lab: P2S screen operation guide](https://wiki.bambulab.com/en/p2s/manual/screen-operation)
 - [Bambu Lab P2S user manual, section 7.3.1, page 68](https://csm.bblcdn.com/hub/9425242c00344b0e801b6179f9a243aa.pdf#page=69)
 - [Prusa: credentials on the MK4/XL printer](https://help.prusa3d.com/guide/sending-files-from-prusaslicer-to-prusalink_222961#417427)
 
-The manufacturer guides also describe initial setup. HacMan printers are already configured: follow the read-only lookup steps above and leave setup, code generation and network changes to maintainers. Manufacturer references checked 21 October 2026.
+The manufacturer guides also describe initial setup. HacMan printers are already configured: follow the read-only lookup steps above and leave setup, code generation and network changes to maintainers. Manufacturer references checked 30 October 2026.

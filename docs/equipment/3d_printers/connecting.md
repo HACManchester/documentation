@@ -93,7 +93,7 @@ This can be used to upload correctly prepared G-code without configuring PrusaSl
 **Do not tap the circular refresh arrow next to Access Code.** Do not toggle **LAN Only**, **LAN Only Liveview** or **Developer Mode** while looking for the code. If the page or code is unavailable, ask the team rather than changing modes.
 
 <figure markdown="1">
-  ![Bambu touchscreen LAN Only page showing the IP address and Access Code, with a circular refresh arrow to the right of the code](images/connection-bambu-touchscreen-access-code.jpg)
+  ![Bambu touchscreen LAN Only page with a red box around IP and Access Code, and no Developer Mode row](images/connection-bambu-lan-ip-access-code.jpg)
   <figcaption>The red box surrounds IP and Access Code. Read the code beside Access Code; do not tap the circular arrow to its right. Image: <a href="https://wiki.bambulab.com/en/knowledge-sharing/enable-lan-mode#connect-to-the-printer-using-the-access-code-and-ip">Bambu Lab's LAN connection guide</a>. Its example values are blurred. Layout and wording can vary with firmware.</figcaption>
 </figure>
 

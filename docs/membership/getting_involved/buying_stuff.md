@@ -80,17 +80,13 @@ The authoring member may contact the board on board@hacman.org.uk if they would 
 All purchases should be made within 90 days of approval, unless otherwise agreed. Proposals that are not purchased within this timeframe will be considered abandoned, and may not be reimbursed. This is to ensure the Hackspace does not have money ‘locked up’ in stale proposals.
 
 # Consumables
-Hackspace Manchester aims to maintain a small stock of consumables within the Hackspace for members to use. There is a central list of pre-approved consumables which can be found at the link below, alongside the pre-approved cost, recommended suppliers, and permitted purchasers.
+The Hackspace keeps a small stock of consumables for members to use. The [consumables list](https://docs.google.com/spreadsheets/d/1AOO55t0vs3c4PiPQu42w1USbfekBcNd9CSx9lppWmmY/edit?usp=sharing) sets out each pre-approved item, its price (including VAT), recommended suppliers and permitted purchaser.
 
-[Link to consumables list](https://docs.google.com/spreadsheets/d/1AOO55t0vs3c4PiPQu42w1USbfekBcNd9CSx9lppWmmY/edit?usp=sharing)
-
-For items that list “Members” as the permitted purchaser, members can purchase and replenish the Hackspace’s supplies of this item and request reimbursement using the “Request Reimbursement” form linked later in this document. For items listing “Area Coordinator” or “Board” as the permitted purchaser, only members within those groups may purchase the item.
-
-The prices are listed inclusive of VAT, where relevant, and we allow up to 10% overspend on the pre-approved price to account for variations in price over time or amortisation of additional costs, such as delivery fees.
-
-The consumables list is intended for small and frequent replenishment of our consumable supplies. If we need a significant restock of a particular set of consumables (in either quantity or cost) please email board@hacman.org.uk before purchasing. In some circumstances, the board might request a purchase proposal to be raised instead to enable discussion and transparency around significant spends.
-
-Any item can apply to become a consumable with the support of the board OR by a majority vote at any members meeting. Items can be later withdrawn from the list by majority vote at members meeting or by the board at their own discretion; this must be recorded in the published minutes or in a forum post with a stated reason for removal.
+* **Who can buy:** if the permitted purchaser is "Members", any member can restock the item and [claim reimbursement](#reimbursement). Items marked "Area Coordinator" or "Board" may only be bought by those groups.
+* **Price:** up to 10% over the listed price is allowed, to cover price changes or delivery fees.
+* **Large restocks:** the list is for small, frequent top-ups. Email board@hacman.org.uk before a significant restock; the board may ask for a purchase proposal instead.
+* **Adding items:** request additions in the [consumables forum thread](https://list.hacman.org.uk/t/additions-to-consumables-mega-thread/5471). Items are added with board support or a majority vote at a members meeting.
+* **Removing items:** by majority vote at a members meeting or at the board's discretion, with the reason recorded in published minutes or a forum post.
 
 ## Reimbursement
 Fill in this [Google form](https://forms.gle/NAwY9UQmAdEzJJzQ7), providing your proof of purchase within 90 days of the proposal being approved. You can expect reimbursement within 30 days of submission. In circumstances where the member does not have sufficient funds to make the purchase themselves, they should make a request for purchase via board@hacman.org.uk.

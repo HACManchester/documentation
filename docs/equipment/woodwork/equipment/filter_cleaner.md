@@ -75,8 +75,8 @@ The dust bin
 The screen turns red and the buzzer beeps every few seconds.
 
 1.	Switch the extraction **off**.
-2.	Take the dust bin out and empty it.
-3.	Put it back, pushed fully home. The screen should show **BIN OK**.
+2.	Unscrew the dust bin from under the filter and empty it.
+3.	Screw it back on until the two lines line up. The screen should show **BIN OK**.
 4.	If the screen then says **Clean due: PRESS START**, press **START**.
 
 Busy and can't do it now? **STOP** silences the alarm for 15 minutes. Please tell someone or post in the [Woodwork chat](https://t.me/HACManchester/200505) if you leave it. Cleans wait until the bin's emptied, so the filter clogs if it's left.
@@ -85,7 +85,7 @@ Busy and can't do it now? **STOP** silences the alarm for 15 minutes. Please tel
 
 ![Dust bin missing screen](images/filter_cleaner_no_bin.png){ width="320" }
 
-The extraction is running with the bin out, so the dust is going on the floor. The screen flashes, the buzzer beeps non-stop, and STOP won't silence it. **Switch the extraction off, or put the bin back.** That's all it takes to stop it.
+The extraction is running with the bin out, so the dust is going on the floor. The screen flashes, the buzzer beeps non-stop, and STOP won't silence it. **Switch the extraction off, or screw the bin back on.** That's all it takes to stop it.
 
 ### Bin out, clean held and clean due {#bin-out}
 
@@ -93,8 +93,8 @@ The extraction is running with the bin out, so the dust is going on the floor. T
 ![Clean held](images/filter_cleaner_clean_held.png){ width="240" }
 ![Clean due](images/filter_cleaner_clean_due.png){ width="240" }
 
--	**BIN OUT**: put the dust bin back.
--	**CLEAN HELD**: a clean was due, but the bin was full or out, so it waited. Empty or refit the bin.
+-	**BIN OUT**: screw the dust bin back on, with the two lines lined up.
+-	**CLEAN HELD**: a clean was due, but the bin was full or out, so it waited. Empty the bin, or screw it back on.
 -	**CLEAN DUE: PRESS START**: the bin's back and empty. Press **START** to do the clean that was waiting. (If nobody does, it happens after the next time the extraction is used.)
 
 If something's wrong
@@ -211,5 +211,5 @@ Safety
 
 -	Keep hands clear of the cleaning motor and linkage while the screen says **CLEANING IN...** or **CLEANING**.
 -	Switch the filter cleaner off before clearing a jam or reaching into the linkage.
--	Switch the extraction off before taking the dust bin out.
+-	Switch the extraction off before unscrewing the dust bin.
 -	The usual dust extraction rules apply: see [Dust Extraction](../training/dust_extraction.md).

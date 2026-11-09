@@ -153,13 +153,26 @@ For whoever looks after it
 
 On the **Ready** screen, hold **STOP** for 3 seconds and let go. The info screen shows whether it's on the Wi-Fi, the address of the status page, the clamp readings (live), how long it's been up, why it last restarted, and the firmware it's running. It closes after a minute, or when you press either button.
 
-**Setting the clamp threshold:** watch **Clamp swing** with the extraction off, then on. `CT_THRESHOLD_MV` in the sketch wants to sit well between the two (the swing turns amber when it's above the threshold). **Clamp level** should say OK; FAULT means a lead's loose.
+**Setting the clamp threshold:** watch **Clamp swing** with the extraction off, then on. **Extraction counts as ON above** on the admin page wants to sit well between the two (the swing turns amber when it's above the threshold). **Clamp level** should say OK; FAULT means a lead's loose.
 
 ### Status page
 
-On the Hackspace Wi-Fi, open **http://filtercleaner.local/**, or the IP address on the info screen (it's also in the "online" alert it sends each time it starts). It shows what the screen is showing, the extraction and clamp readings, the bin, clean counts, how long it's been up, why it last restarted, the Wi-Fi signal, and the black box. It refreshes every 10 seconds. It can only show things: nothing on it can start the motor. There's also **/status.json** for anything that wants to read it.
+On the Hackspace Wi-Fi, open **http://filtercleaner.local/**, or the IP address on the info screen (it's also in the "online" alert it sends each time it starts). It shows what the screen is showing, the extraction and clamp readings, the bin, clean counts, how long it's been up, why it last restarted, the Wi-Fi signal, and the black box. It refreshes every 10 seconds. It can only show things: nothing on it can start the motor. There's also **/status.json** for anything that wants to read it, and a link to the admin page.
 
 **/log** (linked at the bottom of the status page) is everything it has done recently, with times: extraction on and off, countdowns, each revolution of every clean with how long it took, faults, alerts and the Wi-Fi. It's in memory, so a restart clears it; the black box is kept.
+
+### Admin page
+
+For whoever looks after the cleaner. Open **http://filtercleaner.local/admin** and log in with the admin password (ask the woodwork team). It has:
+
+-	**Every setting.** The ones worth tuning can be changed there and then: the clamp threshold, the wait after switch-off, turns per clean, the jam timings, the bin alarm silence, alert delays, screen brightness and more. They're kept through power cuts and updates. Each has limits, so a typo can't stop it working, and **Back to defaults** puts them all back. The rest are shown, with a note that they need a change in the sketch.
+-	**Every count, each with its own reset:** cleans since the filter was changed, lifetime cleans, motor starts and running time, jams, extraction sessions and running time, power-ups and alerts.
+-	**Clean now, Stop, Filter changed and Restart.** Clean now counts down 15 seconds with a beep first, so anyone at the machine knows, and **STOP** on the unit cancels it. It still won't clean with the extraction on, the bin out or full, a clamp fault, or STOP held, and it can't retry a jam: someone has to clear that at the machine.
+-	**The black box and the log**, with buttons to clear them, and **firmware updates** (see below).
+
+Settings can't be changed while it's cleaning or counting down. Every change from the admin page goes in the black box. The password never crosses the Wi-Fi, and every request is signed, so nothing seen on the network can be reused. Five wrong passwords in a row lock the login for 5 minutes and send an alert. It logs you out after 30 minutes unused.
+
+If you change the wait after switch-off, the silence time or the turns per clean, the unit's own screens follow, but the laminate and this page quote the defaults.
 
 ### Alerts
 
@@ -173,11 +186,11 @@ If the Wi-Fi is down, alerts wait and go when it's back. The cleaner itself work
 
 ### Black box
 
-The last 32 faults and restarts, kept through power cuts, with the date and time (or, before the Wi-Fi has set its clock, which power-up and how long after it). It's on the status page. A restart while the motor was running is flagged: that points at the motor dragging the 12V supply down.
+The last 32 faults and restarts, kept through power cuts, with the date and time (or, before the Wi-Fi has set its clock, which power-up and how long after it), plus anything done from the admin page. It's on the status page. A restart while the motor was running is flagged: that points at the motor dragging the 12V supply down.
 
 ### New filter fitted
 
-On the **Ready** screen, hold **STOP**, then also hold **START**, and keep both held for 5 seconds. The screen says **FILTER CHANGED** and the clean count goes back to 0. The lifetime count is kept.
+On the **Ready** screen, hold **STOP**, then also hold **START**, and keep both held for 5 seconds. The screen says **FILTER CHANGED** and the clean count goes back to 0. The lifetime count is kept. (**Filter changed** on the admin page does the same.)
 
 ### Testing after a repair
 
@@ -185,14 +198,14 @@ Switch the filter cleaner off and on again, then press **START**. After a power-
 
 ### Updating the firmware
 
-The sketch is in the `FilterCleaner` folder: `FilterCleaner.ino` plus `Types.h`, `HelveticaBold.h`, `QrGuide.h`, `Net.h` and `Secrets.h`. Libraries: Adafruit GFX Library and Adafruit ST7735 and ST7789 Library.
+The sketch is in the `FilterCleaner` folder: `FilterCleaner.ino` plus `Types.h`, `HelveticaBold.h`, `QrGuide.h`, `Net.h`, `Admin.h`, `AdminPage.h`, `Sha256.h` and `Secrets.h`. Libraries: Adafruit GFX Library and Adafruit ST7735 and ST7789 Library.
 
 Board settings: **ESP32S3 Dev Module**, **USB CDC On Boot: Enabled**, **Partition Scheme: Minimal SPIFFS (1.9MB APP with OTA/128KB SPIFFS)**. The clean counts and black box survive an upload.
 
 Updates go over the Wi-Fi. (The very first upload, which sets the partition scheme and puts the Wi-Fi details on, has to be by USB.) With `OTA_PASSWORD` set in `Secrets.h`:
 
 -	From the Arduino IDE: pick the network port called **filtercleaner**.
--	From a browser: Sketch > Export Compiled Binary, then open **http://filtercleaner.local/update** (user name `admin`) and pick the `.bin`.
+-	From the admin page: Sketch > Export Compiled Binary, then on **http://filtercleaner.local/admin**, under Firmware, pick `FilterCleaner.ino.bin` (not the bootloader, partitions or merged one). The page checks it's firmware for this chip before sending it, and the cleaner checks it arrived exactly as sent before it uses it. The admin password is `ADMIN_PASSWORD` in `Secrets.h`, or `OTA_PASSWORD` if there isn't one.
 
 While an update comes in, the motor's off, cleans wait and the screen says **UPDATING FIRMWARE**. Then it restarts and sends its **online** note with the new firmware's name.
 

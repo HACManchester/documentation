@@ -17,7 +17,8 @@ What it does
 
 The filter cleaner keeps the dust extractor's filter clear. A motor turns the filter's cleaning mechanism, which knocks the dust off the filter and into the dust bin.
 
--	When the extraction has run for at least a minute and someone switches it off, the cleaner waits **1 minute**, then turns the cleaning mechanism **5 times**. That's a clean.
+-	It counts each time the extraction is used for a minute or more. After every **third** one, when someone switches the extraction off, the cleaner waits **1 minute**, then turns the cleaning mechanism **5 times**. That's a clean. Shorter runs don't count.
+-	**START** cleans at any time the extraction's off and has been used since the last clean. You don't have to wait for the third run.
 -	It **never** runs while the extraction is on. If the extraction comes back on during the wait or the clean, it stops straight away and cleans after that session instead.
 -	It won't clean into a full dust bin, or with the bin out.
 -	The extraction always works as normal. The cleaner never stops you using it.
@@ -25,7 +26,7 @@ The filter cleaner keeps the dust extractor's filter clear. A motor turns the fi
 Normally you don't need to do anything at all.
 
 /// warning | Keep hands clear of the cleaning motor
-The motor starts by itself a minute after the extraction is switched off. While the screen says **CLEANING IN...** or **CLEANING**, keep your hands away from the motor and its linkage. Press **STOP** to cancel.
+The motor can start by itself a minute after the extraction is switched off. While the screen says **CLEANING IN...** or **CLEANING**, keep your hands away from the motor and its linkage. Press **STOP** to cancel.
 ///
 
 The buttons
@@ -45,13 +46,13 @@ Everyday screens
 
 ![Ready screen](images/filter_cleaner_ready.png){ width="320" }
 
-Nothing to do. Along the bottom: how long since the last clean, the dust bin (**OK**, **FULL** or **OUT**), and the number of cleans since the filter was last changed. After a while the screen goes dark to save it. Press any button to wake it.
+Nothing to do. Under **READY** it says how many runs the extraction has had since the last clean, such as **Runs since clean: 1 of 3**. Along the bottom: how long since the last clean, the dust bin (**OK**, **FULL** or **OUT**), and the number of cleans since the filter was last changed. After a while the screen goes dark to save it. Press any button to wake it.
 
 ### Extraction running
 
 ![Extraction running screen](images/filter_cleaner_running.png){ width="320" }
 
-It has seen the extraction come on and is timing the session. Pressing START now just shows **EXTRACTION RUNNING**: it can't clean until the extraction is off.
+It has seen the extraction come on and is timing the session. The grey line says what happens when it's switched off: **Auto-clean activates 1 min after switch off** if this is the run that brings a clean, or which run this is, such as **Run 2 of 3**, if not. Pressing START now just shows **EXTRACTION RUNNING**: it can't clean until the extraction is off.
 
 ### Cleaning in...
 
@@ -165,7 +166,7 @@ On the Hackspace Wi-Fi, open **http://filtercleaner.local/**, or the IP address 
 
 For whoever looks after the cleaner. Open **http://filtercleaner.local/admin** and log in with the admin password (ask the woodwork team). It has:
 
--	**Every setting.** The ones worth tuning can be changed there and then: the clamp threshold, the wait after switch-off, turns per clean, the jam timings, the bin alarm silence, alert delays, screen brightness and more. They're kept through power cuts and updates. Each has limits, so a typo can't stop it working, and **Back to defaults** puts them all back. The rest are shown, with a note that they need a change in the sketch.
+-	**Every setting.** The ones worth tuning can be changed there and then: the clamp threshold, how long a run has to be to count and how many runs it takes before a clean, the wait after switch-off, turns per clean, the jam timings, the bin alarm silence, alert delays, screen brightness and more. They're kept through power cuts and updates. Each has limits, so a typo can't stop it working, and **Back to defaults** puts them all back. The rest are shown, with a note that they need a change in the sketch.
 -	**Every count, each with its own reset:** cleans since the filter was changed, lifetime cleans, motor starts and running time, jams, extraction sessions and running time, power-ups and alerts.
 -	**Clean now, Stop, Filter changed and Restart.** Clean now counts down 15 seconds with a beep first, so anyone at the machine knows, and **STOP** on the unit cancels it. It still won't clean with the extraction on, the bin out or full, a clamp fault, or STOP held, and it can't retry a jam: someone has to clear that at the machine.
 -	**The black box and the log**, with buttons to clear them, and **firmware updates** (see below).
@@ -180,7 +181,7 @@ When a fault has been showing for an hour (10 minutes for the no-bin alarm), the
 
 Each time it starts up and joins the Wi-Fi, it also sends a silent **online** note with its address and the firmware it's running, so after an update you can see it took. That one only goes to ntfy, not Telegram.
 
-Alerts go by [ntfy](https://ntfy.sh): install the ntfy app and subscribe to the cleaner's topic, which is in `Secrets.h` (ask the woodwork team for it; it isn't published, as anyone with it can read the alerts). They can also go to a Telegram group or topic through a bot, if a bot token and chat ID are set in `Secrets.h`.
+Alerts go by [ntfy](https://ntfy.sh): install the ntfy app and subscribe to the cleaner's topic, which is in `Secrets.h` (ask the woodwork team for it; it isn't published, as anyone with it can read the alerts). The fault alerts, and the note when each clears, can also go to a Telegram group or topic through a bot (a bot token and chat ID in `Secrets.h`), so whoever's nearest can sort them. The rest (restarts, an undone update and admin lockouts) are for whoever looks after the cleaner, so they only go to ntfy.
 
 If the Wi-Fi is down, alerts wait and go when it's back. The cleaner itself works exactly the same with no Wi-Fi at all.
 

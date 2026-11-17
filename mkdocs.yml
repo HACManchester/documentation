@@ -78,6 +78,7 @@ plugins:
         'equipment/visual_arts/equipment/laser_cutter_bluey.md': 'equipment/visual_arts/equipment/laser_cutter.md'
         'Workshop_Areas/3D-Printers/Induction.md': 'equipment/3d_printers/induction.md'
         'Workshop_Areas/3D-Printers/Overview.md': 'equipment/3d_printers/index.md'
+        'filter-cleaner.md': 'equipment/woodwork/equipment/filter_cleaner.md'
         'Workshop_Areas/3D-Printers/PrusaMK4.md': 'equipment/3d_printers/prusa_mk4.md'
         'Workshop_Areas/3D-Printers/PrusaXL4.md': 'equipment/3d_printers/index.md'
         'Workshop_Areas/CNC/Chunky CNC/Feeds and Speeds.md': 'equipment/cnc/chunky_cnc/feeds_and_speeds.md'
